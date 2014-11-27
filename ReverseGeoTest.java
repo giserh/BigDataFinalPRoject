@@ -38,7 +38,7 @@ public class ReverseGeoTest {
     public static class GetNeighborhoodName {
         public static String GetName(Double longitude, Double latitude)throws Exception{
 
-            String path = "/Users/xisu/Documents/NYU-CS/NYU-POLY/bigdata/final_project/ZillowNeighborhoods-NY/ZillowNeighborhoods-NY.shp";
+            String path = "ZillowNeighborhoods-NY.shp";
             File file = new File(path);
             if(file == null){
                 return null;
