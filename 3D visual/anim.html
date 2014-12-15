@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="d3/d3.min.js"></script>
+    <script type="text/javascript" src="3js/three.min.js"></script>
+    <script type="text/javascript" src="3js/Stats.js"></script>
+    <script type="text/javascript" src="3js/OrbitControls.js"></script>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="3js/tween.min.js"></script>
+    <style type="text/css">
+      /* No style rules here yet */   
+    </style>
+    <style>
+      body { margin: 0;}
+      canvas { width: 100%; height: 100%;}
+    </style>
+  </head>
+
+  <body>
+    <div id ="chart"></div>
+       <script type="text/javascript">
+        jQuery.getJSON('ny-sim.json', function(data, textStatus, jqXHR) {
+//        console.log("Got JSON");
+          var scene;
+          var renderer;
+          var camera;
+          var group;
+          var controls;
+          var container, stats;
+          var raycaster;
+          var mouse = new THREE.Vector2(), INTERSECTED;
+          var tweens = {};
+          var test = true;
+          var doubleClicked = null;
+
+          initScene();
+          var pickUpTotal = transformpickUpTotal(readDataSet('singlefiletotalpick.csv'));
+          var neighborDropOff = transformNeighborDropOff(readDataSet('singlefilepickdrop.csv'));
+          var neighborPickUp = transformNeighborPickUp(readDataSet('singlefilepickdrop.csv'));
+          addGeoObject(group);
+          render();
+          animate();
+          //initialExtrude();
+          //for (var i = 0; i < group.children.length; i++) console.log(group.children[i].geometry);
+
+          function initScene() {
+
+            scene = new THREE.Scene();
+            camera = new THREE.PerspectiveCamera(85, window.innerWidth / window.innerHeight, 1, 10000);
+            renderer = new THREE.WebGLRenderer({antialias:true});
+            group = new THREE.Group();
+
+            
+            camera.position.set(400, 200, 400);
+            camera.up.set(0, 0, 1);
+            camera.rotation.y = 90 * Math.PI/180;
+            camera.lookAt(scene.position)
+            scene.add(camera);
+
+
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            renderer.setClearColor(0xffffff, 1);
+            renderer.shadowMapEnabled = true;
+            //renderer.shadowMapType = THREE.PCFSoftShadowMap;
+
+            $("#chart").append(renderer.domElement);
+
+            /// ambient light
+            var ambientLight = new THREE.AmbientLight(0x404040);
+            scene.add( ambientLight );
+
+
+            /// direct light
+            var light = new THREE.DirectionalLight( 0xffffff );
+            //light.position.set( 0, 300, 400 ).normalize();
+            light.position.set(867, 500, 867);
+            light.castShadow = true;
+            light.shadowDarkness = 0.05;
+            //light.shadowCameraVisible = true;
+            scene.add( light );
+
+
+            /// direct light 2
+            var dLight = new THREE.DirectionalLight(0xffffff);
+            dLight.target.position.set(scene.position);
+            dLight.position.set(0, 500, 867);
+            dLight.castShadow = true;
+            dLight.shadowDarkness = 0.5;
+            dLight.shadowMapWidth = 2048;
+            dLight.shadowMapHeight = 2048;
+            //dLight.shadowCameraVisible = true;
+            camera.add(dLight);
+
+            /// hemispher light
+            var hemiLight = new THREE.HemisphereLight(0x0000ff, 0x00ff00, 0.5);
+            scene.add( hemiLight );
+
+            scene.add(group);
+            var helper = new THREE.GridHelper(600, 50);
+            //scene.add(helper);
+
+            var geom = new THREE.PlaneGeometry(1000, 1000);
+            var mate = new THREE.MeshBasicMaterial( {color: 0xfffff0, side: THREE.DoubleSide});
+            var plane = new THREE.Mesh(geom, mate);
+            scene.add(plane);
+            plane.receiveShadow = true;
+
+            raycaster = new THREE.Raycaster();
+
+            controls = new THREE.OrbitControls(camera);
+            controls.damping = 0.2;
+            controls.minDistance = 300;
+            controls.maxDistance = 1000;
+            controls.maxPolarAngle = 88 * (Math.PI / 180);
+            controls.minPolarAngle = 20 * (Math.PI / 180);
+            controls.addEventListener('change', render); 
+
+            
+            container = document.getElementById( 'chart' );
+            container.appendChild( renderer.domElement );
+
+            stats = new Stats();
+            stats.domElement.style.position = 'absolute';
+            stats.domElement.style.top = '0px';
+            stats.domElement.style.zIndex = 100;
+            container.appendChild( stats.domElement );
+
+            window.addEventListener('mousemove', onDocumentMouseMove, false);
+            window.addEventListener('resize', onWindowResize, false);
+            window.addEventListener('dblclick', ondblclick, false)
+
+          }
+
+          function addGeoObject(group) {
+
+            var projection = d3.geo.mercator().center([-73.92, 40.68]).scale(50000).translate([75, 0]);
+            $.each(data.features, function(i, feature) {
+              var polygons = path(projection, feature);
+              if (feature.geometry.type != 'MultiPolygon') {
+                polygons = [polygons];
+              }
+
+              $.each(polygons, function(i, poly) {
+                var shape = new THREE.Shape(poly[0]);
+
+
+                  for (var i = 0; i < shape.actions.length; i++) {
+                  var tmp = shape.actions[i].args[1];
+                  shape.actions[i].args[1] = shape.actions[i].args[0];
+                  shape.actions[i].args[0] = tmp;
+                };
+
+                extrudeAmount = 2; 
+                var geom = new THREE.ExtrudeGeometry(shape, { amount: extrudeAmount, curveSegments: shape.curves.length, bevelEnabled: false});
+
+                //var c = new THREE.Mesh(geom, new THREE.MeshLambertMaterial({ color: gradient((feature.properties.REGIONID - minnum) / scale, 255), wireframe: false, transparent: true, opacity: 0.9}));
+                var c = new THREE.Mesh(geom, new THREE.MeshLambertMaterial({ color: gradient(extrudeAmount, 255), wireframe: false, transparent: true, opacity: 0.85}));
+                c.material.fog = false;
+                c.position.x += 50;
+                c.position.y -= 40;
+                c.receiveShadow = true;
+                c.castShadow = true;
+                c.name = feature.properties.NAME;
+                c.geometry.dynamic = true;
+                //
+                c.currentHeight = 2;
+                c.currentR = 2;
+                //
+                c.tween = new TWEEN.Tween({s: 2, clr:c.currentR})
+                .easing(TWEEN.Easing.Sinusoidal.InOut).onUpdate(function() {
+                  for (var i = 0; i < c.geometry.vertices.length; i ++) {
+                    if (c.geometry.vertices[i].z != 0) {
+                       c.geometry.vertices[i].z = this.s ;
+                    }
+                  };
+                  c.geometry.verticesNeedUpdate = true;
+				  c.material.needsUpdate = true;
+                  c.geometry.computeBoundingSphere(); //To make intersection work correctly`
+                  c.currentHeight = this.s;
+                  c.currentR = this.clr;
+                });
+                if (pickUpTotal.d[feature.properties.NAME] > 0) group.add(c);
+              });
+            });
+            
+          }
+          
+          function path(proj, feature) {
+            if (feature.geometry.type == 'Polygon') {
+              return polygonPath(proj, feature.geometry.coordinates);
+            }
+            else if (feature.geometry.type == 'MultiPolygon') {
+              return multiPolygonPath(proj, feature.geometry.coordinates);
+            }
+          }
+
+          function polygonPath(proj, rings) {
+            var list = [];
+            var cur = [];
+            $.each(rings, function(i, ring) {
+              cur = [];
+              $.each(ring, function(i, coord){
+                var pts = proj(coord);
+                cur.push(new THREE.Vector2(pts[0], pts[1]));
+              });
+              list.push(cur);
+            });
+            return list;
+          }
+
+          function multiPolygonPath(proj, polys) {
+ //         console.log("In multiPolygonPath");
+            var list = [];
+            $.each(polys, function(i, poly) {
+              list.push(polygonPath(proj, poly));
+            });
+            return list;
+          }
+
+          function gradient(length, maxLength) {
+
+            var i = (length * 255 / maxLength);
+            var r = i;
+            var g = 255 - (i);
+            var b = 0;
+
+            var rgb = b | (g << 8) | (r << 16);
+
+            return rgb;
+          }
+
+          function animate(time) {
+            /*setTimeout(function() {
+              requestAnimationFrame(animate);
+            }, 1000/30); */
+            requestAnimationFrame(animate);
+            render();
+            stats.update();
+            TWEEN.update(time);
+          }
+
+          function render() {
+
+            //find intersections
+
+            var vector = new THREE.Vector3(mouse.x, mouse.y, 1).unproject(camera);
+            raycaster.set(camera.position, vector.sub(camera.position).normalize());
+            var intersects = raycaster.intersectObjects(group.children);
+            if (intersects.length > 0) {
+               if (INTERSECTED != intersects[0].object) {
+                if (INTERSECTED) {
+                  INTERSECTED.material.emissive.setHex(INTERSECTED.currentHex);
+                  INTERSECTED.material.opacity = INTERSECTED.opacity;
+                  scene.remove(INTERSECTED.children[INTERSECTED.children.length - 1]);
+                  INTERSECTED.remove(INTERSECTED.children[INTERSECTED.children.length - 1]);
+                }
+                INTERSECTED = intersects[0].object;
+                INTERSECTED.currentHex = INTERSECTED.material.emissive.getHex();
+                INTERSECTED.opacity = INTERSECTED.material.opacity;
+                INTERSECTED.material.emissive.setHex(0x2f4f4f);
+                INTERSECTED.material.opacity = 1;
+                INTERSECTED.parent.updateMatrixWorld();
+                var messages = ((doubleClicked!=null) && (INTERSECTED.name in neighborDropOff[doubleClicked.name]))?[INTERSECTED.name, 'Amount: ' + neighborDropOff[doubleClicked.name][INTERSECTED.name].toString()]:[INTERSECTED.name];
+                var textLabel = makeTextSprite (messages, 15);
+                textLabel.position.set(INTERSECTED.geometry.boundingSphere.center.x, INTERSECTED.geometry.boundingSphere.center.y, 200);
+                //textLabel.position.set(0, 0, 250);
+                INTERSECTED.children.push(textLabel);
+                scene.add(INTERSECTED.children[INTERSECTED.children.length - 1]); 
+                             
+              }
+            } else {
+              if (INTERSECTED) {
+                INTERSECTED.material.emissive.setHex(INTERSECTED.currentHex);
+                INTERSECTED.material.opacity = INTERSECTED.opacity;
+                scene.remove(INTERSECTED.children[INTERSECTED.children.length - 1]);
+                INTERSECTED.remove(INTERSECTED.children[INTERSECTED.children.length - 1]);
+              }
+
+              INTERSECTED = null;
+            }
+            
+            renderer.render(scene, camera);
+          }
+
+          function initialExtrude() {
+            for (var i = 0; i < group.children.length; i ++) {
+              group.children[i].tween.start();
+            }
+          }
+
+          function onWindowResize() {
+
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+
+            renderer.setSize(window.innerWidth, window.innerHeight);
+
+            render();
+
+          }
+
+          function onDocumentMouseMove(event) {
+            event.preventDefault();
+
+            mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+            mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+
+          }
+
+          function ondblclick(event) {
+            event.preventDefault();
+            if (INTERSECTED != null) {
+              doubleClicked = INTERSECTED;
+              if (test) {
+              	var maxValue = Math.log(Math.max.apply(Math, Object.keys(neighborDropOff[INTERSECTED.name]).map(function(e) {return neighborDropOff[INTERSECTED.name][e];})))/Math.log(2);
+                for (var i = 0; i < group.children.length; i++) {
+                  var obj = group.children[i];
+                  if (obj.name in neighborDropOff[INTERSECTED.name]) {
+                    obj.tween.to({s: Math.log(neighborDropOff[INTERSECTED.name][obj.name])/Math.log(2)*20 + 2, clr: Math.log(neighborDropOff[INTERSECTED.name][obj.name])/Math.log(2)*255/maxValue}, 800).start(); 
+                    obj.currentHeight = neighborDropOff[INTERSECTED.name][obj.name];
+                    obj.currentR = Math.log(neighborDropOff[INTERSECTED.name][obj.name])/Math.log(2)*255/maxValue;
+                    obj.material = new THREE.MeshLambertMaterial({color:gradient(obj.currentR, 255), transparent:true, opacity:0.85});
+                  }
+                  else {
+                    obj.tween.to({s: 2, clr:0}).start();
+                    obj.currentHeight = 2;
+                    obj.currentR = 0;
+                    obj.material = new THREE.MeshLambertMaterial({color:gradient(obj.currentR, 255), transparent:true, opacity:0.85});
+                  }
+                };
+              }
+
+              else {
+                INTERSECTED.tween.start();
+              }
+            }
+          }
+
+          function makeTextSprite(messages, fontsize)
+          {
+            
+            var fontface = "Arial";
+            var borderThickness = 3;
+            var borderColor = { r:0, g:0, b:0, a:1.0 };
+            var backgroundColor = { r:200, g:200, b:200, a:0.5 };
+            var spriteAlignment = 1; //topLeft
+              
+            var canvas = document.createElement('canvas');
+            var context = canvas.getContext('2d');
+            context.font = "Bold " + fontsize + "px " + fontface;
+
+            
+            // get size data (height depends only on font size)
+            var maxWidth = 0;
+            for (var i = 0; i < messages.length; i ++) {
+              if (context.measureText(messages[i]).width > maxWidth) maxWidth = context.measureText(messages[i]).width;
+            }
+                      
+            // background color
+            context.fillStyle   = "rgba(" + backgroundColor.r + "," + backgroundColor.g + ","
+                            + backgroundColor.b + "," + backgroundColor.a + ")";
+            // border color
+            context.strokeStyle = "rgba(" + borderColor.r + "," + borderColor.g + ","
+                            + borderColor.b + "," + borderColor.a + ")";
+            context.lineWidth = borderThickness;
+            roundRect(context, borderThickness/2, borderThickness/2, maxWidth + borderThickness * 3, (fontsize + borderThickness + 5) * messages.length, 6);
+            // 1.4 is extra height factor for text below baseline: g,j,p,q.
+            
+            // text color
+            context.fillStyle = "rgba(0, 0, 0, 1.0)";
+            for (var i = 0; i < messages.length; i++) {
+              context.fillText(messages[i], borderThickness + 2, fontsize * (1 + i) + borderThickness);
+            }
+            
+            // canvas contents will be used for a texture
+            var texture = new THREE.Texture(canvas) 
+            texture.needsUpdate = true;
+            var spriteMaterial = new THREE.SpriteMaterial( 
+              { map: texture, useScreenCoordinates: false, alignment: spriteAlignment } );
+            var sprite = new THREE.Sprite( spriteMaterial );
+            sprite.scale.set(150,75,1.0);
+            return sprite;        
+          }
+          function roundRect(ctx, x, y, w, h, r) 
+          {
+              ctx.beginPath();
+              ctx.moveTo(x+r, y);
+              ctx.lineTo(x+w-r, y);
+              ctx.quadraticCurveTo(x+w, y, x+w, y+r);
+              ctx.lineTo(x+w, y+h-r);
+              ctx.quadraticCurveTo(x+w, y+h, x+w-r, y+h);
+              ctx.lineTo(x+r, y+h);
+              ctx.quadraticCurveTo(x, y+h, x, y+h-r);
+              ctx.lineTo(x, y+r);
+              ctx.quadraticCurveTo(x, y, x+r, y);
+              ctx.closePath();
+              ctx.fill();
+              ctx.stroke();   
+          }
+          function readDataSet(fileurl) {
+            var pickUpTotal = [];
+            $.ajax({
+              dataType: "text",
+              url: fileurl,
+              async: false,
+              success: function(data) {
+                var content = data.split("\n");
+                var fields = content[0].split(",");
+                content = content.slice(1, content.length - 1);
+                content.forEach(function(element) {
+                  var tmp = element.split(",");
+                  var newobj = {};
+                  for (i in tmp) newobj[fields[i]] = tmp[i];
+                  pickUpTotal.push(newobj);
+                });
+              }
+            });
+            return pickUpTotal;
+          }
+
+          function transformpickUpTotal(pickUpTotal) {
+            var dataObj = {};
+            dataObj.d = {};
+            dataObj.max = 0
+            var max = 0;
+            pickUpTotal.forEach(function(obj) {
+              dataObj.d[obj.NAME] = parseInt(obj.NUMBER);
+              if (obj.NUMBER - dataObj.max > 0) dataObj.max = obj.NUMBER;
+            });
+            return dataObj;
+          }
+
+          function transformNeighborDropOff(neighborTotal) {
+            var dataObj = {};
+            neighborTotal.forEach(function(obj) {
+              if (!(obj.PICKUP in dataObj)) dataObj[obj.PICKUP] = {};
+              dataObj[obj.PICKUP][obj.DROPOFF] = parseInt(obj.NUMBER);
+            });
+            return dataObj;
+          }
+          
+          function transformNeighborPickUp(neighborTotal) {
+            var dataObj = {};
+            neighborTotal.forEach(function(obj) {
+              if (!(obj.DROPOFF in dataObj)) dataObj[obj.DROPOFF] = {};
+              dataObj[obj.DROPOFF][obj.PICKUP] = parseInt(obj.NUMBER);
+            });
+            return dataObj;
+          }
+        });
+ 
+      
+    </script>
+  </body>
+</html>

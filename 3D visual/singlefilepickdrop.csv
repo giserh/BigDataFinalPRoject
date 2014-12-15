@@ -1,0 +1,4301 @@
+PICKUP,DROPOFF,NUMBER
+Astoria-Long Island City,Astoria-Long Island City,4246	
+Astoria-Long Island City,Auburndale,6	
+Astoria-Long Island City,Battery Park,19	
+Astoria-Long Island City,Bay Ridge,7	
+Astoria-Long Island City,Bedford Park,6	
+Astoria-Long Island City,Bedford-Stuyvesant,39	
+Astoria-Long Island City,Bensonhurst,2	
+Astoria-Long Island City,Boerum Hill,15	
+Astoria-Long Island City,Borough Park,8	
+Astoria-Long Island City,Brownsville,1	
+Astoria-Long Island City,Bushwick,23	
+Astoria-Long Island City,Canarsie,2	
+Astoria-Long Island City,Carnegie Hill,29	
+Astoria-Long Island City,Carroll Gardens,12	
+Astoria-Long Island City,Central Park,86	
+Astoria-Long Island City,Chelsea,132	
+Astoria-Long Island City,Chinatown,7	
+Astoria-Long Island City,Clearview,7	
+Astoria-Long Island City,Clinton,98	
+Astoria-Long Island City,Cobble Hill,2	
+Astoria-Long Island City,Douglastown-Little Neck,3	
+Astoria-Long Island City,Downtown,14	
+Astoria-Long Island City,Dyker Heights,2	
+Astoria-Long Island City,East Brooklyn,8	
+Astoria-Long Island City,East Harlem,45	
+Astoria-Long Island City,East Village,127	
+Astoria-Long Island City,Financial District,76	
+Astoria-Long Island City,Flushing,36	
+Astoria-Long Island City,Fordham,3	
+Astoria-Long Island City,Forest Hills,67	
+Astoria-Long Island City,Fort Green,49	
+Astoria-Long Island City,Garment District,193	
+Astoria-Long Island City,Glendale,8	
+Astoria-Long Island City,Gramercy,320	
+Astoria-Long Island City,Gravesend-Sheepshead Bay,4	
+Astoria-Long Island City,Greenwich Village,103	
+Astoria-Long Island City,Greenwood,4	
+Astoria-Long Island City,Hamilton Heights,26	
+Astoria-Long Island City,Harlem,74	
+Astoria-Long Island City,High Bridge,11	
+Astoria-Long Island City,Hunts Point,5	
+Astoria-Long Island City,Inwood,6	
+Astoria-Long Island City,Jackson Heights,305	
+Astoria-Long Island City,Jamaica,12	
+Astoria-Long Island City,Kings Bridge,3	
+Astoria-Long Island City,Little Italy,11	
+Astoria-Long Island City,Lower East Side,90	
+Astoria-Long Island City,Mapleton-Flatlands,9	
+Astoria-Long Island City,Maspeth,35	
+Astoria-Long Island City,Middle Village,19	
+Astoria-Long Island City,Midtown,758	
+Astoria-Long Island City,Morningside Heights,29	
+Astoria-Long Island City,Morris Heights,1	
+Astoria-Long Island City,Morris Park,5	
+Astoria-Long Island City,Mott Haven,18	
+Astoria-Long Island City,Murray Hill,157	
+Astoria-Long Island City,Nkew Gardens,27	
+Astoria-Long Island City,North Sutton Area,135	
+Astoria-Long Island City,Park Slope,20	
+Astoria-Long Island City,Parkchester,6	
+Astoria-Long Island City,Queens Village,1	
+Astoria-Long Island City,Queensboro Hill,14	
+Astoria-Long Island City,Ridgewood,25	
+Astoria-Long Island City,Saintalbans,2	
+Astoria-Long Island City,Soho,56	
+Astoria-Long Island City,Soundview,4	
+Astoria-Long Island City,South Bronx,17	
+Astoria-Long Island City,Spuyten Duyvil,1	
+Astoria-Long Island City,Steinway,1	
+Astoria-Long Island City,Sunny Side,601	
+Astoria-Long Island City,Sunset Park,4	
+Astoria-Long Island City,Throggs Neck,3	
+Astoria-Long Island City,Tremont,5	
+Astoria-Long Island City,Tribeca,28	
+Astoria-Long Island City,Union Port,3	
+Astoria-Long Island City,University Heights,2	
+Astoria-Long Island City,Upper East Side,882	
+Astoria-Long Island City,Upper West Side,208	
+Astoria-Long Island City,Utopia,15	
+Astoria-Long Island City,Wakefield-Williamsbridge,1	
+Astoria-Long Island City,Washington Heights,58	
+Astoria-Long Island City,West Village,41	
+Astoria-Long Island City,Williamsburg,84	
+Astoria-Long Island City,Woodhaven-Richmond Hill,14	
+Astoria-Long Island City,Woodlawn-Nordwood,2	
+Astoria-Long Island City,Woodside,197	
+Astoria-Long Island City,Yorkville,89	
+Auburndale,Astoria-Long Island City,1	
+Auburndale,Auburndale,3	
+Auburndale,Carnegie Hill,1	
+Auburndale,Clearview,1	
+Auburndale,Flushing,1	
+Auburndale,Harlem,1	
+Auburndale,Jackson Heights,1	
+Auburndale,Maspeth,1	
+Auburndale,Middle Village,1	
+Auburndale,Queensboro Hill,1	
+Auburndale,Utopia,1	
+Battery Park,Astoria-Long Island City,20	
+Battery Park,Battery Park,730	
+Battery Park,Bay Ridge,14	
+Battery Park,Bedford-Stuyvesant,8	
+Battery Park,Bensonhurst,12	
+Battery Park,Boerum Hill,16	
+Battery Park,Borough Park,11	
+Battery Park,Brownsville,5	
+Battery Park,Bushwick,9	
+Battery Park,Canarsie,1	
+Battery Park,Carnegie Hill,39	
+Battery Park,Carroll Gardens,32	
+Battery Park,Central Park,73	
+Battery Park,Chelsea,1583	
+Battery Park,Chinatown,118	
+Battery Park,Clinton,594	
+Battery Park,Cobble Hill,15	
+Battery Park,Country Club,1	
+Battery Park,Douglastown-Little Neck,1	
+Battery Park,Downtown,78	
+Battery Park,Dyker Heights,5	
+Battery Park,East Brooklyn,1	
+Battery Park,East Harlem,6	
+Battery Park,East Village,339	
+Battery Park,Financial District,1306	
+Battery Park,Flushing,3	
+Battery Park,Forest Hills,15	
+Battery Park,Fort Green,46	
+Battery Park,Garment District,746	
+Battery Park,Glendale,1	
+Battery Park,Gramercy,887	
+Battery Park,Gravesend-Sheepshead Bay,21	
+Battery Park,Greenwich Village,745	
+Battery Park,Greenwood,7	
+Battery Park,Hamilton Heights,7	
+Battery Park,Harlem,21	
+Battery Park,High Bridge,2	
+Battery Park,Inwood,4	
+Battery Park,Jackson Heights,12	
+Battery Park,Jamaica,3	
+Battery Park,Kings Bridge,2	
+Battery Park,Little Italy,121	
+Battery Park,Lower East Side,418	
+Battery Park,Mapleton-Flatlands,13	
+Battery Park,Maspeth,3	
+Battery Park,Middle Village,3	
+Battery Park,Midtown,2324	
+Battery Park,Morningside Heights,24	
+Battery Park,Morris Heights,1	
+Battery Park,Morris Park,2	
+Battery Park,Mott Haven,1	
+Battery Park,Murray Hill,484	
+Battery Park,Nkew Gardens,4	
+Battery Park,North Sutton Area,61	
+Battery Park,Park Slope,61	
+Battery Park,Parkchester,1	
+Battery Park,Queensboro Hill,1	
+Battery Park,Ridgewood,2	
+Battery Park,Riverdale,4	
+Battery Park,Soho,954	
+Battery Park,Soundview,1	
+Battery Park,South Bronx,1	
+Battery Park,Spuyten Duyvil,1	
+Battery Park,Sunny Side,15	
+Battery Park,Sunset Park,5	
+Battery Park,The Rockaways,1	
+Battery Park,Throggs Neck,1	
+Battery Park,Tremont,4	
+Battery Park,Tribeca,1381	
+Battery Park,University Heights,1	
+Battery Park,Upper East Side,699	
+Battery Park,Upper West Side,505	
+Battery Park,Utopia,7	
+Battery Park,Washington Heights,22	
+Battery Park,West Village,920	
+Battery Park,Williams Bridge,1	
+Battery Park,Williamsburg,61	
+Battery Park,Woodhaven-Richmond Hill,1	
+Battery Park,Woodside,8	
+Battery Park,Yorkville,39	
+Bay Ridge,Bay Ridge,24	
+Bay Ridge,Bensonhurst,7	
+Bay Ridge,Borough Park,4	
+Bay Ridge,Carroll Gardens,3	
+Bay Ridge,Chelsea,6	
+Bay Ridge,Dyker Heights,4	
+Bay Ridge,Fort Green,1	
+Bay Ridge,Gramercy,3	
+Bay Ridge,Gravesend-Sheepshead Bay,5	
+Bay Ridge,Greenwood,1	
+Bay Ridge,Lower East Side,1	
+Bay Ridge,Mapleton-Flatlands,4	
+Bay Ridge,Midtown,4	
+Bay Ridge,Park Slope,2	
+Bay Ridge,Sunset Park,9	
+Bay Ridge,Upper East Side,3	
+Bay Ridge,Woodside,1	
+Baychester,Baychester,1	
+Baychester,Woodlawn-Nordwood,1	
+Baychester,Yorkville,1	
+Bedford Park,Bedford Park,37	
+Bedford Park,Central Park,1	
+Bedford Park,East Harlem,3	
+Bedford Park,Fordham,3	
+Bedford Park,Gramercy,2	
+Bedford Park,Hamilton Heights,1	
+Bedford Park,High Bridge,1	
+Bedford Park,Inwood,1	
+Bedford Park,Kings Bridge,3	
+Bedford Park,Morris Heights,1	
+Bedford Park,Mott Haven,1	
+Bedford Park,Murray Hill,1	
+Bedford Park,Riverdale,2	
+Bedford Park,South Bronx,2	
+Bedford Park,Spuyten Duyvil,1	
+Bedford Park,Sunset Park,1	
+Bedford Park,Tremont,1	
+Bedford Park,University Heights,1	
+Bedford Park,Wakefield-Williamsbridge,1	
+Bedford Park,Washington Heights,1	
+Bedford Park,Woodlawn-Nordwood,2	
+Bedford-Stuyvesant,Astoria-Long Island City,10	
+Bedford-Stuyvesant,Battery Park,1	
+Bedford-Stuyvesant,Bedford-Stuyvesant,218	
+Bedford-Stuyvesant,Boerum Hill,3	
+Bedford-Stuyvesant,Borough Park,3	
+Bedford-Stuyvesant,Brownsville,11	
+Bedford-Stuyvesant,Bushwick,19	
+Bedford-Stuyvesant,Canarsie,4	
+Bedford-Stuyvesant,Carroll Gardens,8	
+Bedford-Stuyvesant,Central Park,3	
+Bedford-Stuyvesant,Chelsea,8	
+Bedford-Stuyvesant,Chinatown,3	
+Bedford-Stuyvesant,Clinton,4	
+Bedford-Stuyvesant,Cobble Hill,3	
+Bedford-Stuyvesant,Downtown,6	
+Bedford-Stuyvesant,East Brooklyn,6	
+Bedford-Stuyvesant,East Harlem,1	
+Bedford-Stuyvesant,East Village,13	
+Bedford-Stuyvesant,Financial District,3	
+Bedford-Stuyvesant,Flatbush,1	
+Bedford-Stuyvesant,Fordham,1	
+Bedford-Stuyvesant,Forest Hills,2	
+Bedford-Stuyvesant,Fort Green,86	
+Bedford-Stuyvesant,Garment District,10	
+Bedford-Stuyvesant,Glendale,2	
+Bedford-Stuyvesant,Gramercy,2	
+Bedford-Stuyvesant,Greenwich Village,9	
+Bedford-Stuyvesant,Greenwood,2	
+Bedford-Stuyvesant,Hamilton Heights,2	
+Bedford-Stuyvesant,Harlem,3	
+Bedford-Stuyvesant,Jackson Heights,1	
+Bedford-Stuyvesant,Jamaica,1	
+Bedford-Stuyvesant,Laurelton,2	
+Bedford-Stuyvesant,Little Italy,3	
+Bedford-Stuyvesant,Lower East Side,26	
+Bedford-Stuyvesant,Mapleton-Flatlands,7	
+Bedford-Stuyvesant,Midtown,12	
+Bedford-Stuyvesant,Mott Haven,1	
+Bedford-Stuyvesant,Murray Hill,2	
+Bedford-Stuyvesant,Nkew Gardens,1	
+Bedford-Stuyvesant,Park Slope,17	
+Bedford-Stuyvesant,Ridgewood,2	
+Bedford-Stuyvesant,Soho,8	
+Bedford-Stuyvesant,South Bronx,1	
+Bedford-Stuyvesant,Sunny Side,5	
+Bedford-Stuyvesant,Sunset Park,3	
+Bedford-Stuyvesant,Tribeca,4	
+Bedford-Stuyvesant,Upper East Side,12	
+Bedford-Stuyvesant,Upper West Side,3	
+Bedford-Stuyvesant,Utopia,1	
+Bedford-Stuyvesant,Washington Heights,1	
+Bedford-Stuyvesant,West Village,6	
+Bedford-Stuyvesant,Williams Bridge,1	
+Bedford-Stuyvesant,Williamsburg,78	
+Bedford-Stuyvesant,Woodhaven-Richmond Hill,1	
+Bedford-Stuyvesant,Woodside,1	
+Bedford-Stuyvesant,Yorkville,3	
+Bensonhurst,Bensonhurst,5	
+Bensonhurst,Borough Park,1	
+Bensonhurst,Canarsie,1	
+Bensonhurst,Chelsea,1	
+Bensonhurst,East Village,1	
+Bensonhurst,Financial District,1	
+Bensonhurst,Fort Green,1	
+Bensonhurst,Gramercy,2	
+Bensonhurst,Gravesend-Sheepshead Bay,3	
+Bensonhurst,Mapleton-Flatlands,1	
+Bensonhurst,Midtown,3	
+Bensonhurst,Upper West Side,1	
+Boerum Hill,Astoria-Long Island City,12	
+Boerum Hill,Battery Park,10	
+Boerum Hill,Bay Ridge,23	
+Boerum Hill,Bedford Park,1	
+Boerum Hill,Bedford-Stuyvesant,99	
+Boerum Hill,Bensonhurst,4	
+Boerum Hill,Boerum Hill,134	
+Boerum Hill,Borough Park,21	
+Boerum Hill,Brownsville,5	
+Boerum Hill,Bushwick,31	
+Boerum Hill,Canarsie,3	
+Boerum Hill,Carroll Gardens,137	
+Boerum Hill,Central Park,3	
+Boerum Hill,Chelsea,66	
+Boerum Hill,Chinatown,18	
+Boerum Hill,Clinton,18	
+Boerum Hill,Cobble Hill,48	
+Boerum Hill,Downtown,129	
+Boerum Hill,Dyker Heights,3	
+Boerum Hill,East Brooklyn,4	
+Boerum Hill,East Harlem,3	
+Boerum Hill,East Village,57	
+Boerum Hill,Financial District,46	
+Boerum Hill,Flatbush,1	
+Boerum Hill,Fort Green,282	
+Boerum Hill,Garment District,31	
+Boerum Hill,Gramercy,63	
+Boerum Hill,Gravesend-Sheepshead Bay,10	
+Boerum Hill,Greenwich Village,57	
+Boerum Hill,Greenwood,25	
+Boerum Hill,Hamilton Heights,5	
+Boerum Hill,Harlem,10	
+Boerum Hill,Hunts Point,1	
+Boerum Hill,Jackson Heights,6	
+Boerum Hill,Little Italy,17	
+Boerum Hill,Lower East Side,59	
+Boerum Hill,Mapleton-Flatlands,7	
+Boerum Hill,Maspeth,1	
+Boerum Hill,Middle Village,1	
+Boerum Hill,Midtown,82	
+Boerum Hill,Morningside Heights,2	
+Boerum Hill,Murray Hill,29	
+Boerum Hill,Nkew Gardens,2	
+Boerum Hill,North Sutton Area,6	
+Boerum Hill,Park Slope,202	
+Boerum Hill,Ridgewood,2	
+Boerum Hill,Soho,30	
+Boerum Hill,South Bronx,1	
+Boerum Hill,Sunny Side,5	
+Boerum Hill,Sunset Park,26	
+Boerum Hill,Tribeca,36	
+Boerum Hill,Upper East Side,36	
+Boerum Hill,Upper West Side,31	
+Boerum Hill,Utopia,1	
+Boerum Hill,Washington Heights,4	
+Boerum Hill,West Village,34	
+Boerum Hill,Williamsburg,130	
+Boerum Hill,Woodside,3	
+Borough Park,Astoria-Long Island City,2	
+Borough Park,Battery Park,5	
+Borough Park,Bay Ridge,1	
+Borough Park,Bedford-Stuyvesant,3	
+Borough Park,Bensonhurst,2	
+Borough Park,Boerum Hill,6	
+Borough Park,Borough Park,412	
+Borough Park,Bushwick,1	
+Borough Park,Canarsie,1	
+Borough Park,Carnegie Hill,1	
+Borough Park,Carroll Gardens,8	
+Borough Park,Chelsea,2	
+Borough Park,Clinton,3	
+Borough Park,Cobble Hill,2	
+Borough Park,Downtown,4	
+Borough Park,Dyker Heights,4	
+Borough Park,East Harlem,1	
+Borough Park,East Village,2	
+Borough Park,Financial District,12	
+Borough Park,Fort Green,6	
+Borough Park,Garment District,3	
+Borough Park,Gramercy,8	
+Borough Park,Gravesend-Sheepshead Bay,3	
+Borough Park,Greenwich Village,2	
+Borough Park,Greenwood,5	
+Borough Park,Hamilton Heights,1	
+Borough Park,Harlem,1	
+Borough Park,Jackson Heights,1	
+Borough Park,Lower East Side,5	
+Borough Park,Mapleton-Flatlands,18	
+Borough Park,Midtown,12	
+Borough Park,Murray Hill,1	
+Borough Park,Park Slope,15	
+Borough Park,Soho,2	
+Borough Park,Sunny Side,1	
+Borough Park,Sunset Park,4	
+Borough Park,Tribeca,2	
+Borough Park,Upper East Side,5	
+Borough Park,Upper West Side,2	
+Borough Park,Washington Heights,1	
+Borough Park,West Village,1	
+Borough Park,Williamsburg,3	
+Borough Park,Woodhaven-Richmond Hill,1	
+Borough Park,Woodside,1	
+Borough Park,Yorkville,1	
+Brownsville,Battery Park,1	
+Brownsville,Bedford-Stuyvesant,5	
+Brownsville,Brownsville,15	
+Brownsville,Bushwick,1	
+Brownsville,Canarsie,1	
+Brownsville,Downtown,2	
+Brownsville,East Brooklyn,4	
+Brownsville,Fort Green,1	
+Brownsville,Lower East Side,1	
+Brownsville,Murray Hill,1	
+Brownsville,Upper East Side,1	
+Brownsville,Upper West Side,1	
+Bushwick,Astoria-Long Island City,12	
+Bushwick,Battery Park,2	
+Bushwick,Bay Ridge,1	
+Bushwick,Bedford-Stuyvesant,39	
+Bushwick,Boerum Hill,2	
+Bushwick,Brownsville,2	
+Bushwick,Bushwick,58	
+Bushwick,Central Park,1	
+Bushwick,Chelsea,5	
+Bushwick,Chinatown,1	
+Bushwick,Clinton,4	
+Bushwick,Downtown,1	
+Bushwick,East Brooklyn,1	
+Bushwick,East Harlem,1	
+Bushwick,East Village,11	
+Bushwick,Financial District,4	
+Bushwick,Fort Green,28	
+Bushwick,Garment District,3	
+Bushwick,Glendale,4	
+Bushwick,Gramercy,8	
+Bushwick,Gravesend-Sheepshead Bay,1	
+Bushwick,Greenwich Village,1	
+Bushwick,Greenwood,2	
+Bushwick,Hamilton Heights,1	
+Bushwick,Jackson Heights,3	
+Bushwick,Jamaica,2	
+Bushwick,Little Italy,4	
+Bushwick,Lower East Side,14	
+Bushwick,Maspeth,1	
+Bushwick,Midtown,6	
+Bushwick,Murray Hill,5	
+Bushwick,Nkew Gardens,2	
+Bushwick,North Sutton Area,1	
+Bushwick,Park Slope,6	
+Bushwick,Ridgewood,10	
+Bushwick,Soho,1	
+Bushwick,Sunny Side,1	
+Bushwick,Sunset Park,2	
+Bushwick,Tribeca,6	
+Bushwick,Upper East Side,5	
+Bushwick,Upper West Side,8	
+Bushwick,Washington Heights,1	
+Bushwick,West Village,4	
+Bushwick,Williamsburg,64	
+Bushwick,Woodhaven-Richmond Hill,1	
+Bushwick,Woodside,1	
+Bushwick,Yorkville,1	
+Canarsie,Bedford-Stuyvesant,2	
+Canarsie,Brownsville,3	
+Canarsie,Canarsie,20	
+Canarsie,Downtown,1	
+Canarsie,Financial District,1	
+Canarsie,Gravesend-Sheepshead Bay,2	
+Canarsie,Greenwich Village,1	
+Canarsie,Mapleton-Flatlands,2	
+Canarsie,Sunny Side,1	
+Canarsie,The Rockaways,1	
+Canarsie,Tribeca,1	
+Carnegie Hill,Astoria-Long Island City,38	
+Carnegie Hill,Battery Park,59	
+Carnegie Hill,Bay Ridge,2	
+Carnegie Hill,Baychester,1	
+Carnegie Hill,Bedford Park,4	
+Carnegie Hill,Bedford-Stuyvesant,6	
+Carnegie Hill,Boerum Hill,4	
+Carnegie Hill,Borough Park,4	
+Carnegie Hill,Brownsville,1	
+Carnegie Hill,Bushwick,2	
+Carnegie Hill,Carnegie Hill,1046	
+Carnegie Hill,Carroll Gardens,5	
+Carnegie Hill,Central Park,1212	
+Carnegie Hill,Chelsea,346	
+Carnegie Hill,Chinatown,12	
+Carnegie Hill,City Island,1	
+Carnegie Hill,Clinton,210	
+Carnegie Hill,Cobble Hill,3	
+Carnegie Hill,Downtown,13	
+Carnegie Hill,East Harlem,351	
+Carnegie Hill,East Village,141	
+Carnegie Hill,Financial District,137	
+Carnegie Hill,Flatbush,1	
+Carnegie Hill,Fordham,1	
+Carnegie Hill,Forest Hills,8	
+Carnegie Hill,Fort Green,16	
+Carnegie Hill,Garment District,519	
+Carnegie Hill,Glendale,1	
+Carnegie Hill,Gramercy,717	
+Carnegie Hill,Gravesend-Sheepshead Bay,2	
+Carnegie Hill,Greenwich Village,251	
+Carnegie Hill,Greenwood,1	
+Carnegie Hill,Hamilton Heights,38	
+Carnegie Hill,Harlem,260	
+Carnegie Hill,High Bridge,6	
+Carnegie Hill,Hunts Point,3	
+Carnegie Hill,Inwood,6	
+Carnegie Hill,Jackson Heights,19	
+Carnegie Hill,Jamaica,5	
+Carnegie Hill,Kings Bridge,3	
+Carnegie Hill,Little Italy,16	
+Carnegie Hill,Lower East Side,102	
+Carnegie Hill,Mapleton-Flatlands,2	
+Carnegie Hill,Maspeth,3	
+Carnegie Hill,Midtown,3818	
+Carnegie Hill,Morningside Heights,173	
+Carnegie Hill,Morris Heights,8	
+Carnegie Hill,Morris Park,1	
+Carnegie Hill,Mott Haven,16	
+Carnegie Hill,Murray Hill,413	
+Carnegie Hill,Nkew Gardens,3	
+Carnegie Hill,North Sutton Area,156	
+Carnegie Hill,Park Slope,16	
+Carnegie Hill,Parkchester,4	
+Carnegie Hill,Queensboro Hill,2	
+Carnegie Hill,Ridgewood,3	
+Carnegie Hill,Riverdale,11	
+Carnegie Hill,Soho,112	
+Carnegie Hill,Soundview,9	
+Carnegie Hill,South Bronx,8	
+Carnegie Hill,Spuyten Duyvil,2	
+Carnegie Hill,Sunny Side,25	
+Carnegie Hill,Throggs Neck,2	
+Carnegie Hill,Tremont,1	
+Carnegie Hill,Tribeca,104	
+Carnegie Hill,Union Port,5	
+Carnegie Hill,University Heights,2	
+Carnegie Hill,Upper East Side,7911	
+Carnegie Hill,Upper West Side,3010	
+Carnegie Hill,Utopia,3	
+Carnegie Hill,Washington Heights,93	
+Carnegie Hill,West Village,95	
+Carnegie Hill,Williamsburg,27	
+Carnegie Hill,Woodhaven-Richmond Hill,1	
+Carnegie Hill,Woodside,8	
+Carnegie Hill,Yorkville,584	
+Carroll Gardens,Astoria-Long Island City,21	
+Carroll Gardens,Battery Park,36	
+Carroll Gardens,Bay Ridge,24	
+Carroll Gardens,Bedford-Stuyvesant,56	
+Carroll Gardens,Bensonhurst,2	
+Carroll Gardens,Boerum Hill,172	
+Carroll Gardens,Borough Park,15	
+Carroll Gardens,Brownsville,1	
+Carroll Gardens,Bushwick,27	
+Carroll Gardens,Carroll Gardens,273	
+Carroll Gardens,Central Park,10	
+Carroll Gardens,Chelsea,130	
+Carroll Gardens,Chinatown,40	
+Carroll Gardens,Clinton,40	
+Carroll Gardens,Cobble Hill,104	
+Carroll Gardens,Country Club,1	
+Carroll Gardens,Downtown,135	
+Carroll Gardens,Dyker Heights,4	
+Carroll Gardens,East Brooklyn,1	
+Carroll Gardens,East Harlem,1	
+Carroll Gardens,East Village,85	
+Carroll Gardens,Financial District,142	
+Carroll Gardens,Flatbush,1	
+Carroll Gardens,Forest Hills,2	
+Carroll Gardens,Fort Green,244	
+Carroll Gardens,Garment District,68	
+Carroll Gardens,Gramercy,126	
+Carroll Gardens,Gravesend-Sheepshead Bay,5	
+Carroll Gardens,Greenwich Village,96	
+Carroll Gardens,Greenwood,46	
+Carroll Gardens,Hamilton Heights,1	
+Carroll Gardens,Harlem,9	
+Carroll Gardens,Inwood,1	
+Carroll Gardens,Jackson Heights,5	
+Carroll Gardens,Little Italy,39	
+Carroll Gardens,Lower East Side,121	
+Carroll Gardens,Mapleton-Flatlands,7	
+Carroll Gardens,Maspeth,3	
+Carroll Gardens,Midtown,216	
+Carroll Gardens,Morningside Heights,2	
+Carroll Gardens,Mott Haven,1	
+Carroll Gardens,Murray Hill,72	
+Carroll Gardens,North Sutton Area,8	
+Carroll Gardens,Park Slope,238	
+Carroll Gardens,Ridgewood,5	
+Carroll Gardens,Soho,73	
+Carroll Gardens,South Bronx,1	
+Carroll Gardens,Sunny Side,16	
+Carroll Gardens,Sunset Park,33	
+Carroll Gardens,Tribeca,69	
+Carroll Gardens,Upper East Side,110	
+Carroll Gardens,Upper West Side,47	
+Carroll Gardens,Utopia,1	
+Carroll Gardens,Washington Heights,6	
+Carroll Gardens,West Village,63	
+Carroll Gardens,Williamsburg,146	
+Carroll Gardens,Woodhaven-Richmond Hill,2	
+Carroll Gardens,Woodside,7	
+Carroll Gardens,Yorkville,5	
+Central Park,Astoria-Long Island City,96	
+Central Park,Battery Park,125	
+Central Park,Bay Ridge,3	
+Central Park,Bedford Park,1	
+Central Park,Bedford-Stuyvesant,8	
+Central Park,Bensonhurst,1	
+Central Park,Boerum Hill,8	
+Central Park,Borough Park,2	
+Central Park,Brownsville,3	
+Central Park,Canarsie,1	
+Central Park,Carnegie Hill,891	
+Central Park,Carroll Gardens,10	
+Central Park,Central Park,2527	
+Central Park,Chelsea,625	
+Central Park,Chinatown,17	
+Central Park,Clinton,681	
+Central Park,Cobble Hill,2	
+Central Park,Downtown,12	
+Central Park,Dyker Heights,2	
+Central Park,East Harlem,241	
+Central Park,East Village,194	
+Central Park,Financial District,165	
+Central Park,Flushing,2	
+Central Park,Forest Hills,10	
+Central Park,Fort Green,22	
+Central Park,Garment District,804	
+Central Park,Gramercy,880	
+Central Park,Gravesend-Sheepshead Bay,2	
+Central Park,Greenwich Village,372	
+Central Park,Greenwood,2	
+Central Park,Hamilton Heights,89	
+Central Park,Harlem,421	
+Central Park,High Bridge,5	
+Central Park,Hunts Point,1	
+Central Park,Inwood,10	
+Central Park,Jackson Heights,18	
+Central Park,Jamaica,4	
+Central Park,Kings Bridge,3	
+Central Park,Laurelton,1	
+Central Park,Little Italy,38	
+Central Park,Lower East Side,134	
+Central Park,Mapleton-Flatlands,4	
+Central Park,Maspeth,7	
+Central Park,Middle Village,5	
+Central Park,Midtown,5443	
+Central Park,Morningside Heights,291	
+Central Park,Morris Heights,3	
+Central Park,Morris Park,2	
+Central Park,Mott Haven,4	
+Central Park,Murray Hill,570	
+Central Park,Nkew Gardens,2	
+Central Park,North Sutton Area,160	
+Central Park,Park Slope,22	
+Central Park,Parkchester,1	
+Central Park,Ridgewood,2	
+Central Park,Riverdale,9	
+Central Park,Soho,180	
+Central Park,Soundview,2	
+Central Park,South Bronx,11	
+Central Park,Springfield Gardens,1	
+Central Park,Spuyten Duyvil,4	
+Central Park,Sunny Side,45	
+Central Park,Sunset Park,2	
+Central Park,The Rockaways,1	
+Central Park,Throggs Neck,3	
+Central Park,Tremont,2	
+Central Park,Tribeca,137	
+Central Park,Union Port,1	
+Central Park,University Heights,2	
+Central Park,Upper East Side,5838	
+Central Park,Upper West Side,4620	
+Central Park,Utopia,4	
+Central Park,Wakefield-Williamsbridge,2	
+Central Park,Washington Heights,164	
+Central Park,West Village,212	
+Central Park,Williamsburg,37	
+Central Park,Woodhaven-Richmond Hill,2	
+Central Park,Woodlawn-Nordwood,1	
+Central Park,Woodside,15	
+Central Park,Yorkville,410	
+Chelsea,Astoria-Long Island City,561	
+Chelsea,Auburndale,1	
+Chelsea,Battery Park,1522	
+Chelsea,Bay Ridge,77	
+Chelsea,Baychester,3	
+Chelsea,Bedford Park,8	
+Chelsea,Bedford-Stuyvesant,241	
+Chelsea,Bensonhurst,20	
+Chelsea,Boerum Hill,138	
+Chelsea,Borough Park,69	
+Chelsea,Brownsville,11	
+Chelsea,Bushwick,96	
+Chelsea,Canarsie,11	
+Chelsea,Carnegie Hill,515	
+Chelsea,Carroll Gardens,216	
+Chelsea,Central Park,1090	
+Chelsea,Chelsea,18469	
+Chelsea,Chinatown,296	
+Chelsea,Clearview,3	
+Chelsea,Clinton,6618	
+Chelsea,Cobble Hill,113	
+Chelsea,Country Club,3	
+Chelsea,Douglastown-Little Neck,5	
+Chelsea,Downtown,297	
+Chelsea,Dyker Heights,16	
+Chelsea,East Brooklyn,9	
+Chelsea,East Harlem,249	
+Chelsea,East Village,4514	
+Chelsea,Financial District,2079	
+Chelsea,Flushing,20	
+Chelsea,Fordham,16	
+Chelsea,Forest Hills,71	
+Chelsea,Fort Green,614	
+Chelsea,Garment District,9242	
+Chelsea,Glendale,3	
+Chelsea,Gramercy,12091	
+Chelsea,Gravesend-Sheepshead Bay,40	
+Chelsea,Greenwich Village,8723	
+Chelsea,Greenwood,86	
+Chelsea,Hamilton Heights,280	
+Chelsea,Harlem,602	
+Chelsea,High Bridge,28	
+Chelsea,Hunts Point,1	
+Chelsea,Inwood,72	
+Chelsea,Jackson Heights,94	
+Chelsea,Jamaica,15	
+Chelsea,Kings Bridge,13	
+Chelsea,Laurelton,2	
+Chelsea,Little Italy,850	
+Chelsea,Lower East Side,2239	
+Chelsea,Mapleton-Flatlands,50	
+Chelsea,Maspeth,20	
+Chelsea,Middle Village,14	
+Chelsea,Midtown,17652	
+Chelsea,Morningside Heights,257	
+Chelsea,Morris Heights,14	
+Chelsea,Morris Park,9	
+Chelsea,Mott Haven,48	
+Chelsea,Murray Hill,5125	
+Chelsea,Nkew Gardens,31	
+Chelsea,North Sutton Area,411	
+Chelsea,Park Slope,425	
+Chelsea,Parkchester,23	
+Chelsea,Queens Village,3	
+Chelsea,Queensboro Hill,7	
+Chelsea,Ridgewood,30	
+Chelsea,Riverdale,27	
+Chelsea,Saintalbans,5	
+Chelsea,Soho,3922	
+Chelsea,Soundview,13	
+Chelsea,South Bronx,32	
+Chelsea,Springfield Gardens,7	
+Chelsea,Spuyten Duyvil,24	
+Chelsea,Sunny Side,338	
+Chelsea,Sunset Park,46	
+Chelsea,The Rockaways,4	
+Chelsea,Throggs Neck,3	
+Chelsea,Tremont,12	
+Chelsea,Tribeca,2771	
+Chelsea,Union Port,5	
+Chelsea,University Heights,14	
+Chelsea,Upper East Side,6233	
+Chelsea,Upper West Side,5317	
+Chelsea,Utopia,13	
+Chelsea,Wakefield-Williamsbridge,12	
+Chelsea,Washington Heights,477	
+Chelsea,West Village,5047	
+Chelsea,Williams Bridge,5	
+Chelsea,Williamsburg,733	
+Chelsea,Woodhaven-Richmond Hill,12	
+Chelsea,Woodlawn-Nordwood,6	
+Chelsea,Woodside,82	
+Chelsea,Yorkville,378	
+Chinatown,Astoria-Long Island City,28	
+Chinatown,Auburndale,1	
+Chinatown,Battery Park,121	
+Chinatown,Bay Ridge,8	
+Chinatown,Bedford-Stuyvesant,64	
+Chinatown,Bensonhurst,2	
+Chinatown,Boerum Hill,27	
+Chinatown,Borough Park,10	
+Chinatown,Brownsville,4	
+Chinatown,Bushwick,19	
+Chinatown,Canarsie,3	
+Chinatown,Carnegie Hill,17	
+Chinatown,Carroll Gardens,31	
+Chinatown,Central Park,26	
+Chinatown,Chelsea,368	
+Chinatown,Chinatown,133	
+Chinatown,Clinton,187	
+Chinatown,Cobble Hill,12	
+Chinatown,Downtown,61	
+Chinatown,Dyker Heights,1	
+Chinatown,East Harlem,15	
+Chinatown,East Village,454	
+Chinatown,Financial District,427	
+Chinatown,Flushing,3	
+Chinatown,Fordham,1	
+Chinatown,Forest Hills,2	
+Chinatown,Fort Green,138	
+Chinatown,Garment District,414	
+Chinatown,Glendale,2	
+Chinatown,Gramercy,446	
+Chinatown,Gravesend-Sheepshead Bay,7	
+Chinatown,Greenwich Village,427	
+Chinatown,Greenwood,13	
+Chinatown,Hamilton Heights,7	
+Chinatown,Harlem,21	
+Chinatown,High Bridge,2	
+Chinatown,Inwood,2	
+Chinatown,Jackson Heights,12	
+Chinatown,Jamaica,1	
+Chinatown,Little Italy,112	
+Chinatown,Lower East Side,436	
+Chinatown,Mapleton-Flatlands,6	
+Chinatown,Maspeth,5	
+Chinatown,Middle Village,1	
+Chinatown,Midtown,791	
+Chinatown,Morningside Heights,12	
+Chinatown,Morris Heights,3	
+Chinatown,Mott Haven,1	
+Chinatown,Murray Hill,206	
+Chinatown,Nkew Gardens,1	
+Chinatown,North Sutton Area,25	
+Chinatown,Park Slope,64	
+Chinatown,Parkchester,1	
+Chinatown,Queens Village,1	
+Chinatown,Queensboro Hill,2	
+Chinatown,Ridgewood,3	
+Chinatown,Soho,233	
+Chinatown,Soundview,2	
+Chinatown,South Bronx,1	
+Chinatown,Springfield Gardens,2	
+Chinatown,Sunny Side,17	
+Chinatown,Sunset Park,5	
+Chinatown,The Rockaways,1	
+Chinatown,Throggs Neck,1	
+Chinatown,Tribeca,215	
+Chinatown,Upper East Side,230	
+Chinatown,Upper West Side,153	
+Chinatown,Wakefield-Williamsbridge,1	
+Chinatown,Washington Heights,7	
+Chinatown,West Village,204	
+Chinatown,Williamsburg,122	
+Chinatown,Woodside,7	
+Chinatown,Yorkville,19	
+Clearview,Central Park,1	
+Clearview,Clearview,2	
+Clearview,Harlem,1	
+Clearview,Nkew Gardens,1	
+Clearview,Woodside,1	
+Clinton,Astoria-Long Island City,394	
+Clinton,Auburndale,3	
+Clinton,Battery Park,784	
+Clinton,Bay Ridge,52	
+Clinton,Baychester,1	
+Clinton,Bedford Park,14	
+Clinton,Bedford-Stuyvesant,83	
+Clinton,Bensonhurst,9	
+Clinton,Boerum Hill,51	
+Clinton,Borough Park,30	
+Clinton,Brownsville,6	
+Clinton,Bushwick,29	
+Clinton,Canarsie,9	
+Clinton,Carnegie Hill,307	
+Clinton,Carroll Gardens,49	
+Clinton,Central Park,862	
+Clinton,Chelsea,7304	
+Clinton,Chinatown,166	
+Clinton,Clearview,1	
+Clinton,Clinton,5892	
+Clinton,Cobble Hill,21	
+Clinton,Corona,1	
+Clinton,Country Club,4	
+Clinton,Douglastown-Little Neck,5	
+Clinton,Downtown,112	
+Clinton,Dyker Heights,9	
+Clinton,East Brooklyn,6	
+Clinton,East Harlem,121	
+Clinton,East Village,1231	
+Clinton,Financial District,1052	
+Clinton,Flatbush,1	
+Clinton,Flushing,28	
+Clinton,Fordham,10	
+Clinton,Forest Hills,52	
+Clinton,Fort Green,159	
+Clinton,Garment District,4764	
+Clinton,Glendale,4	
+Clinton,Gramercy,3713	
+Clinton,Gravesend-Sheepshead Bay,20	
+Clinton,Greenwich Village,1973	
+Clinton,Greenwood,18	
+Clinton,Hamilton Heights,242	
+Clinton,Harlem,496	
+Clinton,High Bridge,20	
+Clinton,Hunts Point,3	
+Clinton,Inwood,69	
+Clinton,Jackson Heights,104	
+Clinton,Jamaica,13	
+Clinton,Kings Bridge,19	
+Clinton,Laurelton,2	
+Clinton,Little Italy,248	
+Clinton,Lower East Side,741	
+Clinton,Mapleton-Flatlands,33	
+Clinton,Maspeth,19	
+Clinton,Middle Village,10	
+Clinton,Midtown,14879	
+Clinton,Morningside Heights,239	
+Clinton,Morris Heights,12	
+Clinton,Morris Park,11	
+Clinton,Mott Haven,22	
+Clinton,Murray Hill,2587	
+Clinton,Nkew Gardens,13	
+Clinton,North Sutton Area,195	
+Clinton,Park Slope,111	
+Clinton,Parkchester,21	
+Clinton,Queens Village,5	
+Clinton,Queensboro Hill,7	
+Clinton,Ridgewood,10	
+Clinton,Riverdale,17	
+Clinton,Saintalbans,2	
+Clinton,Soho,1114	
+Clinton,Soundview,13	
+Clinton,South Bronx,23	
+Clinton,Springfield Gardens,3	
+Clinton,Spuyten Duyvil,9	
+Clinton,Steinway,1	
+Clinton,Sunny Side,160	
+Clinton,Sunset Park,15	
+Clinton,The Rockaways,2	
+Clinton,Throggs Neck,4	
+Clinton,Tremont,11	
+Clinton,Tribeca,876	
+Clinton,Union Port,2	
+Clinton,University Heights,11	
+Clinton,Upper East Side,3424	
+Clinton,Upper West Side,4867	
+Clinton,Utopia,14	
+Clinton,Wakefield-Williamsbridge,9	
+Clinton,Washington Heights,422	
+Clinton,West Village,1823	
+Clinton,Williams Bridge,4	
+Clinton,Williamsburg,208	
+Clinton,Woodhaven-Richmond Hill,13	
+Clinton,Woodlawn-Nordwood,9	
+Clinton,Woodside,63	
+Clinton,Yorkville,274	
+Cobble Hill,Astoria-Long Island City,4	
+Cobble Hill,Battery Park,24	
+Cobble Hill,Bay Ridge,5	
+Cobble Hill,Bedford-Stuyvesant,11	
+Cobble Hill,Boerum Hill,44	
+Cobble Hill,Borough Park,9	
+Cobble Hill,Bushwick,1	
+Cobble Hill,Carnegie Hill,8	
+Cobble Hill,Carroll Gardens,70	
+Cobble Hill,Central Park,6	
+Cobble Hill,Chelsea,66	
+Cobble Hill,Chinatown,12	
+Cobble Hill,Clinton,14	
+Cobble Hill,Cobble Hill,43	
+Cobble Hill,Downtown,58	
+Cobble Hill,Dyker Heights,3	
+Cobble Hill,East Brooklyn,1	
+Cobble Hill,East Harlem,1	
+Cobble Hill,East Village,46	
+Cobble Hill,Financial District,71	
+Cobble Hill,Flushing,1	
+Cobble Hill,Fort Green,90	
+Cobble Hill,Garment District,26	
+Cobble Hill,Gramercy,63	
+Cobble Hill,Greenwich Village,48	
+Cobble Hill,Greenwood,6	
+Cobble Hill,Hamilton Heights,1	
+Cobble Hill,Harlem,3	
+Cobble Hill,Jackson Heights,2	
+Cobble Hill,Jamaica,2	
+Cobble Hill,Little Italy,17	
+Cobble Hill,Lower East Side,42	
+Cobble Hill,Mapleton-Flatlands,1	
+Cobble Hill,Maspeth,1	
+Cobble Hill,Midtown,110	
+Cobble Hill,Morningside Heights,2	
+Cobble Hill,Murray Hill,38	
+Cobble Hill,North Sutton Area,6	
+Cobble Hill,Park Slope,91	
+Cobble Hill,Ridgewood,1	
+Cobble Hill,Soho,36	
+Cobble Hill,Sunny Side,2	
+Cobble Hill,Sunset Park,4	
+Cobble Hill,Tribeca,61	
+Cobble Hill,Upper East Side,42	
+Cobble Hill,Upper West Side,29	
+Cobble Hill,Washington Heights,1	
+Cobble Hill,West Village,32	
+Cobble Hill,Williamsburg,46	
+Cobble Hill,Woodside,5	
+Cobble Hill,Yorkville,1	
+College Point,Upper West Side,1	
+Corona,Astoria-Long Island City,3	
+Corona,Auburndale,1	
+Corona,Battery Park,2	
+Corona,Bedford-Stuyvesant,1	
+Corona,Boerum Hill,1	
+Corona,Carnegie Hill,1	
+Corona,Carroll Gardens,2	
+Corona,Central Park,1	
+Corona,Chelsea,3	
+Corona,Clinton,3	
+Corona,Downtown,2	
+Corona,East Harlem,1	
+Corona,East Village,1	
+Corona,Financial District,5	
+Corona,Flushing,1	
+Corona,Fort Green,3	
+Corona,Garment District,5	
+Corona,Gramercy,3	
+Corona,Gravesend-Sheepshead Bay,1	
+Corona,Greenwich Village,2	
+Corona,Hamilton Heights,1	
+Corona,Harlem,4	
+Corona,Jackson Heights,4	
+Corona,Jamaica,1	
+Corona,Lower East Side,1	
+Corona,Mapleton-Flatlands,1	
+Corona,Midtown,19	
+Corona,Murray Hill,5	
+Corona,North Sutton Area,1	
+Corona,Park Slope,2	
+Corona,Saintalbans,1	
+Corona,Soho,2	
+Corona,Sunny Side,2	
+Corona,Tribeca,1	
+Corona,University Heights,1	
+Corona,Upper East Side,11	
+Corona,Upper West Side,9	
+Corona,West Village,3	
+Corona,Williamsburg,1	
+Corona,Yorkville,1	
+Country Club,Clinton,1	
+Country Club,Country Club,2	
+Country Club,Harlem,1	
+Country Club,Mott Haven,1	
+Country Club,Woodlawn-Nordwood,1	
+Douglastown-Little Neck,Carnegie Hill,1	
+Douglastown-Little Neck,Carroll Gardens,1	
+Douglastown-Little Neck,Douglastown-Little Neck,6	
+Douglastown-Little Neck,Jamaica,4	
+Douglastown-Little Neck,Laurelton,1	
+Douglastown-Little Neck,Murray Hill,1	
+Downtown,Astoria-Long Island City,28	
+Downtown,Auburndale,2	
+Downtown,Battery Park,36	
+Downtown,Bay Ridge,12	
+Downtown,Bedford-Stuyvesant,101	
+Downtown,Bensonhurst,6	
+Downtown,Boerum Hill,87	
+Downtown,Borough Park,7	
+Downtown,Brownsville,6	
+Downtown,Bushwick,38	
+Downtown,Canarsie,5	
+Downtown,Carnegie Hill,12	
+Downtown,Carroll Gardens,134	
+Downtown,Central Park,15	
+Downtown,Chelsea,158	
+Downtown,Chinatown,100	
+Downtown,Clearview,1	
+Downtown,Clinton,38	
+Downtown,Cobble Hill,57	
+Downtown,Corona,1	
+Downtown,Downtown,211	
+Downtown,Dyker Heights,5	
+Downtown,East Brooklyn,5	
+Downtown,East Harlem,10	
+Downtown,East Village,152	
+Downtown,Financial District,170	
+Downtown,Flatbush,1	
+Downtown,Flushing,2	
+Downtown,Forest Hills,1	
+Downtown,Fort Green,372	
+Downtown,Garment District,123	
+Downtown,Glendale,1	
+Downtown,Gramercy,266	
+Downtown,Gravesend-Sheepshead Bay,8	
+Downtown,Greenwich Village,134	
+Downtown,Greenwood,14	
+Downtown,Hamilton Heights,4	
+Downtown,Harlem,19	
+Downtown,High Bridge,4	
+Downtown,Inwood,1	
+Downtown,Jackson Heights,7	
+Downtown,Jamaica,3	
+Downtown,Little Italy,61	
+Downtown,Lower East Side,219	
+Downtown,Mapleton-Flatlands,10	
+Downtown,Maspeth,3	
+Downtown,Middle Village,1	
+Downtown,Midtown,305	
+Downtown,Morningside Heights,2	
+Downtown,Murray Hill,104	
+Downtown,Nkew Gardens,4	
+Downtown,North Sutton Area,21	
+Downtown,Park Slope,131	
+Downtown,Parkchester,2	
+Downtown,Queensboro Hill,1	
+Downtown,Ridgewood,4	
+Downtown,Saintalbans,1	
+Downtown,Soho,112	
+Downtown,Soundview,1	
+Downtown,South Bronx,7	
+Downtown,Springfield Gardens,1	
+Downtown,Sunny Side,33	
+Downtown,Sunset Park,16	
+Downtown,The Rockaways,1	
+Downtown,Tribeca,130	
+Downtown,Union Port,1	
+Downtown,Upper East Side,161	
+Downtown,Upper West Side,67	
+Downtown,Utopia,2	
+Downtown,Washington Heights,7	
+Downtown,West Village,66	
+Downtown,Williamsburg,202	
+Downtown,Woodhaven-Richmond Hill,1	
+Downtown,Woodlawn-Nordwood,2	
+Downtown,Woodside,6	
+Downtown,Yorkville,8	
+Dyker Heights,Bay Ridge,2	
+Dyker Heights,Bensonhurst,3	
+Dyker Heights,Chelsea,1	
+Dyker Heights,Dyker Heights,6	
+Dyker Heights,Financial District,1	
+Dyker Heights,Gramercy,1	
+Dyker Heights,Greenwich Village,1	
+Dyker Heights,Mapleton-Flatlands,1	
+Dyker Heights,Morningside Heights,1	
+Dyker Heights,Park Slope,1	
+Dyker Heights,Upper East Side,2	
+East Brooklyn,Astoria-Long Island City,2	
+East Brooklyn,Bedford-Stuyvesant,3	
+East Brooklyn,Brownsville,1	
+East Brooklyn,Bushwick,1	
+East Brooklyn,Chelsea,1	
+East Brooklyn,East Brooklyn,36	
+East Brooklyn,East Harlem,1	
+East Brooklyn,East Village,1	
+East Brooklyn,Financial District,1	
+East Brooklyn,Forest Hills,2	
+East Brooklyn,Fort Green,1	
+East Brooklyn,Lower East Side,1	
+East Brooklyn,Mapleton-Flatlands,1	
+East Brooklyn,Midtown,1	
+East Brooklyn,North Sutton Area,1	
+East Brooklyn,Park Slope,1	
+East Brooklyn,Ridgewood,1	
+East Brooklyn,Soho,1	
+East Brooklyn,Williamsburg,2	
+East Brooklyn,Woodhaven-Richmond Hill,1	
+East Harlem,Astoria-Long Island City,53	
+East Harlem,Auburndale,1	
+East Harlem,Battery Park,8	
+East Harlem,Bay Ridge,1	
+East Harlem,Baychester,2	
+East Harlem,Bedford Park,9	
+East Harlem,Bedford-Stuyvesant,11	
+East Harlem,Boerum Hill,2	
+East Harlem,Bushwick,6	
+East Harlem,Carnegie Hill,114	
+East Harlem,Carroll Gardens,1	
+East Harlem,Central Park,131	
+East Harlem,Chelsea,75	
+East Harlem,Chinatown,3	
+East Harlem,Clinton,73	
+East Harlem,Cobble Hill,1	
+East Harlem,Country Club,3	
+East Harlem,Downtown,3	
+East Harlem,East Brooklyn,1	
+East Harlem,East Harlem,609	
+East Harlem,East Village,67	
+East Harlem,Financial District,18	
+East Harlem,Flushing,2	
+East Harlem,Fordham,4	
+East Harlem,Fort Green,7	
+East Harlem,Garment District,78	
+East Harlem,Gramercy,181	
+East Harlem,Gravesend-Sheepshead Bay,1	
+East Harlem,Greenwich Village,45	
+East Harlem,Hamilton Heights,95	
+East Harlem,Harlem,616	
+East Harlem,High Bridge,30	
+East Harlem,Hunts Point,12	
+East Harlem,Inwood,10	
+East Harlem,Jackson Heights,21	
+East Harlem,Kings Bridge,4	
+East Harlem,Little Italy,4	
+East Harlem,Lower East Side,50	
+East Harlem,Maspeth,1	
+East Harlem,Middle Village,1	
+East Harlem,Midtown,414	
+East Harlem,Morningside Heights,126	
+East Harlem,Morris Heights,13	
+East Harlem,Morris Park,7	
+East Harlem,Mott Haven,98	
+East Harlem,Murray Hill,79	
+East Harlem,Nkew Gardens,5	
+East Harlem,North Sutton Area,45	
+East Harlem,Park Slope,7	
+East Harlem,Parkchester,14	
+East Harlem,Queens Village,1	
+East Harlem,Ridgewood,1	
+East Harlem,Riverdale,3	
+East Harlem,Saintalbans,1	
+East Harlem,Soho,29	
+East Harlem,Soundview,16	
+East Harlem,South Bronx,47	
+East Harlem,Spuyten Duyvil,2	
+East Harlem,Sunny Side,16	
+East Harlem,Sunset Park,1	
+East Harlem,Throggs Neck,1	
+East Harlem,Tremont,8	
+East Harlem,Tribeca,18	
+East Harlem,Union Port,6	
+East Harlem,University Heights,13	
+East Harlem,Upper East Side,1309	
+East Harlem,Upper West Side,497	
+East Harlem,Utopia,3	
+East Harlem,Wakefield-Williamsbridge,2	
+East Harlem,Washington Heights,86	
+East Harlem,West Village,28	
+East Harlem,Williams Bridge,1	
+East Harlem,Williamsburg,5	
+East Harlem,Woodlawn-Nordwood,2	
+East Harlem,Woodside,14	
+East Harlem,Yorkville,730	
+East Village,Astoria-Long Island City,534	
+East Village,Auburndale,6	
+East Village,Battery Park,488	
+East Village,Bay Ridge,60	
+East Village,Baychester,2	
+East Village,Bedford Park,11	
+East Village,Bedford-Stuyvesant,436	
+East Village,Bensonhurst,10	
+East Village,Boerum Hill,174	
+East Village,Borough Park,76	
+East Village,Brownsville,4	
+East Village,Bushwick,233	
+East Village,Canarsie,5	
+East Village,Carnegie Hill,143	
+East Village,Carroll Gardens,220	
+East Village,Central Park,450	
+East Village,Chelsea,4528	
+East Village,Chinatown,512	
+East Village,Clearview,2	
+East Village,Clinton,1177	
+East Village,Cobble Hill,101	
+East Village,Corona,1	
+East Village,Country Club,1	
+East Village,Douglastown-Little Neck,5	
+East Village,Downtown,273	
+East Village,Dyker Heights,14	
+East Village,East Brooklyn,8	
+East Village,East Harlem,185	
+East Village,East Village,5737	
+East Village,Financial District,1588	
+East Village,Flushing,11	
+East Village,Fordham,8	
+East Village,Forest Hills,69	
+East Village,Fort Green,828	
+East Village,Garment District,3369	
+East Village,Glendale,6	
+East Village,Gramercy,8653	
+East Village,Gravesend-Sheepshead Bay,38	
+East Village,Greenwich Village,5311	
+East Village,Greenwood,71	
+East Village,Hamilton Heights,122	
+East Village,Harlem,313	
+East Village,High Bridge,23	
+East Village,Hunts Point,4	
+East Village,Inwood,36	
+East Village,Jackson Heights,115	
+East Village,Jamaica,8	
+East Village,Kings Bridge,7	
+East Village,Little Italy,891	
+East Village,Lower East Side,4272	
+East Village,Mapleton-Flatlands,39	
+East Village,Maspeth,26	
+East Village,Middle Village,10	
+East Village,Midtown,5966	
+East Village,Morningside Heights,119	
+East Village,Morris Heights,2	
+East Village,Morris Park,10	
+East Village,Mott Haven,25	
+East Village,Murray Hill,2860	
+East Village,Nkew Gardens,25	
+East Village,North Sutton Area,470	
+East Village,Park Slope,439	
+East Village,Parkchester,10	
+East Village,Queens Village,2	
+East Village,Queensboro Hill,6	
+East Village,Ridgewood,45	
+East Village,Riverdale,10	
+East Village,Saintalbans,1	
+East Village,Soho,2227	
+East Village,Soundview,9	
+East Village,South Bronx,17	
+East Village,Springfield Gardens,4	
+East Village,Spuyten Duyvil,5	
+East Village,Sunny Side,327	
+East Village,Sunset Park,63	
+East Village,The Rockaways,2	
+East Village,Throggs Neck,5	
+East Village,Tremont,6	
+East Village,Tribeca,1280	
+East Village,Union Port,5	
+East Village,University Heights,8	
+East Village,Upper East Side,4356	
+East Village,Upper West Side,1639	
+East Village,Utopia,21	
+East Village,Wakefield-Williamsbridge,3	
+East Village,Washington Heights,207	
+East Village,West Village,1975	
+East Village,Williams Bridge,3	
+East Village,Williamsburg,1276	
+East Village,Woodhaven-Richmond Hill,11	
+East Village,Woodlawn-Nordwood,4	
+East Village,Woodside,81	
+East Village,Yorkville,314	
+Financial District,Astoria-Long Island City,122	
+Financial District,Auburndale,2	
+Financial District,Battery Park,1046	
+Financial District,Bay Ridge,71	
+Financial District,Baychester,1	
+Financial District,Bedford Park,4	
+Financial District,Bedford-Stuyvesant,115	
+Financial District,Bensonhurst,23	
+Financial District,Boerum Hill,94	
+Financial District,Borough Park,51	
+Financial District,Brownsville,10	
+Financial District,Bushwick,31	
+Financial District,Canarsie,6	
+Financial District,Carnegie Hill,79	
+Financial District,Carroll Gardens,118	
+Financial District,Central Park,187	
+Financial District,Chelsea,2264	
+Financial District,Chinatown,572	
+Financial District,Clearview,2	
+Financial District,Clinton,962	
+Financial District,Cobble Hill,77	
+Financial District,Country Club,3	
+Financial District,Douglastown-Little Neck,4	
+Financial District,Downtown,254	
+Financial District,Dyker Heights,20	
+Financial District,East Brooklyn,5	
+Financial District,East Harlem,47	
+Financial District,East Village,1382	
+Financial District,Financial District,2798	
+Financial District,Flushing,12	
+Financial District,Fordham,2	
+Financial District,Forest Hills,59	
+Financial District,Fort Green,325	
+Financial District,Garment District,1696	
+Financial District,Glendale,5	
+Financial District,Gramercy,2430	
+Financial District,Gravesend-Sheepshead Bay,43	
+Financial District,Greenwich Village,1535	
+Financial District,Greenwood,32	
+Financial District,Hamilton Heights,29	
+Financial District,Harlem,91	
+Financial District,High Bridge,3	
+Financial District,Hunts Point,1	
+Financial District,Inwood,13	
+Financial District,Jackson Heights,44	
+Financial District,Jamaica,12	
+Financial District,Kings Bridge,5	
+Financial District,Laurelton,1	
+Financial District,Little Italy,470	
+Financial District,Lower East Side,2072	
+Financial District,Mapleton-Flatlands,35	
+Financial District,Maspeth,9	
+Financial District,Middle Village,14	
+Financial District,Midtown,4900	
+Financial District,Morningside Heights,27	
+Financial District,Morris Heights,4	
+Financial District,Morris Park,6	
+Financial District,Mott Haven,8	
+Financial District,Murray Hill,1386	
+Financial District,Nkew Gardens,16	
+Financial District,North Sutton Area,205	
+Financial District,Park Slope,212	
+Financial District,Parkchester,7	
+Financial District,Queens Village,2	
+Financial District,Queensboro Hill,6	
+Financial District,Ridgewood,13	
+Financial District,Riverdale,4	
+Financial District,Soho,1673	
+Financial District,Soundview,5	
+Financial District,South Bronx,9	
+Financial District,Springfield Gardens,3	
+Financial District,Spuyten Duyvil,2	
+Financial District,Sunny Side,102	
+Financial District,Sunset Park,30	
+Financial District,The Rockaways,2	
+Financial District,Throggs Neck,3	
+Financial District,Tremont,1	
+Financial District,Tribeca,1976	
+Financial District,Union Port,3	
+Financial District,University Heights,4	
+Financial District,Upper East Side,2036	
+Financial District,Upper West Side,792	
+Financial District,Utopia,11	
+Financial District,Wakefield-Williamsbridge,4	
+Financial District,Washington Heights,69	
+Financial District,West Village,1282	
+Financial District,Williams Bridge,1	
+Financial District,Williamsburg,347	
+Financial District,Woodhaven-Richmond Hill,14	
+Financial District,Woodlawn-Nordwood,1	
+Financial District,Woodside,28	
+Financial District,Yorkville,124	
+Flatbush,Bedford-Stuyvesant,1	
+Flatbush,East Village,1	
+Flatbush,Flatbush,1	
+Flatbush,Greenwich Village,1	
+Flushing,Astoria-Long Island City,2	
+Flushing,Auburndale,1	
+Flushing,Battery Park,3	
+Flushing,Carnegie Hill,1	
+Flushing,Central Park,5	
+Flushing,Chelsea,6	
+Flushing,Clearview,1	
+Flushing,Clinton,4	
+Flushing,Douglastown-Little Neck,2	
+Flushing,Downtown,2	
+Flushing,East Harlem,1	
+Flushing,East Village,2	
+Flushing,Financial District,4	
+Flushing,Flushing,43	
+Flushing,Forest Hills,3	
+Flushing,Fort Green,1	
+Flushing,Garment District,5	
+Flushing,Gramercy,10	
+Flushing,Gravesend-Sheepshead Bay,1	
+Flushing,Greenwich Village,3	
+Flushing,Greenwood,1	
+Flushing,Harlem,2	
+Flushing,Jackson Heights,6	
+Flushing,Lower East Side,6	
+Flushing,Middle Village,3	
+Flushing,Midtown,14	
+Flushing,Murray Hill,3	
+Flushing,Nkew Gardens,5	
+Flushing,North Sutton Area,1	
+Flushing,Queensboro Hill,5	
+Flushing,Ridgewood,1	
+Flushing,Soho,2	
+Flushing,Sunny Side,1	
+Flushing,Sunset Park,1	
+Flushing,Tribeca,3	
+Flushing,Upper East Side,5	
+Flushing,Upper West Side,6	
+Flushing,Utopia,3	
+Flushing,Washington Heights,1	
+Flushing,West Village,3	
+Flushing,Williamsburg,1	
+Flushing,Woodhaven-Richmond Hill,1	
+Flushing,Woodside,4	
+Fordham,Bedford Park,5	
+Fordham,Chelsea,1	
+Fordham,Fordham,14	
+Fordham,Harlem,1	
+Fordham,Inwood,1	
+Fordham,Kings Bridge,2	
+Fordham,Midtown,2	
+Fordham,Parkchester,1	
+Fordham,Riverdale,1	
+Fordham,South Bronx,1	
+Fordham,Tremont,8	
+Fordham,University Heights,4	
+Fordham,Upper East Side,2	
+Fordham,Upper West Side,1	
+Fordham,Wakefield-Williamsbridge,2	
+Forest Hills,Astoria-Long Island City,11	
+Forest Hills,Auburndale,1	
+Forest Hills,Battery Park,3	
+Forest Hills,Bedford-Stuyvesant,1	
+Forest Hills,Borough Park,1	
+Forest Hills,Brownsville,1	
+Forest Hills,Bushwick,2	
+Forest Hills,Central Park,6	
+Forest Hills,Chelsea,3	
+Forest Hills,Clearview,2	
+Forest Hills,Clinton,6	
+Forest Hills,Cobble Hill,1	
+Forest Hills,Downtown,1	
+Forest Hills,East Brooklyn,1	
+Forest Hills,East Harlem,5	
+Forest Hills,East Village,4	
+Forest Hills,Financial District,8	
+Forest Hills,Flushing,20	
+Forest Hills,Forest Hills,441	
+Forest Hills,Fort Green,3	
+Forest Hills,Garment District,19	
+Forest Hills,Glendale,14	
+Forest Hills,Gramercy,19	
+Forest Hills,Greenwich Village,7	
+Forest Hills,Harlem,2	
+Forest Hills,High Bridge,1	
+Forest Hills,Jackson Heights,24	
+Forest Hills,Jamaica,13	
+Forest Hills,Lower East Side,9	
+Forest Hills,Mapleton-Flatlands,1	
+Forest Hills,Maspeth,11	
+Forest Hills,Middle Village,34	
+Forest Hills,Midtown,44	
+Forest Hills,Morningside Heights,4	
+Forest Hills,Morris Heights,1	
+Forest Hills,Morris Park,1	
+Forest Hills,Mott Haven,1	
+Forest Hills,Murray Hill,29	
+Forest Hills,Nkew Gardens,100	
+Forest Hills,North Sutton Area,1	
+Forest Hills,Parkchester,1	
+Forest Hills,Queens Village,3	
+Forest Hills,Queensboro Hill,3	
+Forest Hills,Ridgewood,4	
+Forest Hills,Saintalbans,2	
+Forest Hills,Soho,6	
+Forest Hills,South Bronx,1	
+Forest Hills,Sunny Side,28	
+Forest Hills,Sunset Park,1	
+Forest Hills,The Rockaways,2	
+Forest Hills,Tremont,1	
+Forest Hills,Tribeca,5	
+Forest Hills,Upper East Side,38	
+Forest Hills,Upper West Side,8	
+Forest Hills,Utopia,38	
+Forest Hills,Washington Heights,4	
+Forest Hills,West Village,1	
+Forest Hills,Williamsburg,14	
+Forest Hills,Woodhaven-Richmond Hill,13	
+Forest Hills,Woodside,22	
+Forest Hills,Yorkville,2	
+Fort Green,Astoria-Long Island City,30	
+Fort Green,Battery Park,11	
+Fort Green,Bay Ridge,11	
+Fort Green,Bedford-Stuyvesant,267	
+Fort Green,Bensonhurst,6	
+Fort Green,Boerum Hill,95	
+Fort Green,Borough Park,24	
+Fort Green,Brownsville,10	
+Fort Green,Bushwick,66	
+Fort Green,Canarsie,7	
+Fort Green,Carnegie Hill,5	
+Fort Green,Carroll Gardens,88	
+Fort Green,Central Park,10	
+Fort Green,Chelsea,122	
+Fort Green,Chinatown,35	
+Fort Green,Clearview,2	
+Fort Green,Clinton,22	
+Fort Green,Cobble Hill,40	
+Fort Green,Downtown,179	
+Fort Green,Dyker Heights,4	
+Fort Green,East Brooklyn,14	
+Fort Green,East Harlem,6	
+Fort Green,East Village,135	
+Fort Green,Financial District,48	
+Fort Green,Forest Hills,7	
+Fort Green,Fort Green,711	
+Fort Green,Garment District,63	
+Fort Green,Gramercy,105	
+Fort Green,Gravesend-Sheepshead Bay,4	
+Fort Green,Greenwich Village,90	
+Fort Green,Greenwood,20	
+Fort Green,Hamilton Heights,3	
+Fort Green,Harlem,14	
+Fort Green,High Bridge,2	
+Fort Green,Jackson Heights,9	
+Fort Green,Jamaica,3	
+Fort Green,Laurelton,1	
+Fort Green,Little Italy,36	
+Fort Green,Lower East Side,169	
+Fort Green,Mapleton-Flatlands,14	
+Fort Green,Maspeth,2	
+Fort Green,Middle Village,1	
+Fort Green,Midtown,136	
+Fort Green,Morningside Heights,4	
+Fort Green,Morris Heights,2	
+Fort Green,Mott Haven,1	
+Fort Green,Murray Hill,44	
+Fort Green,Nkew Gardens,2	
+Fort Green,North Sutton Area,7	
+Fort Green,Park Slope,193	
+Fort Green,Parkchester,1	
+Fort Green,Ridgewood,6	
+Fort Green,Riverdale,1	
+Fort Green,Saintalbans,1	
+Fort Green,Soho,70	
+Fort Green,Soundview,1	
+Fort Green,Sunny Side,34	
+Fort Green,Sunset Park,16	
+Fort Green,The Rockaways,1	
+Fort Green,Tribeca,52	
+Fort Green,Upper East Side,72	
+Fort Green,Upper West Side,41	
+Fort Green,Utopia,2	
+Fort Green,Washington Heights,7	
+Fort Green,West Village,44	
+Fort Green,Williamsburg,361	
+Fort Green,Woodhaven-Richmond Hill,3	
+Fort Green,Woodside,5	
+Fort Green,Yorkville,12	
+Garment District,Astoria-Long Island City,601	
+Garment District,Auburndale,13	
+Garment District,Battery Park,904	
+Garment District,Bay Ridge,69	
+Garment District,Baychester,3	
+Garment District,Bedford Park,27	
+Garment District,Bedford-Stuyvesant,183	
+Garment District,Bensonhurst,32	
+Garment District,Boerum Hill,76	
+Garment District,Borough Park,48	
+Garment District,Brownsville,29	
+Garment District,Bushwick,62	
+Garment District,Canarsie,13	
+Garment District,Carnegie Hill,670	
+Garment District,Carroll Gardens,110	
+Garment District,Central Park,1607	
+Garment District,Chelsea,7882	
+Garment District,Chinatown,273	
+Garment District,Clearview,4	
+Garment District,Clinton,6068	
+Garment District,Cobble Hill,59	
+Garment District,Country Club,10	
+Garment District,Douglastown-Little Neck,6	
+Garment District,Downtown,206	
+Garment District,Dyker Heights,14	
+Garment District,East Brooklyn,16	
+Garment District,East Harlem,256	
+Garment District,East Village,2404	
+Garment District,Financial District,1668	
+Garment District,Flatbush,1	
+Garment District,Flushing,40	
+Garment District,Fordham,26	
+Garment District,Forest Hills,101	
+Garment District,Fort Green,330	
+Garment District,Garment District,6668	
+Garment District,Glendale,11	
+Garment District,Gramercy,9829	
+Garment District,Gravesend-Sheepshead Bay,43	
+Garment District,Greenwich Village,3552	
+Garment District,Greenwood,40	
+Garment District,Hamilton Heights,240	
+Garment District,Harlem,531	
+Garment District,High Bridge,53	
+Garment District,Hunts Point,4	
+Garment District,Inwood,45	
+Garment District,Jackson Heights,154	
+Garment District,Jamaica,27	
+Garment District,Kings Bridge,18	
+Garment District,Laurelton,4	
+Garment District,Little Italy,445	
+Garment District,Lower East Side,1273	
+Garment District,Mapleton-Flatlands,54	
+Garment District,Maspeth,25	
+Garment District,Middle Village,23	
+Garment District,Midtown,28487	
+Garment District,Morningside Heights,278	
+Garment District,Morris Heights,27	
+Garment District,Morris Park,18	
+Garment District,Mott Haven,43	
+Garment District,Murray Hill,6232	
+Garment District,Nkew Gardens,36	
+Garment District,North Sutton Area,526	
+Garment District,Park Slope,216	
+Garment District,Parkchester,45	
+Garment District,Queens Village,4	
+Garment District,Queensboro Hill,18	
+Garment District,Ridgewood,32	
+Garment District,Riverdale,28	
+Garment District,Saintalbans,4	
+Garment District,Soho,1790	
+Garment District,Soundview,26	
+Garment District,South Bronx,67	
+Garment District,Springfield Gardens,15	
+Garment District,Spuyten Duyvil,20	
+Garment District,Sunny Side,394	
+Garment District,Sunset Park,26	
+Garment District,The Rockaways,5	
+Garment District,Throggs Neck,10	
+Garment District,Tremont,28	
+Garment District,Tribeca,1372	
+Garment District,Union Port,11	
+Garment District,University Heights,16	
+Garment District,Upper East Side,8828	
+Garment District,Upper West Side,4685	
+Garment District,Utopia,38	
+Garment District,Wakefield-Williamsbridge,15	
+Garment District,Washington Heights,389	
+Garment District,West Village,1678	
+Garment District,Williams Bridge,5	
+Garment District,Williamsburg,368	
+Garment District,Woodhaven-Richmond Hill,12	
+Garment District,Woodlawn-Nordwood,9	
+Garment District,Woodside,133	
+Garment District,Yorkville,550	
+Glendale,Battery Park,1	
+Glendale,Bushwick,2	
+Glendale,Glendale,5	
+Glendale,Gramercy,1	
+Glendale,Maspeth,1	
+Glendale,Murray Hill,1	
+Glendale,Ridgewood,3	
+Glendale,Soho,2	
+Glendale,Tribeca,5	
+Glendale,Upper East Side,1	
+Glendale,Upper West Side,1	
+Glendale,Woodhaven-Richmond Hill,1	
+Gramercy,Astoria-Long Island City,877	
+Gramercy,Auburndale,11	
+Gramercy,Battery Park,1335	
+Gramercy,Bay Ridge,131	
+Gramercy,Baychester,6	
+Gramercy,Bedford Park,28	
+Gramercy,Bedford-Stuyvesant,305	
+Gramercy,Bensonhurst,34	
+Gramercy,Boerum Hill,187	
+Gramercy,Borough Park,76	
+Gramercy,Brownsville,9	
+Gramercy,Bushwick,130	
+Gramercy,Canarsie,13	
+Gramercy,Carnegie Hill,773	
+Gramercy,Carroll Gardens,233	
+Gramercy,Central Park,1415	
+Gramercy,Chelsea,11725	
+Gramercy,Chinatown,431	
+Gramercy,Clearview,8	
+Gramercy,Clinton,3588	
+Gramercy,Cobble Hill,137	
+Gramercy,Country Club,7	
+Gramercy,Douglastown-Little Neck,12	
+Gramercy,Downtown,471	
+Gramercy,Dyker Heights,29	
+Gramercy,East Brooklyn,14	
+Gramercy,East Harlem,357	
+Gramercy,East Village,8984	
+Gramercy,Financial District,3239	
+Gramercy,Flatbush,2	
+Gramercy,Flushing,30	
+Gramercy,Fordham,20	
+Gramercy,Forest Hills,173	
+Gramercy,Fort Green,696	
+Gramercy,Garment District,12136	
+Gramercy,Glendale,9	
+Gramercy,Gramercy,21925	
+Gramercy,Gravesend-Sheepshead Bay,67	
+Gramercy,Greenwich Village,9947	
+Gramercy,Greenwood,45	
+Gramercy,Hamilton Heights,192	
+Gramercy,Harlem,532	
+Gramercy,High Bridge,41	
+Gramercy,Hunts Point,4	
+Gramercy,Inwood,52	
+Gramercy,Jackson Heights,226	
+Gramercy,Jamaica,36	
+Gramercy,Kings Bridge,21	
+Gramercy,Laurelton,1	
+Gramercy,Little Italy,1075	
+Gramercy,Lower East Side,4268	
+Gramercy,Mapleton-Flatlands,69	
+Gramercy,Maspeth,58	
+Gramercy,Middle Village,41	
+Gramercy,Midtown,26237	
+Gramercy,Morningside Heights,246	
+Gramercy,Morris Heights,17	
+Gramercy,Morris Park,10	
+Gramercy,Mott Haven,54	
+Gramercy,Murray Hill,11405	
+Gramercy,Nkew Gardens,40	
+Gramercy,North Sutton Area,1409	
+Gramercy,Park Slope,544	
+Gramercy,Parkchester,29	
+Gramercy,Queens Village,3	
+Gramercy,Queensboro Hill,9	
+Gramercy,Ridgewood,47	
+Gramercy,Riverdale,23	
+Gramercy,Saintalbans,2	
+Gramercy,Soho,4388	
+Gramercy,Soundview,22	
+Gramercy,South Bronx,50	
+Gramercy,Springfield Gardens,4	
+Gramercy,Spuyten Duyvil,13	
+Gramercy,Sunny Side,637	
+Gramercy,Sunset Park,54	
+Gramercy,The Rockaways,4	
+Gramercy,Throggs Neck,13	
+Gramercy,Tremont,17	
+Gramercy,Tribeca,2629	
+Gramercy,Union Port,18	
+Gramercy,University Heights,12	
+Gramercy,Upper East Side,14229	
+Gramercy,Upper West Side,4618	
+Gramercy,Utopia,47	
+Gramercy,Wakefield-Williamsbridge,5	
+Gramercy,Washington Heights,349	
+Gramercy,West Village,3611	
+Gramercy,Williams Bridge,7	
+Gramercy,Williamsburg,963	
+Gramercy,Woodhaven-Richmond Hill,22	
+Gramercy,Woodlawn-Nordwood,12	
+Gramercy,Woodside,151	
+Gramercy,Yorkville,703	
+Gravesend-Sheepshead Bay,Auburndale,1	
+Gravesend-Sheepshead Bay,Battery Park,2	
+Gravesend-Sheepshead Bay,Bensonhurst,2	
+Gravesend-Sheepshead Bay,Borough Park,4	
+Gravesend-Sheepshead Bay,Canarsie,4	
+Gravesend-Sheepshead Bay,Forest Hills,1	
+Gravesend-Sheepshead Bay,Fort Green,1	
+Gravesend-Sheepshead Bay,Gravesend-Sheepshead Bay,34	
+Gravesend-Sheepshead Bay,Greenwich Village,2	
+Gravesend-Sheepshead Bay,Greenwood,2	
+Gravesend-Sheepshead Bay,Little Italy,1	
+Gravesend-Sheepshead Bay,Mapleton-Flatlands,9	
+Gravesend-Sheepshead Bay,Maspeth,1	
+Gravesend-Sheepshead Bay,Midtown,1	
+Gravesend-Sheepshead Bay,Nkew Gardens,1	
+Gravesend-Sheepshead Bay,Sunset Park,1	
+Gravesend-Sheepshead Bay,Upper East Side,2	
+Greenwich Village,Astoria-Long Island City,430	
+Greenwich Village,Auburndale,7	
+Greenwich Village,Battery Park,1167	
+Greenwich Village,Bay Ridge,97	
+Greenwich Village,Baychester,3	
+Greenwich Village,Bedford Park,7	
+Greenwich Village,Bedford-Stuyvesant,369	
+Greenwich Village,Bensonhurst,21	
+Greenwich Village,Boerum Hill,171	
+Greenwich Village,Borough Park,76	
+Greenwich Village,Brownsville,9	
+Greenwich Village,Bushwick,174	
+Greenwich Village,Canarsie,8	
+Greenwich Village,Carnegie Hill,367	
+Greenwich Village,Carroll Gardens,210	
+Greenwich Village,Central Park,647	
+Greenwich Village,Chelsea,9345	
+Greenwich Village,Chinatown,380	
+Greenwich Village,City Island,2	
+Greenwich Village,Clearview,1	
+Greenwich Village,Clinton,1796	
+Greenwich Village,Cobble Hill,141	
+Greenwich Village,Country Club,5	
+Greenwich Village,Douglastown-Little Neck,2	
+Greenwich Village,Downtown,273	
+Greenwich Village,Dyker Heights,17	
+Greenwich Village,East Brooklyn,15	
+Greenwich Village,East Harlem,163	
+Greenwich Village,East Village,6083	
+Greenwich Village,Financial District,2251	
+Greenwich Village,Flushing,10	
+Greenwich Village,Fordham,11	
+Greenwich Village,Forest Hills,79	
+Greenwich Village,Fort Green,732	
+Greenwich Village,Garment District,4913	
+Greenwich Village,Glendale,14	
+Greenwich Village,Gramercy,8570	
+Greenwich Village,Gravesend-Sheepshead Bay,36	
+Greenwich Village,Greenwich Village,8495	
+Greenwich Village,Greenwood,58	
+Greenwich Village,Hamilton Heights,160	
+Greenwich Village,Harlem,349	
+Greenwich Village,High Bridge,13	
+Greenwich Village,Hunts Point,7	
+Greenwich Village,Inwood,31	
+Greenwich Village,Jackson Heights,106	
+Greenwich Village,Jamaica,9	
+Greenwich Village,Kings Bridge,9	
+Greenwich Village,Laurelton,1	
+Greenwich Village,Little Italy,1022	
+Greenwich Village,Lower East Side,3248	
+Greenwich Village,Mapleton-Flatlands,47	
+Greenwich Village,Maspeth,29	
+Greenwich Village,Middle Village,9	
+Greenwich Village,Midtown,9787	
+Greenwich Village,Morningside Heights,171	
+Greenwich Village,Morris Heights,3	
+Greenwich Village,Morris Park,4	
+Greenwich Village,Mott Haven,32	
+Greenwich Village,Murray Hill,3258	
+Greenwich Village,Nkew Gardens,22	
+Greenwich Village,North Sutton Area,313	
+Greenwich Village,Park Slope,459	
+Greenwich Village,Parkchester,20	
+Greenwich Village,Queensboro Hill,2	
+Greenwich Village,Ridgewood,32	
+Greenwich Village,Riverdale,3	
+Greenwich Village,Saintalbans,1	
+Greenwich Village,Soho,4362	
+Greenwich Village,Soundview,6	
+Greenwich Village,South Bronx,29	
+Greenwich Village,Spuyten Duyvil,9	
+Greenwich Village,Sunny Side,265	
+Greenwich Village,Sunset Park,70	
+Greenwich Village,Throggs Neck,2	
+Greenwich Village,Tremont,6	
+Greenwich Village,Tribeca,2949	
+Greenwich Village,Union Port,7	
+Greenwich Village,University Heights,6	
+Greenwich Village,Upper East Side,4657	
+Greenwich Village,Upper West Side,2440	
+Greenwich Village,Utopia,27	
+Greenwich Village,Wakefield-Williamsbridge,9	
+Greenwich Village,Washington Heights,278	
+Greenwich Village,West Village,3984	
+Greenwich Village,Williams Bridge,4	
+Greenwich Village,Williamsburg,901	
+Greenwich Village,Woodhaven-Richmond Hill,11	
+Greenwich Village,Woodlawn-Nordwood,3	
+Greenwich Village,Woodside,68	
+Greenwich Village,Yorkville,260	
+Greenwood,Astoria-Long Island City,1	
+Greenwood,Bay Ridge,3	
+Greenwood,Bedford-Stuyvesant,8	
+Greenwood,Boerum Hill,14	
+Greenwood,Borough Park,4	
+Greenwood,Bushwick,2	
+Greenwood,Carroll Gardens,10	
+Greenwood,Chelsea,6	
+Greenwood,Chinatown,1	
+Greenwood,Clinton,3	
+Greenwood,Downtown,6	
+Greenwood,Dyker Heights,1	
+Greenwood,East Brooklyn,1	
+Greenwood,East Harlem,1	
+Greenwood,East Village,6	
+Greenwood,Financial District,7	
+Greenwood,Fort Green,15	
+Greenwood,Garment District,4	
+Greenwood,Gramercy,4	
+Greenwood,Greenwich Village,4	
+Greenwood,Greenwood,24	
+Greenwood,Hamilton Heights,1	
+Greenwood,Inwood,1	
+Greenwood,Jackson Heights,3	
+Greenwood,Lower East Side,6	
+Greenwood,Mapleton-Flatlands,3	
+Greenwood,Midtown,8	
+Greenwood,Murray Hill,3	
+Greenwood,Park Slope,30	
+Greenwood,Ridgewood,1	
+Greenwood,Soho,3	
+Greenwood,Sunny Side,1	
+Greenwood,Sunset Park,13	
+Greenwood,Tribeca,1	
+Greenwood,Upper East Side,7	
+Greenwood,Upper West Side,1	
+Greenwood,West Village,5	
+Greenwood,Williamsburg,6	
+Hamilton Heights,Astoria-Long Island City,30	
+Hamilton Heights,Battery Park,15	
+Hamilton Heights,Bay Ridge,1	
+Hamilton Heights,Baychester,1	
+Hamilton Heights,Bedford Park,2	
+Hamilton Heights,Bedford-Stuyvesant,3	
+Hamilton Heights,Boerum Hill,1	
+Hamilton Heights,Borough Park,1	
+Hamilton Heights,Bushwick,2	
+Hamilton Heights,Carnegie Hill,25	
+Hamilton Heights,Carroll Gardens,3	
+Hamilton Heights,Central Park,48	
+Hamilton Heights,Chelsea,135	
+Hamilton Heights,Chinatown,3	
+Hamilton Heights,Clinton,144	
+Hamilton Heights,Country Club,3	
+Hamilton Heights,Downtown,3	
+Hamilton Heights,East Harlem,113	
+Hamilton Heights,East Village,30	
+Hamilton Heights,Financial District,24	
+Hamilton Heights,Flushing,4	
+Hamilton Heights,Fordham,4	
+Hamilton Heights,Forest Hills,1	
+Hamilton Heights,Fort Green,8	
+Hamilton Heights,Garment District,52	
+Hamilton Heights,Gramercy,71	
+Hamilton Heights,Gravesend-Sheepshead Bay,2	
+Hamilton Heights,Greenwich Village,41	
+Hamilton Heights,Greenwood,1	
+Hamilton Heights,Hamilton Heights,415	
+Hamilton Heights,Harlem,424	
+Hamilton Heights,High Bridge,10	
+Hamilton Heights,Hunts Point,1	
+Hamilton Heights,Inwood,23	
+Hamilton Heights,Jackson Heights,13	
+Hamilton Heights,Jamaica,1	
+Hamilton Heights,Kings Bridge,15	
+Hamilton Heights,Little Italy,8	
+Hamilton Heights,Lower East Side,26	
+Hamilton Heights,Maspeth,2	
+Hamilton Heights,Midtown,244	
+Hamilton Heights,Morningside Heights,350	
+Hamilton Heights,Morris Heights,7	
+Hamilton Heights,Morris Park,1	
+Hamilton Heights,Mott Haven,19	
+Hamilton Heights,Murray Hill,23	
+Hamilton Heights,Nkew Gardens,1	
+Hamilton Heights,North Sutton Area,3	
+Hamilton Heights,Park Slope,3	
+Hamilton Heights,Parkchester,2	
+Hamilton Heights,Riverdale,5	
+Hamilton Heights,Soho,19	
+Hamilton Heights,Soundview,3	
+Hamilton Heights,South Bronx,16	
+Hamilton Heights,Springfield Gardens,1	
+Hamilton Heights,Spuyten Duyvil,1	
+Hamilton Heights,Sunny Side,8	
+Hamilton Heights,Sunset Park,2	
+Hamilton Heights,Tremont,6	
+Hamilton Heights,Tribeca,14	
+Hamilton Heights,Union Port,1	
+Hamilton Heights,University Heights,4	
+Hamilton Heights,Upper East Side,201	
+Hamilton Heights,Upper West Side,620	
+Hamilton Heights,Utopia,2	
+Hamilton Heights,Washington Heights,181	
+Hamilton Heights,West Village,37	
+Hamilton Heights,Williams Bridge,4	
+Hamilton Heights,Williamsburg,4	
+Hamilton Heights,Woodhaven-Richmond Hill,1	
+Hamilton Heights,Woodside,1	
+Hamilton Heights,Yorkville,68	
+Harlem,Astoria-Long Island City,70	
+Harlem,Auburndale,1	
+Harlem,Battery Park,10	
+Harlem,Bay Ridge,2	
+Harlem,Bedford Park,9	
+Harlem,Bedford-Stuyvesant,22	
+Harlem,Boerum Hill,11	
+Harlem,Borough Park,3	
+Harlem,Brownsville,2	
+Harlem,Bushwick,1	
+Harlem,Canarsie,1	
+Harlem,Carnegie Hill,158	
+Harlem,Carroll Gardens,3	
+Harlem,Central Park,282	
+Harlem,Chelsea,186	
+Harlem,Chinatown,10	
+Harlem,Clinton,179	
+Harlem,Cobble Hill,1	
+Harlem,Country Club,2	
+Harlem,Downtown,12	
+Harlem,East Harlem,516	
+Harlem,East Village,75	
+Harlem,Financial District,49	
+Harlem,Flushing,4	
+Harlem,Fordham,7	
+Harlem,Forest Hills,4	
+Harlem,Fort Green,23	
+Harlem,Garment District,112	
+Harlem,Glendale,1	
+Harlem,Gramercy,185	
+Harlem,Greenwich Village,57	
+Harlem,Greenwood,2	
+Harlem,Hamilton Heights,320	
+Harlem,Harlem,1557	
+Harlem,High Bridge,51	
+Harlem,Hunts Point,4	
+Harlem,Inwood,16	
+Harlem,Jackson Heights,18	
+Harlem,Jamaica,6	
+Harlem,Kings Bridge,1	
+Harlem,Little Italy,7	
+Harlem,Lower East Side,66	
+Harlem,Mapleton-Flatlands,2	
+Harlem,Maspeth,2	
+Harlem,Middle Village,2	
+Harlem,Midtown,650	
+Harlem,Morningside Heights,510	
+Harlem,Morris Heights,10	
+Harlem,Morris Park,7	
+Harlem,Mott Haven,71	
+Harlem,Murray Hill,73	
+Harlem,Nkew Gardens,4	
+Harlem,North Sutton Area,30	
+Harlem,Park Slope,5	
+Harlem,Parkchester,11	
+Harlem,Riverdale,8	
+Harlem,Saintalbans,2	
+Harlem,Soho,34	
+Harlem,Soundview,13	
+Harlem,South Bronx,70	
+Harlem,Spuyten Duyvil,4	
+Harlem,Sunny Side,19	
+Harlem,Sunset Park,1	
+Harlem,Throggs Neck,3	
+Harlem,Tremont,16	
+Harlem,Tribeca,26	
+Harlem,Union Port,8	
+Harlem,University Heights,8	
+Harlem,Upper East Side,873	
+Harlem,Upper West Side,1363	
+Harlem,Utopia,3	
+Harlem,Wakefield-Williamsbridge,5	
+Harlem,Washington Heights,176	
+Harlem,West Village,43	
+Harlem,Williams Bridge,4	
+Harlem,Williamsburg,16	
+Harlem,Woodhaven-Richmond Hill,2	
+Harlem,Woodside,6	
+Harlem,Yorkville,402	
+High Bridge,Astoria-Long Island City,1	
+High Bridge,Baychester,1	
+High Bridge,Bedford Park,4	
+High Bridge,Central Park,4	
+High Bridge,Chelsea,1	
+High Bridge,East Harlem,3	
+High Bridge,East Village,1	
+High Bridge,Fordham,2	
+High Bridge,Garment District,2	
+High Bridge,Glendale,1	
+High Bridge,Gramercy,5	
+High Bridge,Hamilton Heights,10	
+High Bridge,Harlem,19	
+High Bridge,High Bridge,67	
+High Bridge,Inwood,1	
+High Bridge,Lower East Side,1	
+High Bridge,Midtown,4	
+High Bridge,Morningside Heights,2	
+High Bridge,Morris Heights,9	
+High Bridge,Mott Haven,14	
+High Bridge,Murray Hill,1	
+High Bridge,Parkchester,3	
+High Bridge,Riverdale,1	
+High Bridge,South Bronx,9	
+High Bridge,Tremont,5	
+High Bridge,Union Port,1	
+High Bridge,University Heights,1	
+High Bridge,Upper East Side,11	
+High Bridge,Upper West Side,3	
+High Bridge,Utopia,1	
+High Bridge,Wakefield-Williamsbridge,3	
+High Bridge,Washington Heights,8	
+High Bridge,Woodside,1	
+High Bridge,Yorkville,4	
+Hunts Point,Boerum Hill,1	
+Hunts Point,Central Park,1	
+Hunts Point,Harlem,2	
+Hunts Point,Hunts Point,8	
+Hunts Point,Laurelton,1	
+Hunts Point,Mott Haven,2	
+Hunts Point,Murray Hill,1	
+Hunts Point,North Sutton Area,1	
+Hunts Point,Parkchester,1	
+Hunts Point,Soundview,5	
+Hunts Point,South Bronx,1	
+Hunts Point,Tremont,1	
+Hunts Point,Union Port,1	
+Hunts Point,Upper East Side,4	
+Inwood,Astoria-Long Island City,1	
+Inwood,Bedford Park,1	
+Inwood,Borough Park,1	
+Inwood,Chelsea,3	
+Inwood,Clinton,4	
+Inwood,East Harlem,2	
+Inwood,East Village,1	
+Inwood,Financial District,1	
+Inwood,Fordham,1	
+Inwood,Fort Green,1	
+Inwood,Garment District,2	
+Inwood,Gramercy,4	
+Inwood,Hamilton Heights,6	
+Inwood,Harlem,10	
+Inwood,High Bridge,1	
+Inwood,Inwood,22	
+Inwood,Kings Bridge,1	
+Inwood,Lower East Side,1	
+Inwood,Midtown,4	
+Inwood,Morningside Heights,5	
+Inwood,Morris Heights,2	
+Inwood,Murray Hill,1	
+Inwood,North Sutton Area,1	
+Inwood,Riverdale,2	
+Inwood,Soho,1	
+Inwood,South Bronx,2	
+Inwood,Spuyten Duyvil,2	
+Inwood,Sunny Side,1	
+Inwood,Tremont,3	
+Inwood,Union Port,2	
+Inwood,University Heights,5	
+Inwood,Upper East Side,5	
+Inwood,Upper West Side,7	
+Inwood,Washington Heights,39	
+Inwood,West Village,1	
+Inwood,Williams Bridge,1	
+Inwood,Yorkville,1	
+Jackson Heights,Astoria-Long Island City,138	
+Jackson Heights,Battery Park,14	
+Jackson Heights,Bay Ridge,1	
+Jackson Heights,Bedford Park,1	
+Jackson Heights,Bedford-Stuyvesant,6	
+Jackson Heights,Bensonhurst,1	
+Jackson Heights,Boerum Hill,2	
+Jackson Heights,Borough Park,2	
+Jackson Heights,Brownsville,1	
+Jackson Heights,Bushwick,3	
+Jackson Heights,Canarsie,1	
+Jackson Heights,Carnegie Hill,2	
+Jackson Heights,Carroll Gardens,1	
+Jackson Heights,Central Park,14	
+Jackson Heights,Chelsea,14	
+Jackson Heights,Chinatown,2	
+Jackson Heights,Clinton,20	
+Jackson Heights,Cobble Hill,1	
+Jackson Heights,Corona,1	
+Jackson Heights,Country Club,1	
+Jackson Heights,Douglastown-Little Neck,2	
+Jackson Heights,Downtown,6	
+Jackson Heights,East Brooklyn,1	
+Jackson Heights,East Harlem,6	
+Jackson Heights,East Village,10	
+Jackson Heights,Financial District,14	
+Jackson Heights,Flushing,21	
+Jackson Heights,Fordham,2	
+Jackson Heights,Forest Hills,15	
+Jackson Heights,Fort Green,7	
+Jackson Heights,Garment District,26	
+Jackson Heights,Glendale,2	
+Jackson Heights,Gramercy,36	
+Jackson Heights,Gravesend-Sheepshead Bay,1	
+Jackson Heights,Greenwich Village,9	
+Jackson Heights,Hamilton Heights,9	
+Jackson Heights,Harlem,13	
+Jackson Heights,High Bridge,2	
+Jackson Heights,Hunts Point,1	
+Jackson Heights,Jackson Heights,338	
+Jackson Heights,Jamaica,8	
+Jackson Heights,Little Italy,9	
+Jackson Heights,Lower East Side,8	
+Jackson Heights,Mapleton-Flatlands,3	
+Jackson Heights,Maspeth,6	
+Jackson Heights,Middle Village,7	
+Jackson Heights,Midtown,100	
+Jackson Heights,Morningside Heights,4	
+Jackson Heights,Morris Heights,1	
+Jackson Heights,Mott Haven,6	
+Jackson Heights,Murray Hill,18	
+Jackson Heights,Nkew Gardens,7	
+Jackson Heights,North Sutton Area,11	
+Jackson Heights,Park Slope,8	
+Jackson Heights,Parkchester,3	
+Jackson Heights,Queensboro Hill,4	
+Jackson Heights,Ridgewood,3	
+Jackson Heights,Saintalbans,1	
+Jackson Heights,Soho,2	
+Jackson Heights,Soundview,2	
+Jackson Heights,South Bronx,4	
+Jackson Heights,Steinway,1	
+Jackson Heights,Sunny Side,68	
+Jackson Heights,The Rockaways,1	
+Jackson Heights,Tremont,1	
+Jackson Heights,Tribeca,4	
+Jackson Heights,University Heights,1	
+Jackson Heights,Upper East Side,75	
+Jackson Heights,Upper West Side,27	
+Jackson Heights,Utopia,6	
+Jackson Heights,Washington Heights,6	
+Jackson Heights,West Village,4	
+Jackson Heights,Williams Bridge,1	
+Jackson Heights,Williamsburg,11	
+Jackson Heights,Woodhaven-Richmond Hill,5	
+Jackson Heights,Woodside,102	
+Jackson Heights,Yorkville,13	
+Jamaica,Astoria-Long Island City,2	
+Jamaica,Battery Park,10	
+Jamaica,Carnegie Hill,2	
+Jamaica,Carroll Gardens,1	
+Jamaica,Central Park,10	
+Jamaica,Chelsea,15	
+Jamaica,Clinton,20	
+Jamaica,Downtown,1	
+Jamaica,East Harlem,2	
+Jamaica,East Village,16	
+Jamaica,Financial District,6	
+Jamaica,Forest Hills,1	
+Jamaica,Fort Green,2	
+Jamaica,Garment District,21	
+Jamaica,Gramercy,16	
+Jamaica,Greenwich Village,13	
+Jamaica,Hamilton Heights,3	
+Jamaica,Harlem,6	
+Jamaica,High Bridge,1	
+Jamaica,Jackson Heights,6	
+Jamaica,Jamaica,42	
+Jamaica,Little Italy,6	
+Jamaica,Lower East Side,12	
+Jamaica,Mapleton-Flatlands,1	
+Jamaica,Midtown,76	
+Jamaica,Morningside Heights,7	
+Jamaica,Morris Park,1	
+Jamaica,Mott Haven,1	
+Jamaica,Murray Hill,22	
+Jamaica,Nkew Gardens,1	
+Jamaica,North Sutton Area,7	
+Jamaica,Queens Village,2	
+Jamaica,Riverdale,1	
+Jamaica,Saintalbans,3	
+Jamaica,Soho,11	
+Jamaica,Springfield Gardens,4	
+Jamaica,Sunny Side,2	
+Jamaica,Throggs Neck,1	
+Jamaica,Tribeca,3	
+Jamaica,Upper East Side,35	
+Jamaica,Upper West Side,35	
+Jamaica,Utopia,6	
+Jamaica,Wakefield-Williamsbridge,1	
+Jamaica,Washington Heights,4	
+Jamaica,West Village,11	
+Jamaica,Williamsburg,2	
+Jamaica,Woodhaven-Richmond Hill,3	
+Jamaica,Woodside,1	
+Jamaica,Yorkville,8	
+Kings Bridge,Bedford Park,1	
+Kings Bridge,Greenwich Village,1	
+Kings Bridge,Hamilton Heights,3	
+Kings Bridge,Harlem,1	
+Kings Bridge,Inwood,5	
+Kings Bridge,Kings Bridge,12	
+Kings Bridge,Lower East Side,1	
+Kings Bridge,Midtown,1	
+Kings Bridge,Morningside Heights,2	
+Kings Bridge,Morris Heights,1	
+Kings Bridge,Mott Haven,1	
+Kings Bridge,Riverdale,2	
+Kings Bridge,Soundview,1	
+Kings Bridge,Spuyten Duyvil,3	
+Kings Bridge,Tremont,1	
+Kings Bridge,University Heights,2	
+Kings Bridge,Upper East Side,1	
+Kings Bridge,Upper West Side,1	
+Kings Bridge,Washington Heights,5	
+Laurelton,Bay Ridge,1	
+Laurelton,Springfield Gardens,1	
+Little Italy,Astoria-Long Island City,66	
+Little Italy,Auburndale,1	
+Little Italy,Battery Park,164	
+Little Italy,Bay Ridge,12	
+Little Italy,Bedford-Stuyvesant,83	
+Little Italy,Bensonhurst,1	
+Little Italy,Boerum Hill,38	
+Little Italy,Borough Park,12	
+Little Italy,Brownsville,1	
+Little Italy,Bushwick,45	
+Little Italy,Canarsie,2	
+Little Italy,Carnegie Hill,60	
+Little Italy,Carroll Gardens,46	
+Little Italy,Central Park,98	
+Little Italy,Chelsea,1264	
+Little Italy,Chinatown,98	
+Little Italy,Clearview,1	
+Little Italy,Clinton,313	
+Little Italy,Cobble Hill,33	
+Little Italy,Downtown,81	
+Little Italy,Dyker Heights,3	
+Little Italy,East Harlem,15	
+Little Italy,East Village,1240	
+Little Italy,Financial District,504	
+Little Italy,Flushing,2	
+Little Italy,Forest Hills,14	
+Little Italy,Fort Green,194	
+Little Italy,Garment District,797	
+Little Italy,Gramercy,1579	
+Little Italy,Gravesend-Sheepshead Bay,5	
+Little Italy,Greenwich Village,1502	
+Little Italy,Greenwood,15	
+Little Italy,Hamilton Heights,11	
+Little Italy,Harlem,54	
+Little Italy,High Bridge,1	
+Little Italy,Inwood,4	
+Little Italy,Jackson Heights,24	
+Little Italy,Jamaica,2	
+Little Italy,Little Italy,335	
+Little Italy,Lower East Side,900	
+Little Italy,Mapleton-Flatlands,5	
+Little Italy,Maspeth,6	
+Little Italy,Midtown,1780	
+Little Italy,Morningside Heights,19	
+Little Italy,Mott Haven,5	
+Little Italy,Murray Hill,559	
+Little Italy,Nkew Gardens,3	
+Little Italy,North Sutton Area,64	
+Little Italy,Park Slope,98	
+Little Italy,Parkchester,1	
+Little Italy,Queensboro Hill,2	
+Little Italy,Ridgewood,7	
+Little Italy,Riverdale,2	
+Little Italy,Soho,657	
+Little Italy,South Bronx,4	
+Little Italy,Spuyten Duyvil,4	
+Little Italy,Sunny Side,55	
+Little Italy,Sunset Park,13	
+Little Italy,Throggs Neck,1	
+Little Italy,Tribeca,571	
+Little Italy,University Heights,3	
+Little Italy,Upper East Side,815	
+Little Italy,Upper West Side,422	
+Little Italy,Utopia,4	
+Little Italy,Wakefield-Williamsbridge,2	
+Little Italy,Washington Heights,22	
+Little Italy,West Village,784	
+Little Italy,Williamsburg,375	
+Little Italy,Woodhaven-Richmond Hill,2	
+Little Italy,Woodlawn-Nordwood,1	
+Little Italy,Woodside,7	
+Little Italy,Yorkville,41	
+Lower East Side,Astoria-Long Island City,275	
+Lower East Side,Auburndale,5	
+Lower East Side,Battery Park,371	
+Lower East Side,Bay Ridge,51	
+Lower East Side,Baychester,1	
+Lower East Side,Bedford Park,5	
+Lower East Side,Bedford-Stuyvesant,451	
+Lower East Side,Bensonhurst,14	
+Lower East Side,Boerum Hill,133	
+Lower East Side,Borough Park,43	
+Lower East Side,Brownsville,7	
+Lower East Side,Bushwick,264	
+Lower East Side,Canarsie,9	
+Lower East Side,Carnegie Hill,83	
+Lower East Side,Carroll Gardens,162	
+Lower East Side,Central Park,242	
+Lower East Side,Chelsea,2079	
+Lower East Side,Chinatown,375	
+Lower East Side,Clearview,1	
+Lower East Side,Clinton,558	
+Lower East Side,Cobble Hill,88	
+Lower East Side,Country Club,1	
+Lower East Side,Douglastown-Little Neck,2	
+Lower East Side,Downtown,255	
+Lower East Side,Dyker Heights,12	
+Lower East Side,East Brooklyn,15	
+Lower East Side,East Harlem,107	
+Lower East Side,East Village,3667	
+Lower East Side,Financial District,1481	
+Lower East Side,Flushing,10	
+Lower East Side,Fordham,6	
+Lower East Side,Forest Hills,56	
+Lower East Side,Fort Green,669	
+Lower East Side,Garment District,1494	
+Lower East Side,Glendale,8	
+Lower East Side,Gramercy,3753	
+Lower East Side,Gravesend-Sheepshead Bay,27	
+Lower East Side,Greenwich Village,2407	
+Lower East Side,Greenwood,44	
+Lower East Side,Hamilton Heights,78	
+Lower East Side,Harlem,212	
+Lower East Side,High Bridge,9	
+Lower East Side,Hunts Point,7	
+Lower East Side,Inwood,17	
+Lower East Side,Jackson Heights,80	
+Lower East Side,Jamaica,7	
+Lower East Side,Kings Bridge,7	
+Lower East Side,Laurelton,1	
+Lower East Side,Little Italy,692	
+Lower East Side,Lower East Side,2935	
+Lower East Side,Mapleton-Flatlands,53	
+Lower East Side,Maspeth,21	
+Lower East Side,Middle Village,7	
+Lower East Side,Midtown,2952	
+Lower East Side,Morningside Heights,57	
+Lower East Side,Morris Heights,4	
+Lower East Side,Morris Park,5	
+Lower East Side,Mott Haven,19	
+Lower East Side,Murray Hill,1184	
+Lower East Side,Nkew Gardens,13	
+Lower East Side,North Sutton Area,228	
+Lower East Side,Park Slope,319	
+Lower East Side,Parkchester,7	
+Lower East Side,Queensboro Hill,5	
+Lower East Side,Ridgewood,58	
+Lower East Side,Riverdale,8	
+Lower East Side,Saintalbans,2	
+Lower East Side,Soho,1681	
+Lower East Side,Soundview,7	
+Lower East Side,South Bronx,12	
+Lower East Side,Spuyten Duyvil,7	
+Lower East Side,Sunny Side,159	
+Lower East Side,Sunset Park,59	
+Lower East Side,The Rockaways,4	
+Lower East Side,Throggs Neck,2	
+Lower East Side,Tremont,6	
+Lower East Side,Tribeca,938	
+Lower East Side,Union Port,6	
+Lower East Side,University Heights,2	
+Lower East Side,Upper East Side,1984	
+Lower East Side,Upper West Side,850	
+Lower East Side,Utopia,7	
+Lower East Side,Wakefield-Williamsbridge,1	
+Lower East Side,Washington Heights,121	
+Lower East Side,West Village,1232	
+Lower East Side,Williamsburg,1556	
+Lower East Side,Woodhaven-Richmond Hill,11	
+Lower East Side,Woodlawn-Nordwood,3	
+Lower East Side,Woodside,67	
+Lower East Side,Yorkville,183	
+Mapleton-Flatlands,Astoria-Long Island City,1	
+Mapleton-Flatlands,Bay Ridge,1	
+Mapleton-Flatlands,Bedford-Stuyvesant,4	
+Mapleton-Flatlands,Bensonhurst,4	
+Mapleton-Flatlands,Boerum Hill,1	
+Mapleton-Flatlands,Borough Park,16	
+Mapleton-Flatlands,Brownsville,2	
+Mapleton-Flatlands,Bushwick,1	
+Mapleton-Flatlands,Canarsie,2	
+Mapleton-Flatlands,Carroll Gardens,6	
+Mapleton-Flatlands,Chelsea,2	
+Mapleton-Flatlands,Chinatown,1	
+Mapleton-Flatlands,Clinton,2	
+Mapleton-Flatlands,Downtown,5	
+Mapleton-Flatlands,East Village,1	
+Mapleton-Flatlands,Financial District,1	
+Mapleton-Flatlands,Gramercy,2	
+Mapleton-Flatlands,Gravesend-Sheepshead Bay,5	
+Mapleton-Flatlands,Greenwich Village,1	
+Mapleton-Flatlands,Lower East Side,1	
+Mapleton-Flatlands,Mapleton-Flatlands,67	
+Mapleton-Flatlands,Midtown,6	
+Mapleton-Flatlands,Murray Hill,1	
+Mapleton-Flatlands,Park Slope,12	
+Mapleton-Flatlands,Queens Village,1	
+Mapleton-Flatlands,Soho,2	
+Mapleton-Flatlands,Sunny Side,1	
+Mapleton-Flatlands,Tribeca,1	
+Mapleton-Flatlands,Upper East Side,4	
+Mapleton-Flatlands,Upper West Side,2	
+Mapleton-Flatlands,Williamsburg,2	
+Maspeth,Astoria-Long Island City,6	
+Maspeth,Bedford-Stuyvesant,2	
+Maspeth,Bushwick,4	
+Maspeth,Chelsea,4	
+Maspeth,Chinatown,1	
+Maspeth,Clinton,8	
+Maspeth,Douglastown-Little Neck,1	
+Maspeth,Downtown,1	
+Maspeth,East Village,4	
+Maspeth,Financial District,2	
+Maspeth,Flushing,1	
+Maspeth,Forest Hills,2	
+Maspeth,Fort Green,1	
+Maspeth,Garment District,9	
+Maspeth,Gramercy,10	
+Maspeth,Greenwich Village,3	
+Maspeth,Hamilton Heights,1	
+Maspeth,Harlem,1	
+Maspeth,Jackson Heights,4	
+Maspeth,Jamaica,1	
+Maspeth,Lower East Side,4	
+Maspeth,Maspeth,32	
+Maspeth,Middle Village,2	
+Maspeth,Midtown,34	
+Maspeth,Murray Hill,6	
+Maspeth,Nkew Gardens,1	
+Maspeth,North Sutton Area,3	
+Maspeth,Ridgewood,6	
+Maspeth,Soho,6	
+Maspeth,Sunny Side,5	
+Maspeth,Tribeca,1	
+Maspeth,Upper East Side,7	
+Maspeth,Upper West Side,2	
+Maspeth,West Village,3	
+Maspeth,Williamsburg,5	
+Maspeth,Woodhaven-Richmond Hill,1	
+Maspeth,Woodside,15	
+Middle Village,Astoria-Long Island City,2	
+Middle Village,Bushwick,1	
+Middle Village,East Village,1	
+Middle Village,Flushing,1	
+Middle Village,Forest Hills,1	
+Middle Village,Jackson Heights,1	
+Middle Village,Maspeth,2	
+Middle Village,Middle Village,4	
+Middle Village,Midtown,3	
+Middle Village,Murray Hill,2	
+Middle Village,North Sutton Area,1	
+Middle Village,Tribeca,1	
+Middle Village,Upper East Side,2	
+Middle Village,Woodhaven-Richmond Hill,1	
+Midtown,Astoria-Long Island City,2460	
+Midtown,Auburndale,23	
+Midtown,Battery Park,2729	
+Midtown,Bay Ridge,186	
+Midtown,Baychester,9	
+Midtown,Bedford Park,54	
+Midtown,Bedford-Stuyvesant,302	
+Midtown,Bensonhurst,39	
+Midtown,Boerum Hill,241	
+Midtown,Borough Park,108	
+Midtown,Brownsville,23	
+Midtown,Bushwick,128	
+Midtown,Canarsie,32	
+Midtown,Carnegie Hill,3825	
+Midtown,Carroll Gardens,266	
+Midtown,Central Park,8009	
+Midtown,Chelsea,16387	
+Midtown,Chinatown,590	
+Midtown,City Island,2	
+Midtown,Clearview,19	
+Midtown,Clinton,18200	
+Midtown,Cobble Hill,170	
+Midtown,Corona,3	
+Midtown,Country Club,11	
+Midtown,Douglastown-Little Neck,26	
+Midtown,Downtown,559	
+Midtown,Dyker Heights,27	
+Midtown,East Brooklyn,20	
+Midtown,East Harlem,954	
+Midtown,East Village,6417	
+Midtown,Financial District,5649	
+Midtown,Flatbush,3	
+Midtown,Flushing,104	
+Midtown,Fordham,45	
+Midtown,Forest Hills,425	
+Midtown,Fort Green,719	
+Midtown,Garment District,25970	
+Midtown,Glendale,21	
+Midtown,Gramercy,27461	
+Midtown,Gravesend-Sheepshead Bay,108	
+Midtown,Greenwich Village,9524	
+Midtown,Greenwood,65	
+Midtown,Hamilton Heights,581	
+Midtown,Harlem,1970	
+Midtown,High Bridge,69	
+Midtown,Hunts Point,14	
+Midtown,Inwood,191	
+Midtown,Jackson Heights,552	
+Midtown,Jamaica,75	
+Midtown,Kings Bridge,53	
+Midtown,Laurelton,6	
+Midtown,Little Italy,1163	
+Midtown,Lower East Side,3457	
+Midtown,Mapleton-Flatlands,125	
+Midtown,Maspeth,130	
+Midtown,Middle Village,78	
+Midtown,Midtown,75629	
+Midtown,Morningside Heights,992	
+Midtown,Morris Heights,35	
+Midtown,Morris Park,34	
+Midtown,Mott Haven,118	
+Midtown,Murray Hill,14480	
+Midtown,Nkew Gardens,143	
+Midtown,North Sutton Area,3155	
+Midtown,Park Slope,616	
+Midtown,Parkchester,67	
+Midtown,Queens Village,9	
+Midtown,Queensboro Hill,41	
+Midtown,Ridgewood,83	
+Midtown,Riverdale,97	
+Midtown,Saintalbans,14	
+Midtown,Soho,5219	
+Midtown,Soundview,51	
+Midtown,South Bronx,114	
+Midtown,Springfield Gardens,15	
+Midtown,Spuyten Duyvil,73	
+Midtown,Steinway,1	
+Midtown,Sunny Side,1559	
+Midtown,Sunset Park,74	
+Midtown,The Rockaways,8	
+Midtown,Throggs Neck,31	
+Midtown,Tremont,32	
+Midtown,Tribeca,3676	
+Midtown,Union Port,15	
+Midtown,University Heights,36	
+Midtown,Upper East Side,47414	
+Midtown,Upper West Side,25373	
+Midtown,Utopia,88	
+Midtown,Wakefield-Williamsbridge,23	
+Midtown,Washington Heights,1333	
+Midtown,West Village,4928	
+Midtown,Williams Bridge,21	
+Midtown,Williamsburg,887	
+Midtown,Woodhaven-Richmond Hill,46	
+Midtown,Woodlawn-Nordwood,45	
+Midtown,Woodside,413	
+Midtown,Yorkville,1908	
+Morningside Heights,Astoria-Long Island City,33	
+Morningside Heights,Battery Park,39	
+Morningside Heights,Bay Ridge,1	
+Morningside Heights,Baychester,1	
+Morningside Heights,Bedford Park,6	
+Morningside Heights,Bedford-Stuyvesant,1	
+Morningside Heights,Bensonhurst,1	
+Morningside Heights,Boerum Hill,2	
+Morningside Heights,Brownsville,1	
+Morningside Heights,Bushwick,4	
+Morningside Heights,Canarsie,1	
+Morningside Heights,Carnegie Hill,251	
+Morningside Heights,Carroll Gardens,2	
+Morningside Heights,Central Park,317	
+Morningside Heights,Chelsea,262	
+Morningside Heights,Chinatown,14	
+Morningside Heights,City Island,1	
+Morningside Heights,Clinton,256	
+Morningside Heights,Cobble Hill,3	
+Morningside Heights,Country Club,1	
+Morningside Heights,Douglastown-Little Neck,2	
+Morningside Heights,Downtown,4	
+Morningside Heights,Dyker Heights,2	
+Morningside Heights,East Brooklyn,1	
+Morningside Heights,East Harlem,309	
+Morningside Heights,East Village,70	
+Morningside Heights,Financial District,33	
+Morningside Heights,Flushing,5	
+Morningside Heights,Fordham,6	
+Morningside Heights,Forest Hills,7	
+Morningside Heights,Fort Green,10	
+Morningside Heights,Garment District,172	
+Morningside Heights,Glendale,1	
+Morningside Heights,Gramercy,181	
+Morningside Heights,Gravesend-Sheepshead Bay,1	
+Morningside Heights,Greenwich Village,96	
+Morningside Heights,Hamilton Heights,515	
+Morningside Heights,Harlem,804	
+Morningside Heights,High Bridge,20	
+Morningside Heights,Inwood,33	
+Morningside Heights,Jackson Heights,6	
+Morningside Heights,Jamaica,2	
+Morningside Heights,Kings Bridge,6	
+Morningside Heights,Little Italy,13	
+Morningside Heights,Lower East Side,49	
+Morningside Heights,Mapleton-Flatlands,1	
+Morningside Heights,Midtown,934	
+Morningside Heights,Morningside Heights,1065	
+Morningside Heights,Morris Heights,5	
+Morningside Heights,Morris Park,5	
+Morningside Heights,Mott Haven,16	
+Morningside Heights,Murray Hill,112	
+Morningside Heights,Nkew Gardens,4	
+Morningside Heights,North Sutton Area,42	
+Morningside Heights,Park Slope,8	
+Morningside Heights,Queens Village,2	
+Morningside Heights,Ridgewood,1	
+Morningside Heights,Riverdale,13	
+Morningside Heights,Soho,47	
+Morningside Heights,Soundview,1	
+Morningside Heights,South Bronx,21	
+Morningside Heights,Spuyten Duyvil,14	
+Morningside Heights,Sunny Side,15	
+Morningside Heights,Sunset Park,1	
+Morningside Heights,Throggs Neck,1	
+Morningside Heights,Tremont,2	
+Morningside Heights,Tribeca,36	
+Morningside Heights,Union Port,2	
+Morningside Heights,University Heights,9	
+Morningside Heights,Upper East Side,1097	
+Morningside Heights,Upper West Side,3707	
+Morningside Heights,Utopia,4	
+Morningside Heights,Wakefield-Williamsbridge,2	
+Morningside Heights,Washington Heights,426	
+Morningside Heights,West Village,66	
+Morningside Heights,Williams Bridge,2	
+Morningside Heights,Williamsburg,13	
+Morningside Heights,Woodside,4	
+Morningside Heights,Yorkville,207	
+Morris Heights,Bedford Park,1	
+Morris Heights,Central Park,2	
+Morris Heights,Hamilton Heights,1	
+Morris Heights,Harlem,3	
+Morris Heights,High Bridge,5	
+Morris Heights,Hunts Point,1	
+Morris Heights,Midtown,5	
+Morris Heights,Morris Heights,271	
+Morris Heights,Mott Haven,2	
+Morris Heights,Soundview,2	
+Morris Heights,South Bronx,5	
+Morris Heights,Tremont,4	
+Morris Heights,Union Port,2	
+Morris Heights,University Heights,4	
+Morris Heights,Upper East Side,1	
+Morris Heights,Upper West Side,3	
+Morris Heights,Wakefield-Williamsbridge,1	
+Morris Heights,Washington Heights,6	
+Morris Heights,Williams Bridge,1	
+Morris Park,Bedford Park,2	
+Morris Park,High Bridge,1	
+Morris Park,Midtown,2	
+Morris Park,Morris Park,3	
+Morris Park,Parkchester,2	
+Morris Park,South Bronx,1	
+Morris Park,Tremont,1	
+Morris Park,Wakefield-Williamsbridge,2	
+Morris Park,Williams Bridge,4	
+Mott Haven,Astoria-Long Island City,7	
+Mott Haven,Baychester,1	
+Mott Haven,Bedford Park,1	
+Mott Haven,Bedford-Stuyvesant,1	
+Mott Haven,Carnegie Hill,2	
+Mott Haven,Central Park,15	
+Mott Haven,Chelsea,9	
+Mott Haven,Clinton,4	
+Mott Haven,Country Club,1	
+Mott Haven,Downtown,2	
+Mott Haven,East Harlem,25	
+Mott Haven,East Village,5	
+Mott Haven,Financial District,2	
+Mott Haven,Fordham,2	
+Mott Haven,Garment District,8	
+Mott Haven,Gramercy,12	
+Mott Haven,Greenwich Village,3	
+Mott Haven,Hamilton Heights,13	
+Mott Haven,Harlem,71	
+Mott Haven,High Bridge,10	
+Mott Haven,Hunts Point,1	
+Mott Haven,Kings Bridge,1	
+Mott Haven,Little Italy,1	
+Mott Haven,Lower East Side,5	
+Mott Haven,Midtown,18	
+Mott Haven,Morris Heights,2	
+Mott Haven,Morris Park,1	
+Mott Haven,Mott Haven,66	
+Mott Haven,Murray Hill,8	
+Mott Haven,North Sutton Area,2	
+Mott Haven,Parkchester,6	
+Mott Haven,Soho,2	
+Mott Haven,Soundview,8	
+Mott Haven,South Bronx,15	
+Mott Haven,Sunny Side,1	
+Mott Haven,Throggs Neck,4	
+Mott Haven,Tremont,4	
+Mott Haven,Tribeca,1	
+Mott Haven,Union Port,2	
+Mott Haven,University Heights,2	
+Mott Haven,Upper East Side,40	
+Mott Haven,Upper West Side,19	
+Mott Haven,Wakefield-Williamsbridge,2	
+Mott Haven,Washington Heights,18	
+Mott Haven,West Village,2	
+Mott Haven,Williams Bridge,1	
+Mott Haven,Williamsburg,1	
+Mott Haven,Yorkville,30	
+Murray Hill,Astoria-Long Island City,361	
+Murray Hill,Auburndale,7	
+Murray Hill,Battery Park,510	
+Murray Hill,Bay Ridge,49	
+Murray Hill,Bedford Park,9	
+Murray Hill,Bedford-Stuyvesant,73	
+Murray Hill,Bensonhurst,15	
+Murray Hill,Boerum Hill,34	
+Murray Hill,Borough Park,37	
+Murray Hill,Brownsville,4	
+Murray Hill,Bushwick,35	
+Murray Hill,Canarsie,6	
+Murray Hill,Carnegie Hill,479	
+Murray Hill,Carroll Gardens,59	
+Murray Hill,Central Park,945	
+Murray Hill,Chelsea,3614	
+Murray Hill,Chinatown,173	
+Murray Hill,Clearview,6	
+Murray Hill,Clinton,2278	
+Murray Hill,Cobble Hill,43	
+Murray Hill,Corona,1	
+Murray Hill,Country Club,1	
+Murray Hill,Douglastown-Little Neck,5	
+Murray Hill,Downtown,123	
+Murray Hill,Dyker Heights,10	
+Murray Hill,East Brooklyn,2	
+Murray Hill,East Harlem,153	
+Murray Hill,East Village,2267	
+Murray Hill,Financial District,1291	
+Murray Hill,Flushing,25	
+Murray Hill,Fordham,8	
+Murray Hill,Forest Hills,94	
+Murray Hill,Fort Green,150	
+Murray Hill,Garment District,5765	
+Murray Hill,Glendale,6	
+Murray Hill,Gramercy,8895	
+Murray Hill,Gravesend-Sheepshead Bay,30	
+Murray Hill,Greenwich Village,2557	
+Murray Hill,Greenwood,18	
+Murray Hill,Hamilton Heights,58	
+Murray Hill,Harlem,243	
+Murray Hill,High Bridge,17	
+Murray Hill,Hunts Point,4	
+Murray Hill,Inwood,19	
+Murray Hill,Jackson Heights,98	
+Murray Hill,Jamaica,16	
+Murray Hill,Kings Bridge,10	
+Murray Hill,Laurelton,4	
+Murray Hill,Little Italy,289	
+Murray Hill,Lower East Side,1074	
+Murray Hill,Mapleton-Flatlands,32	
+Murray Hill,Maspeth,31	
+Murray Hill,Middle Village,21	
+Murray Hill,Midtown,13715	
+Murray Hill,Morningside Heights,89	
+Murray Hill,Morris Heights,2	
+Murray Hill,Morris Park,5	
+Murray Hill,Mott Haven,27	
+Murray Hill,Murray Hill,3919	
+Murray Hill,Nkew Gardens,41	
+Murray Hill,North Sutton Area,798	
+Murray Hill,Park Slope,143	
+Murray Hill,Parkchester,16	
+Murray Hill,Queens Village,3	
+Murray Hill,Queensboro Hill,9	
+Murray Hill,Ridgewood,20	
+Murray Hill,Riverdale,10	
+Murray Hill,Saintalbans,3	
+Murray Hill,Soho,1182	
+Murray Hill,Soundview,6	
+Murray Hill,South Bronx,18	
+Murray Hill,Springfield Gardens,5	
+Murray Hill,Spuyten Duyvil,6	
+Murray Hill,Sunny Side,329	
+Murray Hill,Sunset Park,14	
+Murray Hill,The Rockaways,6	
+Murray Hill,Throggs Neck,4	
+Murray Hill,Tremont,2	
+Murray Hill,Tribeca,742	
+Murray Hill,Union Port,5	
+Murray Hill,University Heights,8	
+Murray Hill,Upper East Side,7873	
+Murray Hill,Upper West Side,2372	
+Murray Hill,Utopia,26	
+Murray Hill,Wakefield-Williamsbridge,3	
+Murray Hill,Washington Heights,172	
+Murray Hill,West Village,985	
+Murray Hill,Williams Bridge,1	
+Murray Hill,Williamsburg,237	
+Murray Hill,Woodhaven-Richmond Hill,12	
+Murray Hill,Woodlawn-Nordwood,11	
+Murray Hill,Woodside,88	
+Murray Hill,Yorkville,303	
+Nkew Gardens,Astoria-Long Island City,2	
+Nkew Gardens,Battery Park,4	
+Nkew Gardens,Bushwick,1	
+Nkew Gardens,Carnegie Hill,1	
+Nkew Gardens,Central Park,2	
+Nkew Gardens,Chelsea,2	
+Nkew Gardens,Chinatown,2	
+Nkew Gardens,Douglastown-Little Neck,3	
+Nkew Gardens,Downtown,1	
+Nkew Gardens,East Brooklyn,1	
+Nkew Gardens,East Harlem,2	
+Nkew Gardens,East Village,5	
+Nkew Gardens,Financial District,1	
+Nkew Gardens,Flushing,6	
+Nkew Gardens,Forest Hills,37	
+Nkew Gardens,Fort Green,2	
+Nkew Gardens,Garment District,3	
+Nkew Gardens,Glendale,1	
+Nkew Gardens,Gramercy,6	
+Nkew Gardens,Greenwich Village,2	
+Nkew Gardens,Jackson Heights,6	
+Nkew Gardens,Jamaica,10	
+Nkew Gardens,Laurelton,1	
+Nkew Gardens,Little Italy,1	
+Nkew Gardens,Lower East Side,2	
+Nkew Gardens,Maspeth,3	
+Nkew Gardens,Middle Village,1	
+Nkew Gardens,Midtown,10	
+Nkew Gardens,Morningside Heights,2	
+Nkew Gardens,Murray Hill,6	
+Nkew Gardens,Nkew Gardens,148	
+Nkew Gardens,Soho,3	
+Nkew Gardens,Sunny Side,4	
+Nkew Gardens,Upper East Side,5	
+Nkew Gardens,Upper West Side,4	
+Nkew Gardens,Utopia,22	
+Nkew Gardens,Washington Heights,2	
+Nkew Gardens,West Village,3	
+Nkew Gardens,Woodhaven-Richmond Hill,6	
+Nkew Gardens,Woodside,2	
+North Sutton Area,Astoria-Long Island City,196	
+North Sutton Area,Battery Park,100	
+North Sutton Area,Bay Ridge,12	
+North Sutton Area,Bedford Park,7	
+North Sutton Area,Bedford-Stuyvesant,12	
+North Sutton Area,Bensonhurst,2	
+North Sutton Area,Boerum Hill,12	
+North Sutton Area,Borough Park,4	
+North Sutton Area,Brownsville,1	
+North Sutton Area,Bushwick,7	
+North Sutton Area,Canarsie,1	
+North Sutton Area,Carnegie Hill,236	
+North Sutton Area,Carroll Gardens,18	
+North Sutton Area,Central Park,294	
+North Sutton Area,Chelsea,556	
+North Sutton Area,Chinatown,35	
+North Sutton Area,Clinton,292	
+North Sutton Area,Cobble Hill,6	
+North Sutton Area,Country Club,3	
+North Sutton Area,Douglastown-Little Neck,2	
+North Sutton Area,Downtown,40	
+North Sutton Area,Dyker Heights,6	
+North Sutton Area,East Brooklyn,2	
+North Sutton Area,East Harlem,56	
+North Sutton Area,East Village,606	
+North Sutton Area,Financial District,343	
+North Sutton Area,Flushing,2	
+North Sutton Area,Fordham,3	
+North Sutton Area,Forest Hills,26	
+North Sutton Area,Fort Green,25	
+North Sutton Area,Garment District,1054	
+North Sutton Area,Glendale,2	
+North Sutton Area,Gramercy,2155	
+North Sutton Area,Gravesend-Sheepshead Bay,5	
+North Sutton Area,Greenwich Village,439	
+North Sutton Area,Greenwood,2	
+North Sutton Area,Hamilton Heights,27	
+North Sutton Area,Harlem,82	
+North Sutton Area,High Bridge,6	
+North Sutton Area,Inwood,13	
+North Sutton Area,Jackson Heights,34	
+North Sutton Area,Jamaica,5	
+North Sutton Area,Kings Bridge,6	
+North Sutton Area,Little Italy,74	
+North Sutton Area,Lower East Side,348	
+North Sutton Area,Mapleton-Flatlands,6	
+North Sutton Area,Maspeth,6	
+North Sutton Area,Middle Village,12	
+North Sutton Area,Midtown,4577	
+North Sutton Area,Morningside Heights,30	
+North Sutton Area,Morris Heights,2	
+North Sutton Area,Morris Park,3	
+North Sutton Area,Mott Haven,22	
+North Sutton Area,Murray Hill,1388	
+North Sutton Area,Nkew Gardens,11	
+North Sutton Area,North Sutton Area,866	
+North Sutton Area,Park Slope,26	
+North Sutton Area,Parkchester,4	
+North Sutton Area,Queensboro Hill,4	
+North Sutton Area,Ridgewood,6	
+North Sutton Area,Riverdale,3	
+North Sutton Area,Soho,218	
+North Sutton Area,Soundview,5	
+North Sutton Area,South Bronx,16	
+North Sutton Area,Springfield Gardens,1	
+North Sutton Area,Spuyten Duyvil,4	
+North Sutton Area,Sunny Side,136	
+North Sutton Area,Sunset Park,1	
+North Sutton Area,The Rockaways,1	
+North Sutton Area,Throggs Neck,6	
+North Sutton Area,Tremont,5	
+North Sutton Area,Tribeca,145	
+North Sutton Area,Union Port,2	
+North Sutton Area,University Heights,4	
+North Sutton Area,Upper East Side,4786	
+North Sutton Area,Upper West Side,874	
+North Sutton Area,Utopia,6	
+North Sutton Area,Washington Heights,56	
+North Sutton Area,West Village,188	
+North Sutton Area,Williams Bridge,2	
+North Sutton Area,Williamsburg,52	
+North Sutton Area,Woodhaven-Richmond Hill,4	
+North Sutton Area,Woodlawn-Nordwood,1	
+North Sutton Area,Woodside,28	
+North Sutton Area,Yorkville,150	
+Park Slope,Astoria-Long Island City,20	
+Park Slope,Battery Park,2	
+Park Slope,Bay Ridge,21	
+Park Slope,Bedford-Stuyvesant,112	
+Park Slope,Bensonhurst,7	
+Park Slope,Boerum Hill,80	
+Park Slope,Borough Park,35	
+Park Slope,Brownsville,9	
+Park Slope,Bushwick,20	
+Park Slope,Canarsie,1	
+Park Slope,Carnegie Hill,2	
+Park Slope,Carroll Gardens,120	
+Park Slope,Central Park,7	
+Park Slope,Chelsea,39	
+Park Slope,Chinatown,7	
+Park Slope,Clinton,15	
+Park Slope,Cobble Hill,34	
+Park Slope,Downtown,50	
+Park Slope,Dyker Heights,1	
+Park Slope,East Brooklyn,2	
+Park Slope,East Village,50	
+Park Slope,Financial District,10	
+Park Slope,Flushing,1	
+Park Slope,Forest Hills,5	
+Park Slope,Fort Green,243	
+Park Slope,Garment District,9	
+Park Slope,Glendale,1	
+Park Slope,Gramercy,52	
+Park Slope,Gravesend-Sheepshead Bay,9	
+Park Slope,Greenwich Village,21	
+Park Slope,Greenwood,60	
+Park Slope,Hamilton Heights,1	
+Park Slope,Harlem,4	
+Park Slope,Inwood,1	
+Park Slope,Jackson Heights,2	
+Park Slope,Little Italy,5	
+Park Slope,Lower East Side,54	
+Park Slope,Mapleton-Flatlands,25	
+Park Slope,Maspeth,1	
+Park Slope,Midtown,44	
+Park Slope,Morningside Heights,1	
+Park Slope,Mott Haven,1	
+Park Slope,Murray Hill,21	
+Park Slope,North Sutton Area,6	
+Park Slope,Park Slope,363	
+Park Slope,Queens Village,1	
+Park Slope,Queensboro Hill,1	
+Park Slope,Ridgewood,1	
+Park Slope,Saintalbans,1	
+Park Slope,Soho,19	
+Park Slope,Springfield Gardens,1	
+Park Slope,Spuyten Duyvil,1	
+Park Slope,Sunny Side,12	
+Park Slope,Sunset Park,39	
+Park Slope,Tribeca,18	
+Park Slope,Upper East Side,44	
+Park Slope,Upper West Side,27	
+Park Slope,Washington Heights,4	
+Park Slope,West Village,21	
+Park Slope,Williamsburg,89	
+Park Slope,Woodside,5	
+Park Slope,Yorkville,6	
+Parkchester,Bedford Park,2	
+Parkchester,Chelsea,1	
+Parkchester,Clinton,1	
+Parkchester,Country Club,1	
+Parkchester,East Harlem,3	
+Parkchester,Financial District,1	
+Parkchester,Fordham,1	
+Parkchester,Forest Hills,1	
+Parkchester,Gramercy,1	
+Parkchester,Harlem,1	
+Parkchester,Kings Bridge,1	
+Parkchester,Midtown,2	
+Parkchester,Morris Park,2	
+Parkchester,Mott Haven,1	
+Parkchester,Parkchester,342	
+Parkchester,Soundview,3	
+Parkchester,South Bronx,2	
+Parkchester,Throggs Neck,2	
+Parkchester,Tremont,2	
+Parkchester,Upper East Side,2	
+Parkchester,Wakefield-Williamsbridge,2	
+Parkchester,Washington Heights,1	
+Parkchester,Woodside,1	
+Queens Village,Jamaica,1	
+Queens Village,Queens Village,10	
+Queens Village,Utopia,1	
+Queensboro Hill,Astoria-Long Island City,1	
+Queensboro Hill,Central Park,1	
+Queensboro Hill,Clearview,1	
+Queensboro Hill,Flushing,2	
+Queensboro Hill,Fort Green,1	
+Queensboro Hill,Jackson Heights,2	
+Queensboro Hill,Murray Hill,1	
+Queensboro Hill,Queensboro Hill,11	
+Queensboro Hill,Upper East Side,1	
+Queensboro Hill,Utopia,1	
+Queensboro Hill,Woodside,1	
+Ridgewood,Astoria-Long Island City,4	
+Ridgewood,Bay Ridge,1	
+Ridgewood,Bedford-Stuyvesant,1	
+Ridgewood,Borough Park,1	
+Ridgewood,Bushwick,6	
+Ridgewood,Chelsea,1	
+Ridgewood,Clinton,1	
+Ridgewood,East Brooklyn,1	
+Ridgewood,East Village,1	
+Ridgewood,Forest Hills,1	
+Ridgewood,Fort Green,1	
+Ridgewood,Glendale,5	
+Ridgewood,Gramercy,2	
+Ridgewood,Greenwood,1	
+Ridgewood,Jackson Heights,1	
+Ridgewood,Lower East Side,3	
+Ridgewood,Maspeth,1	
+Ridgewood,Midtown,1	
+Ridgewood,Nkew Gardens,1	
+Ridgewood,Ridgewood,11	
+Ridgewood,Upper East Side,2	
+Ridgewood,Upper West Side,2	
+Ridgewood,Utopia,1	
+Ridgewood,Williamsburg,7	
+Ridgewood,Woodside,2	
+Riverdale,Bedford Park,1	
+Riverdale,Fordham,1	
+Riverdale,Harlem,1	
+Riverdale,Inwood,2	
+Riverdale,Kings Bridge,6	
+Riverdale,Riverdale,7	
+Riverdale,South Bronx,1	
+Riverdale,Spuyten Duyvil,1	
+Riverdale,Upper East Side,1	
+Riverdale,Upper West Side,1	
+Riverdale,Woodlawn-Nordwood,1	
+Saintalbans,East Village,1	
+Saintalbans,Greenwich Village,1	
+Saintalbans,Jamaica,3	
+Saintalbans,Saintalbans,1	
+Saintalbans,Yorkville,1	
+Soho,Astoria-Long Island City,135	
+Soho,Auburndale,2	
+Soho,Battery Park,865	
+Soho,Bay Ridge,35	
+Soho,Bedford Park,5	
+Soho,Bedford-Stuyvesant,192	
+Soho,Bensonhurst,9	
+Soho,Boerum Hill,127	
+Soho,Borough Park,22	
+Soho,Brownsville,6	
+Soho,Bushwick,85	
+Soho,Canarsie,4	
+Soho,Carnegie Hill,131	
+Soho,Carroll Gardens,165	
+Soho,Central Park,260	
+Soho,Chelsea,4544	
+Soho,Chinatown,236	
+Soho,Clearview,1	
+Soho,Clinton,998	
+Soho,Cobble Hill,104	
+Soho,Country Club,1	
+Soho,Douglastown-Little Neck,3	
+Soho,Downtown,217	
+Soho,Dyker Heights,3	
+Soho,East Brooklyn,5	
+Soho,East Harlem,48	
+Soho,East Village,2203	
+Soho,Financial District,1768	
+Soho,Flatbush,1	
+Soho,Flushing,11	
+Soho,Forest Hills,33	
+Soho,Fort Green,498	
+Soho,Garment District,2402	
+Soho,Glendale,2	
+Soho,Gramercy,2963	
+Soho,Gravesend-Sheepshead Bay,11	
+Soho,Greenwich Village,3542	
+Soho,Greenwood,39	
+Soho,Hamilton Heights,71	
+Soho,Harlem,141	
+Soho,High Bridge,4	
+Soho,Hunts Point,1	
+Soho,Inwood,18	
+Soho,Jackson Heights,42	
+Soho,Jamaica,8	
+Soho,Kings Bridge,6	
+Soho,Little Italy,618	
+Soho,Lower East Side,1993	
+Soho,Mapleton-Flatlands,32	
+Soho,Maspeth,9	
+Soho,Middle Village,6	
+Soho,Midtown,4967	
+Soho,Morningside Heights,46	
+Soho,Morris Heights,3	
+Soho,Morris Park,3	
+Soho,Mott Haven,6	
+Soho,Murray Hill,1223	
+Soho,Nkew Gardens,9	
+Soho,North Sutton Area,138	
+Soho,Park Slope,306	
+Soho,Parkchester,2	
+Soho,Queensboro Hill,1	
+Soho,Ridgewood,14	
+Soho,Riverdale,10	
+Soho,Saintalbans,1	
+Soho,Soho,2101	
+Soho,Soundview,5	
+Soho,South Bronx,18	
+Soho,Springfield Gardens,1	
+Soho,Spuyten Duyvil,4	
+Soho,Sunny Side,116	
+Soho,Sunset Park,27	
+Soho,The Rockaways,1	
+Soho,Throggs Neck,1	
+Soho,Tribeca,2062	
+Soho,Union Port,2	
+Soho,University Heights,2	
+Soho,Upper East Side,1890	
+Soho,Upper West Side,1240	
+Soho,Utopia,8	
+Soho,Wakefield-Williamsbridge,7	
+Soho,Washington Heights,100	
+Soho,West Village,2627	
+Soho,Williams Bridge,1	
+Soho,Williamsburg,653	
+Soho,Woodhaven-Richmond Hill,6	
+Soho,Woodside,22	
+Soho,Yorkville,95	
+Soundview,Country Club,1	
+Soundview,Downtown,1	
+Soundview,Fordham,1	
+Soundview,Gramercy,1	
+Soundview,Hunts Point,1	
+Soundview,Kings Bridge,1	
+Soundview,Lower East Side,1	
+Soundview,Midtown,1	
+Soundview,Morris Heights,1	
+Soundview,Morris Park,2	
+Soundview,Mott Haven,1	
+Soundview,Murray Hill,1	
+Soundview,Parkchester,2	
+Soundview,Soundview,22	
+Soundview,South Bronx,5	
+Soundview,Throggs Neck,1	
+Soundview,Tremont,1	
+Soundview,University Heights,1	
+Soundview,Upper East Side,2	
+Soundview,Upper West Side,1	
+Soundview,Williams Bridge,1	
+South Bronx,Astoria-Long Island City,1	
+South Bronx,Bedford Park,2	
+South Bronx,Central Park,1	
+South Bronx,Clinton,1	
+South Bronx,Country Club,3	
+South Bronx,East Harlem,9	
+South Bronx,Financial District,2	
+South Bronx,Flushing,1	
+South Bronx,Fordham,2	
+South Bronx,Greenwich Village,1	
+South Bronx,Hamilton Heights,2	
+South Bronx,Harlem,15	
+South Bronx,High Bridge,6	
+South Bronx,Hunts Point,4	
+South Bronx,Inwood,1	
+South Bronx,Midtown,6	
+South Bronx,Morningside Heights,1	
+South Bronx,Morris Heights,2	
+South Bronx,Morris Park,1	
+South Bronx,Mott Haven,18	
+South Bronx,Parkchester,1	
+South Bronx,Soho,1	
+South Bronx,Soundview,7	
+South Bronx,South Bronx,45	
+South Bronx,Tremont,6	
+South Bronx,Union Port,2	
+South Bronx,University Heights,1	
+South Bronx,Upper East Side,3	
+South Bronx,Upper West Side,5	
+South Bronx,Washington Heights,4	
+South Bronx,Williams Bridge,1	
+South Bronx,Woodlawn-Nordwood,1	
+South Bronx,Yorkville,5	
+Springfield Gardens,Bedford-Stuyvesant,2	
+Springfield Gardens,Carroll Gardens,1	
+Springfield Gardens,Central Park,2	
+Springfield Gardens,Chelsea,2	
+Springfield Gardens,Clinton,3	
+Springfield Gardens,Douglastown-Little Neck,1	
+Springfield Gardens,East Harlem,1	
+Springfield Gardens,East Village,2	
+Springfield Gardens,Forest Hills,1	
+Springfield Gardens,Garment District,2	
+Springfield Gardens,Gramercy,1	
+Springfield Gardens,Greenwich Village,1	
+Springfield Gardens,Jamaica,1	
+Springfield Gardens,Laurelton,1	
+Springfield Gardens,Midtown,7	
+Springfield Gardens,Morningside Heights,1	
+Springfield Gardens,Murray Hill,3	
+Springfield Gardens,North Sutton Area,1	
+Springfield Gardens,Soho,3	
+Springfield Gardens,Springfield Gardens,16	
+Springfield Gardens,Sunny Side,1	
+Springfield Gardens,The Rockaways,1	
+Springfield Gardens,Tribeca,1	
+Springfield Gardens,Upper East Side,6	
+Springfield Gardens,Upper West Side,2	
+Springfield Gardens,Woodside,1	
+Springfield Gardens,Yorkville,1	
+Spuyten Duyvil,Kings Bridge,1	
+Spuyten Duyvil,Morningside Heights,2	
+Spuyten Duyvil,Riverdale,3	
+Spuyten Duyvil,Spuyten Duyvil,5	
+Spuyten Duyvil,Upper West Side,1	
+Spuyten Duyvil,Washington Heights,2	
+Steinway,Gramercy,1	
+Steinway,Mott Haven,1	
+Steinway,Steinway,4	
+Steinway,Sunny Side,1	
+Sunny Side,Astoria-Long Island City,589	
+Sunny Side,Battery Park,19	
+Sunny Side,Bay Ridge,8	
+Sunny Side,Bedford Park,1	
+Sunny Side,Bedford-Stuyvesant,14	
+Sunny Side,Bensonhurst,2	
+Sunny Side,Boerum Hill,9	
+Sunny Side,Borough Park,3	
+Sunny Side,Brownsville,1	
+Sunny Side,Bushwick,26	
+Sunny Side,Canarsie,1	
+Sunny Side,Carnegie Hill,15	
+Sunny Side,Carroll Gardens,9	
+Sunny Side,Central Park,75	
+Sunny Side,Chelsea,142	
+Sunny Side,Chinatown,9	
+Sunny Side,Clinton,62	
+Sunny Side,Cobble Hill,4	
+Sunny Side,Douglastown-Little Neck,3	
+Sunny Side,Downtown,9	
+Sunny Side,East Brooklyn,3	
+Sunny Side,East Harlem,11	
+Sunny Side,East Village,91	
+Sunny Side,Financial District,57	
+Sunny Side,Flushing,14	
+Sunny Side,Fordham,1	
+Sunny Side,Forest Hills,35	
+Sunny Side,Fort Green,42	
+Sunny Side,Garment District,164	
+Sunny Side,Glendale,5	
+Sunny Side,Gramercy,269	
+Sunny Side,Gravesend-Sheepshead Bay,3	
+Sunny Side,Greenwich Village,90	
+Sunny Side,Greenwood,2	
+Sunny Side,Hamilton Heights,9	
+Sunny Side,Harlem,30	
+Sunny Side,Hunts Point,1	
+Sunny Side,Inwood,2	
+Sunny Side,Jackson Heights,104	
+Sunny Side,Jamaica,7	
+Sunny Side,Kings Bridge,3	
+Sunny Side,Laurelton,2	
+Sunny Side,Little Italy,19	
+Sunny Side,Lower East Side,105	
+Sunny Side,Mapleton-Flatlands,1	
+Sunny Side,Maspeth,64	
+Sunny Side,Middle Village,15	
+Sunny Side,Midtown,679	
+Sunny Side,Morningside Heights,15	
+Sunny Side,Morris Heights,2	
+Sunny Side,Morris Park,2	
+Sunny Side,Mott Haven,3	
+Sunny Side,Murray Hill,156	
+Sunny Side,Nkew Gardens,7	
+Sunny Side,North Sutton Area,85	
+Sunny Side,Park Slope,17	
+Sunny Side,Parkchester,1	
+Sunny Side,Queens Village,1	
+Sunny Side,Queensboro Hill,5	
+Sunny Side,Ridgewood,15	
+Sunny Side,Riverdale,3	
+Sunny Side,Saintalbans,1	
+Sunny Side,Soho,57	
+Sunny Side,South Bronx,7	
+Sunny Side,Springfield Gardens,3	
+Sunny Side,Spuyten Duyvil,1	
+Sunny Side,Sunny Side,1145	
+Sunny Side,Sunset Park,1	
+Sunny Side,Tremont,2	
+Sunny Side,Tribeca,27	
+Sunny Side,Union Port,1	
+Sunny Side,University Heights,1	
+Sunny Side,Upper East Side,611	
+Sunny Side,Upper West Side,154	
+Sunny Side,Utopia,6	
+Sunny Side,Wakefield-Williamsbridge,1	
+Sunny Side,Washington Heights,15	
+Sunny Side,West Village,28	
+Sunny Side,Williams Bridge,1	
+Sunny Side,Williamsburg,72	
+Sunny Side,Woodhaven-Richmond Hill,7	
+Sunny Side,Woodlawn-Nordwood,2	
+Sunny Side,Woodside,166	
+Sunny Side,Yorkville,38	
+Sunset Park,Astoria-Long Island City,1	
+Sunset Park,Battery Park,1	
+Sunset Park,Bay Ridge,8	
+Sunset Park,Bedford Park,1	
+Sunset Park,Bedford-Stuyvesant,1	
+Sunset Park,Bensonhurst,2	
+Sunset Park,Boerum Hill,2	
+Sunset Park,Borough Park,10	
+Sunset Park,Bushwick,2	
+Sunset Park,Carroll Gardens,2	
+Sunset Park,Chelsea,3	
+Sunset Park,Cobble Hill,1	
+Sunset Park,Dyker Heights,1	
+Sunset Park,East Village,2	
+Sunset Park,Financial District,2	
+Sunset Park,Forest Hills,1	
+Sunset Park,Fort Green,4	
+Sunset Park,Garment District,2	
+Sunset Park,Greenwood,8	
+Sunset Park,Hamilton Heights,1	
+Sunset Park,Jackson Heights,1	
+Sunset Park,Lower East Side,1	
+Sunset Park,Mapleton-Flatlands,5	
+Sunset Park,Midtown,1	
+Sunset Park,Park Slope,7	
+Sunset Park,Soho,1	
+Sunset Park,Soundview,2	
+Sunset Park,Sunny Side,2	
+Sunset Park,Sunset Park,14	
+Sunset Park,Throggs Neck,1	
+Sunset Park,Upper East Side,1	
+Sunset Park,Washington Heights,1	
+Sunset Park,West Village,1	
+Sunset Park,Williamsburg,3	
+Sunset Park,Woodside,1	
+Sunset Park,Yorkville,1	
+The Rockaways,The Rockaways,2	
+Throggs Neck,Hamilton Heights,1	
+Throggs Neck,Midtown,1	
+Throggs Neck,Parkchester,1	
+Throggs Neck,Throggs Neck,5	
+Throggs Neck,Union Port,1	
+Throggs Neck,Wakefield-Williamsbridge,1	
+Throggs Neck,Washington Heights,2	
+Throggs Neck,Yorkville,1	
+Tremont,Bedford Park,1	
+Tremont,Chinatown,1	
+Tremont,East Harlem,1	
+Tremont,Fordham,5	
+Tremont,Garment District,2	
+Tremont,Hamilton Heights,1	
+Tremont,Harlem,1	
+Tremont,High Bridge,2	
+Tremont,Hunts Point,1	
+Tremont,Jackson Heights,1	
+Tremont,Midtown,2	
+Tremont,Morris Heights,3	
+Tremont,Morris Park,2	
+Tremont,Mott Haven,1	
+Tremont,North Sutton Area,1	
+Tremont,Parkchester,1	
+Tremont,Soho,1	
+Tremont,Soundview,4	
+Tremont,South Bronx,6	
+Tremont,Tremont,69	
+Tremont,Union Port,1	
+Tremont,University Heights,4	
+Tremont,Upper East Side,1	
+Tremont,Upper West Side,2	
+Tremont,Washington Heights,2	
+Tremont,West Village,1	
+Tremont,Williams Bridge,1	
+Tremont,Yorkville,1	
+Tribeca,Astoria-Long Island City,99	
+Tribeca,Auburndale,3	
+Tribeca,Battery Park,1132	
+Tribeca,Bay Ridge,48	
+Tribeca,Baychester,2	
+Tribeca,Bedford Park,3	
+Tribeca,Bedford-Stuyvesant,114	
+Tribeca,Bensonhurst,8	
+Tribeca,Boerum Hill,78	
+Tribeca,Borough Park,29	
+Tribeca,Brownsville,8	
+Tribeca,Bushwick,37	
+Tribeca,Canarsie,2	
+Tribeca,Carnegie Hill,96	
+Tribeca,Carroll Gardens,91	
+Tribeca,Central Park,147	
+Tribeca,Chelsea,3193	
+Tribeca,Chinatown,246	
+Tribeca,City Island,1	
+Tribeca,Clearview,1	
+Tribeca,Clinton,828	
+Tribeca,Cobble Hill,55	
+Tribeca,Country Club,3	
+Tribeca,Douglastown-Little Neck,1	
+Tribeca,Downtown,233	
+Tribeca,Dyker Heights,8	
+Tribeca,East Brooklyn,6	
+Tribeca,East Harlem,26	
+Tribeca,East Village,1143	
+Tribeca,Financial District,2182	
+Tribeca,Flatbush,1	
+Tribeca,Flushing,8	
+Tribeca,Fordham,2	
+Tribeca,Forest Hills,21	
+Tribeca,Fort Green,349	
+Tribeca,Garment District,1457	
+Tribeca,Glendale,1	
+Tribeca,Gramercy,1971	
+Tribeca,Gravesend-Sheepshead Bay,17	
+Tribeca,Greenwich Village,2318	
+Tribeca,Greenwood,25	
+Tribeca,Hamilton Heights,48	
+Tribeca,Harlem,78	
+Tribeca,High Bridge,2	
+Tribeca,Inwood,3	
+Tribeca,Jackson Heights,34	
+Tribeca,Jamaica,4	
+Tribeca,Kings Bridge,6	
+Tribeca,Little Italy,556	
+Tribeca,Lower East Side,1280	
+Tribeca,Mapleton-Flatlands,27	
+Tribeca,Maspeth,12	
+Tribeca,Middle Village,6	
+Tribeca,Midtown,3679	
+Tribeca,Morningside Heights,46	
+Tribeca,Morris Heights,5	
+Tribeca,Morris Park,2	
+Tribeca,Mott Haven,6	
+Tribeca,Murray Hill,871	
+Tribeca,Nkew Gardens,10	
+Tribeca,North Sutton Area,93	
+Tribeca,Park Slope,220	
+Tribeca,Parkchester,3	
+Tribeca,Queens Village,1	
+Tribeca,Queensboro Hill,4	
+Tribeca,Ridgewood,7	
+Tribeca,Riverdale,11	
+Tribeca,Saintalbans,1	
+Tribeca,Soho,2157	
+Tribeca,Soundview,1	
+Tribeca,South Bronx,3	
+Tribeca,Spuyten Duyvil,7	
+Tribeca,Sunny Side,90	
+Tribeca,Sunset Park,17	
+Tribeca,Tremont,4	
+Tribeca,Tribeca,2020	
+Tribeca,University Heights,1	
+Tribeca,Upper East Side,1346	
+Tribeca,Upper West Side,1021	
+Tribeca,Utopia,5	
+Tribeca,Washington Heights,89	
+Tribeca,West Village,2015	
+Tribeca,Williams Bridge,1	
+Tribeca,Williamsburg,345	
+Tribeca,Woodhaven-Richmond Hill,5	
+Tribeca,Woodlawn-Nordwood,1	
+Tribeca,Woodside,21	
+Tribeca,Yorkville,79	
+Union Port,Astoria-Long Island City,1	
+Union Port,Bedford Park,1	
+Union Port,Carnegie Hill,1	
+Union Port,City Island,1	
+Union Port,Country Club,1	
+Union Port,Financial District,1	
+Union Port,Midtown,4	
+Union Port,Mott Haven,3	
+Union Port,Park Slope,1	
+Union Port,Parkchester,1	
+Union Port,Soundview,1	
+Union Port,Throggs Neck,1	
+Union Port,Tribeca,3	
+Union Port,Union Port,9	
+Union Port,Upper East Side,1	
+Union Port,Washington Heights,1	
+Union Port,Yorkville,1	
+University Heights,Bedford Park,1	
+University Heights,Central Park,1	
+University Heights,East Village,1	
+University Heights,Fordham,3	
+University Heights,Gramercy,1	
+University Heights,Hamilton Heights,3	
+University Heights,High Bridge,1	
+University Heights,Inwood,4	
+University Heights,Midtown,2	
+University Heights,Morningside Heights,1	
+University Heights,Morris Heights,4	
+University Heights,Morris Park,1	
+University Heights,Tremont,1	
+University Heights,University Heights,22	
+University Heights,Upper West Side,3	
+University Heights,West Village,1	
+University Heights,Williams Bridge,1	
+University Heights,Woodlawn-Nordwood,1	
+Upper East Side,Astoria-Long Island City,1485	
+Upper East Side,Auburndale,10	
+Upper East Side,Battery Park,1014	
+Upper East Side,Bay Ridge,69	
+Upper East Side,Baychester,8	
+Upper East Side,Bedford Park,69	
+Upper East Side,Bedford-Stuyvesant,124	
+Upper East Side,Bensonhurst,14	
+Upper East Side,Boerum Hill,108	
+Upper East Side,Borough Park,61	
+Upper East Side,Brownsville,15	
+Upper East Side,Bushwick,71	
+Upper East Side,Canarsie,12	
+Upper East Side,Carnegie Hill,8507	
+Upper East Side,Carroll Gardens,112	
+Upper East Side,Central Park,8881	
+Upper East Side,Chelsea,5458	
+Upper East Side,Chinatown,237	
+Upper East Side,City Island,2	
+Upper East Side,Clearview,16	
+Upper East Side,Clinton,3487	
+Upper East Side,Cobble Hill,91	
+Upper East Side,Country Club,28	
+Upper East Side,Douglastown-Little Neck,10	
+Upper East Side,Downtown,253	
+Upper East Side,Dyker Heights,20	
+Upper East Side,East Brooklyn,12	
+Upper East Side,East Harlem,3141	
+Upper East Side,East Village,3573	
+Upper East Side,Financial District,2422	
+Upper East Side,Flushing,46	
+Upper East Side,Fordham,34	
+Upper East Side,Forest Hills,230	
+Upper East Side,Fort Green,264	
+Upper East Side,Garment District,9930	
+Upper East Side,Glendale,6	
+Upper East Side,Gramercy,13552	
+Upper East Side,Gravesend-Sheepshead Bay,33	
+Upper East Side,Greenwich Village,4047	
+Upper East Side,Greenwood,38	
+Upper East Side,Hamilton Heights,459	
+Upper East Side,Harlem,2441	
+Upper East Side,High Bridge,123	
+Upper East Side,Hunts Point,33	
+Upper East Side,Inwood,133	
+Upper East Side,Jackson Heights,370	
+Upper East Side,Jamaica,45	
+Upper East Side,Kings Bridge,36	
+Upper East Side,Laurelton,3	
+Upper East Side,Little Italy,530	
+Upper East Side,Lower East Side,2392	
+Upper East Side,Mapleton-Flatlands,66	
+Upper East Side,Maspeth,58	
+Upper East Side,Middle Village,47	
+Upper East Side,Midtown,48334	
+Upper East Side,Morningside Heights,1023	
+Upper East Side,Morris Heights,43	
+Upper East Side,Morris Park,34	
+Upper East Side,Mott Haven,327	
+Upper East Side,Murray Hill,8053	
+Upper East Side,Nkew Gardens,61	
+Upper East Side,North Sutton Area,4802	
+Upper East Side,Park Slope,255	
+Upper East Side,Parkchester,105	
+Upper East Side,Queens Village,2	
+Upper East Side,Queensboro Hill,24	
+Upper East Side,Ridgewood,51	
+Upper East Side,Riverdale,73	
+Upper East Side,Saintalbans,4	
+Upper East Side,Soho,2108	
+Upper East Side,Soundview,82	
+Upper East Side,South Bronx,135	
+Upper East Side,Springfield Gardens,5	
+Upper East Side,Spuyten Duyvil,37	
+Upper East Side,Sunny Side,864	
+Upper East Side,Sunset Park,39	
+Upper East Side,The Rockaways,5	
+Upper East Side,Throggs Neck,19	
+Upper East Side,Tremont,35	
+Upper East Side,Tribeca,1277	
+Upper East Side,Union Port,69	
+Upper East Side,University Heights,35	
+Upper East Side,Upper East Side,87874	
+Upper East Side,Upper West Side,22892	
+Upper East Side,Utopia,53	
+Upper East Side,Wakefield-Williamsbridge,16	
+Upper East Side,Washington Heights,994	
+Upper East Side,West Village,1816	
+Upper East Side,Williams Bridge,26	
+Upper East Side,Williamsburg,449	
+Upper East Side,Woodhaven-Richmond Hill,28	
+Upper East Side,Woodlawn-Nordwood,20	
+Upper East Side,Woodside,245	
+Upper East Side,Yorkville,5529	
+Upper West Side,Astoria-Long Island City,527	
+Upper West Side,Auburndale,3	
+Upper West Side,Battery Park,782	
+Upper West Side,Bay Ridge,28	
+Upper West Side,Baychester,3	
+Upper West Side,Bedford Park,41	
+Upper West Side,Bedford-Stuyvesant,60	
+Upper West Side,Bensonhurst,4	
+Upper West Side,Boerum Hill,43	
+Upper West Side,Borough Park,34	
+Upper West Side,Brownsville,4	
+Upper West Side,Bushwick,26	
+Upper West Side,Canarsie,4	
+Upper West Side,Carnegie Hill,3266	
+Upper West Side,Carroll Gardens,67	
+Upper West Side,Central Park,5842	
+Upper West Side,Chelsea,5171	
+Upper West Side,Chinatown,101	
+Upper West Side,Clinton,6038	
+Upper West Side,Cobble Hill,49	
+Upper West Side,Country Club,9	
+Upper West Side,Douglastown-Little Neck,4	
+Upper West Side,Downtown,74	
+Upper West Side,Dyker Heights,4	
+Upper West Side,East Brooklyn,5	
+Upper West Side,East Harlem,1270	
+Upper West Side,East Village,1102	
+Upper West Side,Financial District,741	
+Upper West Side,Flushing,18	
+Upper West Side,Fordham,23	
+Upper West Side,Forest Hills,88	
+Upper West Side,Fort Green,174	
+Upper West Side,Garment District,3687	
+Upper West Side,Glendale,7	
+Upper West Side,Gramercy,4132	
+Upper West Side,Gravesend-Sheepshead Bay,22	
+Upper West Side,Greenwich Village,1968	
+Upper West Side,Greenwood,17	
+Upper West Side,Hamilton Heights,1410	
+Upper West Side,Harlem,3156	
+Upper West Side,High Bridge,73	
+Upper West Side,Hunts Point,14	
+Upper West Side,Inwood,260	
+Upper West Side,Jackson Heights,162	
+Upper West Side,Jamaica,16	
+Upper West Side,Kings Bridge,46	
+Upper West Side,Laurelton,1	
+Upper West Side,Little Italy,176	
+Upper West Side,Lower East Side,733	
+Upper West Side,Mapleton-Flatlands,32	
+Upper West Side,Maspeth,11	
+Upper West Side,Middle Village,16	
+Upper West Side,Midtown,25650	
+Upper West Side,Morningside Heights,3544	
+Upper West Side,Morris Heights,32	
+Upper West Side,Morris Park,30	
+Upper West Side,Mott Haven,123	
+Upper West Side,Murray Hill,2378	
+Upper West Side,Nkew Gardens,35	
+Upper West Side,North Sutton Area,776	
+Upper West Side,Park Slope,168	
+Upper West Side,Parkchester,28	
+Upper West Side,Queens Village,4	
+Upper West Side,Queensboro Hill,9	
+Upper West Side,Ridgewood,12	
+Upper West Side,Riverdale,120	
+Upper West Side,Saintalbans,1	
+Upper West Side,Soho,966	
+Upper West Side,Soundview,17	
+Upper West Side,South Bronx,83	
+Upper West Side,Springfield Gardens,3	
+Upper West Side,Spuyten Duyvil,77	
+Upper West Side,Steinway,2	
+Upper West Side,Sunny Side,290	
+Upper West Side,Sunset Park,15	
+Upper West Side,The Rockaways,2	
+Upper West Side,Throggs Neck,7	
+Upper West Side,Tremont,40	
+Upper West Side,Tribeca,885	
+Upper West Side,Union Port,12	
+Upper West Side,University Heights,28	
+Upper West Side,Upper East Side,23535	
+Upper West Side,Upper West Side,49623	
+Upper West Side,Utopia,14	
+Upper West Side,Wakefield-Williamsbridge,20	
+Upper West Side,Washington Heights,2147	
+Upper West Side,West Village,1342	
+Upper West Side,Williams Bridge,15	
+Upper West Side,Williamsburg,184	
+Upper West Side,Woodhaven-Richmond Hill,12	
+Upper West Side,Woodlawn-Nordwood,14	
+Upper West Side,Woodside,75	
+Upper West Side,Yorkville,2055	
+Utopia,Astoria-Long Island City,2	
+Utopia,Auburndale,2	
+Utopia,Battery Park,1	
+Utopia,Central Park,5	
+Utopia,Chelsea,6	
+Utopia,Clinton,3	
+Utopia,Douglastown-Little Neck,1	
+Utopia,East Brooklyn,2	
+Utopia,East Harlem,1	
+Utopia,Financial District,2	
+Utopia,Forest Hills,6	
+Utopia,Garment District,6	
+Utopia,Glendale,1	
+Utopia,Gramercy,3	
+Utopia,Greenwich Village,1	
+Utopia,Hamilton Heights,2	
+Utopia,Harlem,2	
+Utopia,Jackson Heights,3	
+Utopia,Jamaica,14	
+Utopia,Little Italy,3	
+Utopia,Lower East Side,2	
+Utopia,Midtown,13	
+Utopia,Morningside Heights,1	
+Utopia,Mott Haven,1	
+Utopia,Murray Hill,4	
+Utopia,Nkew Gardens,7	
+Utopia,North Sutton Area,1	
+Utopia,Saintalbans,2	
+Utopia,Soho,1	
+Utopia,Sunny Side,5	
+Utopia,Tribeca,1	
+Utopia,Upper East Side,5	
+Utopia,Upper West Side,11	
+Utopia,Utopia,32	
+Utopia,Washington Heights,2	
+Utopia,West Village,1	
+Utopia,Williamsburg,1	
+Utopia,Woodhaven-Richmond Hill,4	
+Utopia,Woodside,2	
+Utopia,Yorkville,1	
+Wakefield-Williamsbridge,Astoria-Long Island City,1	
+Wakefield-Williamsbridge,Baychester,1	
+Wakefield-Williamsbridge,Chelsea,1	
+Wakefield-Williamsbridge,Fordham,1	
+Wakefield-Williamsbridge,Garment District,2	
+Wakefield-Williamsbridge,High Bridge,1	
+Wakefield-Williamsbridge,Kings Bridge,1	
+Wakefield-Williamsbridge,Soho,1	
+Wakefield-Williamsbridge,South Bronx,1	
+Wakefield-Williamsbridge,Upper East Side,1	
+Wakefield-Williamsbridge,Wakefield-Williamsbridge,8	
+Wakefield-Williamsbridge,Woodlawn-Nordwood,2	
+Washington Heights,Astoria-Long Island City,19	
+Washington Heights,Battery Park,9	
+Washington Heights,Bay Ridge,1	
+Washington Heights,Bedford Park,9	
+Washington Heights,Bedford-Stuyvesant,3	
+Washington Heights,Bensonhurst,1	
+Washington Heights,Boerum Hill,2	
+Washington Heights,Borough Park,1	
+Washington Heights,Bushwick,2	
+Washington Heights,Carnegie Hill,16	
+Washington Heights,Carroll Gardens,2	
+Washington Heights,Central Park,29	
+Washington Heights,Chelsea,77	
+Washington Heights,Chinatown,3	
+Washington Heights,Clinton,83	
+Washington Heights,Cobble Hill,1	
+Washington Heights,Downtown,2	
+Washington Heights,East Brooklyn,2	
+Washington Heights,East Harlem,45	
+Washington Heights,East Village,17	
+Washington Heights,Financial District,5	
+Washington Heights,Fordham,6	
+Washington Heights,Forest Hills,6	
+Washington Heights,Fort Green,3	
+Washington Heights,Garment District,29	
+Washington Heights,Gramercy,52	
+Washington Heights,Greenwich Village,20	
+Washington Heights,Hamilton Heights,217	
+Washington Heights,Harlem,156	
+Washington Heights,High Bridge,23	
+Washington Heights,Hunts Point,1	
+Washington Heights,Inwood,46	
+Washington Heights,Jackson Heights,4	
+Washington Heights,Jamaica,3	
+Washington Heights,Kings Bridge,9	
+Washington Heights,Little Italy,2	
+Washington Heights,Lower East Side,16	
+Washington Heights,Mapleton-Flatlands,1	
+Washington Heights,Maspeth,1	
+Washington Heights,Midtown,162	
+Washington Heights,Morningside Heights,115	
+Washington Heights,Morris Heights,11	
+Washington Heights,Morris Park,2	
+Washington Heights,Mott Haven,12	
+Washington Heights,Murray Hill,23	
+Washington Heights,North Sutton Area,15	
+Washington Heights,Park Slope,5	
+Washington Heights,Parkchester,3	
+Washington Heights,Queensboro Hill,2	
+Washington Heights,Ridgewood,1	
+Washington Heights,Riverdale,13	
+Washington Heights,Soho,18	
+Washington Heights,South Bronx,11	
+Washington Heights,Springfield Gardens,1	
+Washington Heights,Spuyten Duyvil,4	
+Washington Heights,Sunny Side,3	
+Washington Heights,Tremont,6	
+Washington Heights,Tribeca,9	
+Washington Heights,Union Port,2	
+Washington Heights,University Heights,10	
+Washington Heights,Upper East Side,152	
+Washington Heights,Upper West Side,356	
+Washington Heights,Utopia,3	
+Washington Heights,Wakefield-Williamsbridge,4	
+Washington Heights,Washington Heights,501	
+Washington Heights,West Village,27	
+Washington Heights,Williams Bridge,4	
+Washington Heights,Williamsburg,3	
+Washington Heights,Yorkville,29	
+West Village,Astoria-Long Island City,172	
+West Village,Auburndale,1	
+West Village,Battery Park,1069	
+West Village,Bay Ridge,38	
+West Village,Baychester,1	
+West Village,Bedford Park,9	
+West Village,Bedford-Stuyvesant,120	
+West Village,Bensonhurst,6	
+West Village,Boerum Hill,74	
+West Village,Borough Park,25	
+West Village,Brownsville,6	
+West Village,Bushwick,66	
+West Village,Canarsie,5	
+West Village,Carnegie Hill,163	
+West Village,Carroll Gardens,119	
+West Village,Central Park,329	
+West Village,Chelsea,6556	
+West Village,Chinatown,154	
+West Village,Clearview,3	
+West Village,Clinton,1714	
+West Village,Cobble Hill,52	
+West Village,Douglastown-Little Neck,2	
+West Village,Downtown,121	
+West Village,Dyker Heights,13	
+West Village,East Brooklyn,4	
+West Village,East Harlem,46	
+West Village,East Village,2147	
+West Village,Financial District,1132	
+West Village,Fordham,3	
+West Village,Forest Hills,31	
+West Village,Fort Green,270	
+West Village,Garment District,2401	
+West Village,Glendale,4	
+West Village,Gramercy,3285	
+West Village,Gravesend-Sheepshead Bay,14	
+West Village,Greenwich Village,3913	
+West Village,Greenwood,20	
+West Village,Hamilton Heights,78	
+West Village,Harlem,177	
+West Village,High Bridge,8	
+West Village,Inwood,25	
+West Village,Jackson Heights,49	
+West Village,Jamaica,4	
+West Village,Kings Bridge,5	
+West Village,Little Italy,573	
+West Village,Lower East Side,1189	
+West Village,Mapleton-Flatlands,21	
+West Village,Maspeth,4	
+West Village,Middle Village,9	
+West Village,Midtown,5594	
+West Village,Morningside Heights,97	
+West Village,Morris Heights,7	
+West Village,Morris Park,2	
+West Village,Mott Haven,8	
+West Village,Murray Hill,1357	
+West Village,Nkew Gardens,10	
+West Village,North Sutton Area,137	
+West Village,Park Slope,160	
+West Village,Parkchester,5	
+West Village,Queens Village,1	
+West Village,Queensboro Hill,3	
+West Village,Ridgewood,10	
+West Village,Riverdale,6	
+West Village,Saintalbans,3	
+West Village,Soho,2417	
+West Village,Soundview,2	
+West Village,South Bronx,7	
+West Village,Spuyten Duyvil,7	
+West Village,Sunny Side,110	
+West Village,Sunset Park,20	
+West Village,Throggs Neck,1	
+West Village,Tremont,8	
+West Village,Tribeca,1749	
+West Village,Union Port,3	
+West Village,University Heights,1	
+West Village,Upper East Side,1984	
+West Village,Upper West Side,1643	
+West Village,Utopia,11	
+West Village,Washington Heights,148	
+West Village,West Village,2593	
+West Village,Williams Bridge,2	
+West Village,Williamsburg,362	
+West Village,Woodhaven-Richmond Hill,2	
+West Village,Woodlawn-Nordwood,4	
+West Village,Woodside,22	
+West Village,Yorkville,99	
+Williams Bridge,Bedford Park,2	
+Williams Bridge,Fordham,1	
+Williams Bridge,Garment District,1	
+Williams Bridge,Tremont,1	
+Williams Bridge,Williams Bridge,8	
+Williamsburg,Astoria-Long Island City,107	
+Williamsburg,Battery Park,36	
+Williamsburg,Bay Ridge,16	
+Williamsburg,Bedford Park,1	
+Williamsburg,Bedford-Stuyvesant,413	
+Williamsburg,Bensonhurst,5	
+Williamsburg,Boerum Hill,82	
+Williamsburg,Borough Park,16	
+Williamsburg,Brownsville,2	
+Williamsburg,Bushwick,328	
+Williamsburg,Carnegie Hill,6	
+Williamsburg,Carroll Gardens,109	
+Williamsburg,Central Park,25	
+Williamsburg,Chelsea,179	
+Williamsburg,Chinatown,53	
+Williamsburg,Clinton,49	
+Williamsburg,Cobble Hill,50	
+Williamsburg,Corona,1	
+Williamsburg,Downtown,103	
+Williamsburg,Dyker Heights,1	
+Williamsburg,East Brooklyn,1	
+Williamsburg,East Harlem,10	
+Williamsburg,East Village,354	
+Williamsburg,Financial District,125	
+Williamsburg,Flushing,4	
+Williamsburg,Forest Hills,11	
+Williamsburg,Fort Green,555	
+Williamsburg,Garment District,113	
+Williamsburg,Glendale,2	
+Williamsburg,Gramercy,282	
+Williamsburg,Gravesend-Sheepshead Bay,6	
+Williamsburg,Greenwich Village,187	
+Williamsburg,Greenwood,29	
+Williamsburg,Hamilton Heights,5	
+Williamsburg,Harlem,25	
+Williamsburg,High Bridge,5	
+Williamsburg,Inwood,5	
+Williamsburg,Jackson Heights,33	
+Williamsburg,Jamaica,2	
+Williamsburg,Little Italy,98	
+Williamsburg,Lower East Side,673	
+Williamsburg,Mapleton-Flatlands,4	
+Williamsburg,Maspeth,20	
+Williamsburg,Middle Village,7	
+Williamsburg,Midtown,261	
+Williamsburg,Morningside Heights,21	
+Williamsburg,Mott Haven,4	
+Williamsburg,Murray Hill,74	
+Williamsburg,Nkew Gardens,4	
+Williamsburg,North Sutton Area,19	
+Williamsburg,Park Slope,192	
+Williamsburg,Parkchester,1	
+Williamsburg,Ridgewood,47	
+Williamsburg,Riverdale,1	
+Williamsburg,Soho,157	
+Williamsburg,Soundview,1	
+Williamsburg,South Bronx,3	
+Williamsburg,Sunny Side,90	
+Williamsburg,Sunset Park,17	
+Williamsburg,Tremont,1	
+Williamsburg,Tribeca,108	
+Williamsburg,University Heights,1	
+Williamsburg,Upper East Side,191	
+Williamsburg,Upper West Side,110	
+Williamsburg,Utopia,4	
+Williamsburg,Wakefield-Williamsbridge,2	
+Williamsburg,Washington Heights,17	
+Williamsburg,West Village,95	
+Williamsburg,Williamsburg,1304	
+Williamsburg,Woodhaven-Richmond Hill,2	
+Williamsburg,Woodside,31	
+Williamsburg,Yorkville,29	
+Woodhaven-Richmond Hill,Astoria-Long Island City,2	
+Woodhaven-Richmond Hill,Auburndale,1	
+Woodhaven-Richmond Hill,Battery Park,1	
+Woodhaven-Richmond Hill,Chelsea,1	
+Woodhaven-Richmond Hill,Clinton,2	
+Woodhaven-Richmond Hill,East Brooklyn,1	
+Woodhaven-Richmond Hill,Forest Hills,3	
+Woodhaven-Richmond Hill,Jackson Heights,2	
+Woodhaven-Richmond Hill,Jamaica,5	
+Woodhaven-Richmond Hill,Mapleton-Flatlands,1	
+Woodhaven-Richmond Hill,Maspeth,1	
+Woodhaven-Richmond Hill,Middle Village,2	
+Woodhaven-Richmond Hill,Murray Hill,3	
+Woodhaven-Richmond Hill,Nkew Gardens,8	
+Woodhaven-Richmond Hill,Ridgewood,1	
+Woodhaven-Richmond Hill,Saintalbans,1	
+Woodhaven-Richmond Hill,Sunny Side,3	
+Woodhaven-Richmond Hill,The Rockaways,1	
+Woodhaven-Richmond Hill,Upper East Side,3	
+Woodhaven-Richmond Hill,Utopia,1	
+Woodhaven-Richmond Hill,Woodhaven-Richmond Hill,21	
+Woodhaven-Richmond Hill,Woodside,2	
+Woodlawn-Nordwood,Garment District,1	
+Woodlawn-Nordwood,Kings Bridge,1	
+Woodlawn-Nordwood,Riverdale,1	
+Woodlawn-Nordwood,Wakefield-Williamsbridge,3	
+Woodlawn-Nordwood,Williams Bridge,1	
+Woodlawn-Nordwood,Woodlawn-Nordwood,9	
+Woodside,Astoria-Long Island City,141	
+Woodside,Auburndale,1	
+Woodside,Battery Park,4	
+Woodside,Bedford Park,2	
+Woodside,Bedford-Stuyvesant,2	
+Woodside,Boerum Hill,3	
+Woodside,Borough Park,1	
+Woodside,Bushwick,3	
+Woodside,Carnegie Hill,10	
+Woodside,Carroll Gardens,2	
+Woodside,Central Park,19	
+Woodside,Chelsea,27	
+Woodside,Chinatown,3	
+Woodside,Clearview,2	
+Woodside,Clinton,5	
+Woodside,Cobble Hill,1	
+Woodside,Douglastown-Little Neck,2	
+Woodside,Downtown,9	
+Woodside,East Brooklyn,2	
+Woodside,East Harlem,3	
+Woodside,East Village,20	
+Woodside,Financial District,22	
+Woodside,Flushing,11	
+Woodside,Forest Hills,16	
+Woodside,Fort Green,6	
+Woodside,Garment District,38	
+Woodside,Glendale,2	
+Woodside,Gramercy,63	
+Woodside,Greenwich Village,18	
+Woodside,Hamilton Heights,4	
+Woodside,Harlem,6	
+Woodside,High Bridge,1	
+Woodside,Inwood,3	
+Woodside,Jackson Heights,101	
+Woodside,Jamaica,2	
+Woodside,Kings Bridge,1	
+Woodside,Little Italy,5	
+Woodside,Lower East Side,24	
+Woodside,Mapleton-Flatlands,4	
+Woodside,Maspeth,32	
+Woodside,Middle Village,8	
+Woodside,Midtown,182	
+Woodside,Morningside Heights,1	
+Woodside,Morris Park,1	
+Woodside,Mott Haven,4	
+Woodside,Murray Hill,42	
+Woodside,Nkew Gardens,4	
+Woodside,North Sutton Area,25	
+Woodside,Park Slope,5	
+Woodside,Parkchester,1	
+Woodside,Queens Village,3	
+Woodside,Queensboro Hill,5	
+Woodside,Ridgewood,1	
+Woodside,Riverdale,1	
+Woodside,Soho,12	
+Woodside,Soundview,3	
+Woodside,South Bronx,1	
+Woodside,Sunny Side,184	
+Woodside,Sunset Park,3	
+Woodside,Throggs Neck,1	
+Woodside,Tribeca,10	
+Woodside,Upper East Side,185	
+Woodside,Upper West Side,29	
+Woodside,Utopia,5	
+Woodside,Washington Heights,12	
+Woodside,West Village,6	
+Woodside,Williamsburg,15	
+Woodside,Woodhaven-Richmond Hill,5	
+Woodside,Woodside,424	
+Woodside,Yorkville,7	
+Yorkville,Astoria-Long Island City,103	
+Yorkville,Auburndale,1	
+Yorkville,Battery Park,36	
+Yorkville,Bay Ridge,2	
+Yorkville,Baychester,1	
+Yorkville,Bedford Park,14	
+Yorkville,Bedford-Stuyvesant,11	
+Yorkville,Bensonhurst,2	
+Yorkville,Boerum Hill,3	
+Yorkville,Borough Park,6	
+Yorkville,Brownsville,2	
+Yorkville,Bushwick,7	
+Yorkville,Carnegie Hill,563	
+Yorkville,Carroll Gardens,5	
+Yorkville,Central Park,597	
+Yorkville,Chelsea,281	
+Yorkville,Chinatown,18	
+Yorkville,Clinton,270	
+Yorkville,Cobble Hill,5	
+Yorkville,Downtown,19	
+Yorkville,East Brooklyn,1	
+Yorkville,East Harlem,946	
+Yorkville,East Village,191	
+Yorkville,Financial District,100	
+Yorkville,Flushing,6	
+Yorkville,Fordham,6	
+Yorkville,Forest Hills,12	
+Yorkville,Fort Green,19	
+Yorkville,Garment District,456	
+Yorkville,Gramercy,522	
+Yorkville,Gravesend-Sheepshead Bay,3	
+Yorkville,Greenwich Village,122	
+Yorkville,Greenwood,4	
+Yorkville,Hamilton Heights,98	
+Yorkville,Harlem,642	
+Yorkville,High Bridge,35	
+Yorkville,Hunts Point,6	
+Yorkville,Inwood,13	
+Yorkville,Jackson Heights,23	
+Yorkville,Jamaica,2	
+Yorkville,Kings Bridge,11	
+Yorkville,Laurelton,2	
+Yorkville,Little Italy,18	
+Yorkville,Lower East Side,112	
+Yorkville,Mapleton-Flatlands,3	
+Yorkville,Maspeth,1	
+Yorkville,Middle Village,6	
+Yorkville,Midtown,1559	
+Yorkville,Morningside Heights,208	
+Yorkville,Morris Heights,10	
+Yorkville,Morris Park,4	
+Yorkville,Mott Haven,95	
+Yorkville,Murray Hill,258	
+Yorkville,Nkew Gardens,6	
+Yorkville,North Sutton Area,121	
+Yorkville,Park Slope,8	
+Yorkville,Parkchester,12	
+Yorkville,Queensboro Hill,1	
+Yorkville,Ridgewood,2	
+Yorkville,Riverdale,5	
+Yorkville,Saintalbans,1	
+Yorkville,Soho,68	
+Yorkville,Soundview,19	
+Yorkville,South Bronx,54	
+Yorkville,Spuyten Duyvil,6	
+Yorkville,Sunny Side,40	
+Yorkville,The Rockaways,1	
+Yorkville,Throggs Neck,6	
+Yorkville,Tremont,13	
+Yorkville,Tribeca,44	
+Yorkville,Union Port,7	
+Yorkville,University Heights,11	
+Yorkville,Upper East Side,4309	
+Yorkville,Upper West Side,2067	
+Yorkville,Utopia,1	
+Yorkville,Wakefield-Williamsbridge,2	
+Yorkville,Washington Heights,138	
+Yorkville,West Village,75	
+Yorkville,Williams Bridge,2	
+Yorkville,Williamsburg,22	
+Yorkville,Woodlawn-Nordwood,3	
+Yorkville,Woodside,21	
+Yorkville,Yorkville,1054	
