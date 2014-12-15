@@ -1,0 +1,568 @@
+Astoria-Long Island City_Bay Ridge 0.6354 89	
+Astoria-Long Island City_Garment District -0.00619 79	
+Astoria-Long Island City_Murray Hill -0.13039 89	
+Astoria-Long Island City_North Sutton Area 0.10552 87	
+Auburndale_Chinatown 0.50162 82	
+Auburndale_Country Club 0.24827 74	
+Auburndale_Flushing 0.34545 82	
+Auburndale_Jackson Heights 0.19653 95	
+Auburndale_Lower East Side 0.66269 83	
+Auburndale_Murray Hill -0.03259 86	
+Battery Park_Jamaica 0.44486 89	
+Battery Park_Queens Village -0.06197 87	
+Battery Park_Ridgewood -0.49592 89	
+Battery Park_Union Port 0.2956 87	
+Battery Park_Woodhaven-Richmond Hill -0.27864 87	
+Bay Ridge_Chinatown 0.70025 76	
+Bay Ridge_Corona -0.37209 77	
+Bay Ridge_Little Italy 0.7591 73	
+Bay Ridge_Maspeth 0.59397 81	
+Bay Ridge_Wakefield-Williamsbridge 0.55273 86	
+Baychester_Battery Park -0.31222 48	
+Baychester_East Village 0.48621 51	
+Baychester_Jackson Heights 0.4642 51	
+Baychester_Lower East Side 0.43638 49	
+Baychester_Morris Heights 0.12436 50	
+Baychester_South Bronx -0.04979 54	
+Baychester_Williamsburg 0.42708 50	
+Bedford Park_Auburndale 0.26798 84	
+Bedford Park_Battery Park -0.03772 84	
+Bedford Park_Cobble Hill 0.14209 83	
+Bedford Park_East Village 0.36578 90	
+Bedford Park_Garment District -0.11507 86	
+Bedford Park_Springfield Gardens -0.12769 85	
+Bedford Park_Williams Bridge 0.30118 89	
+Bedford Park_Williamsburg 0.4317 81	
+Bedford-Stuyvesant_Bay Ridge 0.91638 88	
+Bedford-Stuyvesant_Corona -0.27574 73	
+Bedford-Stuyvesant_Gramercy 0.14609 94	
+Bedford-Stuyvesant_Sunset Park 0.92017 86	
+Bensonhurst_Chinatown 0.07652 88	
+Bensonhurst_Garment District -0.10702 82	
+Bensonhurst_Maspeth 0.25652 86	
+Bensonhurst_Morris Heights 0.13394 88	
+Bensonhurst_Park Slope 0.44908 79	
+Bensonhurst_Parkchester 0.0759 86	
+Bensonhurst_Springfield Gardens -0.20535 84	
+Bensonhurst_Sunset Park 0.63943 81	
+Bensonhurst_Woodside 0.32167 84	
+Boerum Hill_Auburndale 0.46823 77	
+Boerum Hill_Brownsville 0.57729 81	
+Boerum Hill_Clearview 0.23927 58	
+Boerum Hill_Flushing 0.5224 79	
+Boerum Hill_Hamilton Heights 0.34781 83	
+Boerum Hill_Yorkville -0.05541 84	
+Borough Park_Central Park 0.02752 80	
+Borough Park_Douglastown-Little Neck 0.29525 71	
+Borough Park_Dyker Heights 0.31631 82	
+Borough Park_Sunny Side 0.75218 80	
+Borough Park_Throggs Neck 0.30092 78	
+Borough Park_Yorkville 0.27773 86	
+Brownsville_Auburndale 0.50134 79	
+Brownsville_Flatbush 0.02186 71	
+Brownsville_Garment District -0.22015 77	
+Brownsville_Glendale 0.6873 83	
+Brownsville_Lower East Side 0.75943 77	
+Brownsville_Midtown -0.23081 78	
+Brownsville_Riverdale 0.41211 80	
+Bushwick_Baychester 0.43099 55	
+Bushwick_Canarsie 0.39616 87	
+Bushwick_Greenwood 0.85434 83	
+Bushwick_Washington Heights 0.13904 86	
+Canarsie_Corona 0.04716 80	
+Canarsie_Soho 0.43561 94	
+Canarsie_Spuyten Duyvil 0.36588 84	
+Carnegie Hill_Battery Park 0.86351 87	
+Carnegie Hill_Bushwick -0.58294 90	
+Carnegie Hill_Cobble Hill 0.50631 95	
+Carnegie Hill_East Village -0.25832 100	
+Carnegie Hill_Forest Hills -0.04972 91	
+Carnegie Hill_Soho 0.32899 93	
+Carnegie Hill_Steinway 0.34926 70	
+Carnegie Hill_Tremont -0.17395 89	
+Carnegie Hill_Utopia 0.47095 89	
+Carnegie Hill_Williamsburg -0.52495 88	
+Carroll Gardens_Chelsea 0.48728 88	
+Carroll Gardens_Cobble Hill 0.81341 97	
+Carroll Gardens_Dyker Heights 0.4931 87	
+Carroll Gardens_Greenwood 0.74441 89	
+Carroll Gardens_Morningside Heights 0.30431 82	
+Central Park_Auburndale -0.28182 73	
+Central Park_Forest Hills -0.19096 87	
+Central Park_Middle Village -0.31794 87	
+Central Park_Upper East Side 0.98059 82	
+Chelsea_Brownsville 0.14503 86	
+Chelsea_Country Club 0.21055 69	
+Chelsea_Morningside Heights 0.81306 93	
+Chelsea_Nkew Gardens 0.07258 77	
+Chelsea_Soho 0.96678 88	
+Chelsea_Spuyten Duyvil 0.56962 80	
+Chelsea_Union Port 0.26902 86	
+Chinatown_Central Park 0.17101 83	
+Chinatown_Jackson Heights 0.01472 86	
+Chinatown_Lower East Side 0.83609 82	
+Chinatown_Mapleton-Flatlands -0.10345 80	
+Chinatown_Murray Hill 0.34322 80	
+Chinatown_Queens Village -0.10624 78	
+Chinatown_Throggs Neck 0.57134 83	
+Chinatown_University Heights 0.42702 83	
+City Island_Bay Ridge 0.08765 27	
+City Island_Downtown 0.13956 31	
+City Island_East Village 0.22457 30	
+City Island_Mapleton-Flatlands -0.26768 34	
+City Island_Murray Hill 0.13796 26	
+City Island_Queens Village 0.00884 26	
+City Island_Woodside -0.01889 34	
+Clearview_Bensonhurst 0.09817 60	
+Clearview_Douglastown-Little Neck 0.12512 59	
+Clearview_Forest Hills 0.07384 65	
+Clearview_Mott Haven 0.05373 69	
+Clearview_Murray Hill 0.35738 63	
+Clearview_Ridgewood 0.01021 67	
+Clearview_Williamsburg 0.05069 61	
+Clinton_Battery Park 0.71024 79	
+Clinton_Forest Hills 0.23062 78	
+Clinton_Garment District 0.85422 68	
+Clinton_Greenwich Village 0.8836 82	
+Clinton_Park Slope 0.48637 71	
+Clinton_South Bronx 0.15938 80	
+Clinton_Williamsburg 0.27864 76	
+Cobble Hill_Middle Village 0.13868 86	
+Cobble Hill_Woodhaven-Richmond Hill -0.0738 85	
+College Point_Bensonhurst 0 2	
+College Point_Harlem 0 1	
+College Point_Inwood 0 1	
+College Point_Jackson Heights 0 1	
+College Point_Middle Village 0 1	
+College Point_Murray Hill 0 1	
+Corona_Clearview 0.17937 64	
+Corona_Hamilton Heights 0.43824 89	
+Corona_Harlem 0.329 81	
+Corona_Inwood -0.11528 84	
+Corona_Laurelton 0.40893 86	
+Corona_Midtown 0.76348 83	
+Corona_Soundview -0.28666 85	
+Corona_Williams Bridge -0.36929 94	
+Country Club_Financial District -0.28634 80	
+Country Club_Greenwood 0.62172 92	
+Country Club_Soho -0.04236 89	
+Country Club_Sunny Side 0.29782 86	
+Douglastown-Little Neck_Harlem 0.16599 85	
+Douglastown-Little Neck_Inwood -0.14872 84	
+Douglastown-Little Neck_Tremont 0.0357 78	
+Douglastown-Little Neck_Washington Heights 0.08684 85	
+Downtown_Astoria-Long Island City 0.06178 87	
+Downtown_Cobble Hill 0.75737 86	
+Downtown_Fordham 0.01521 91	
+Downtown_Nkew Gardens -0.01419 78	
+Downtown_Steinway 0.18355 67	
+Dyker Heights_Chelsea 0.22523 88	
+Dyker Heights_Greenwood 0.71395 79	
+Dyker Heights_Mott Haven 0.41122 95	
+East Brooklyn_Bensonhurst 0.40176 93	
+East Brooklyn_Garment District 0.26546 84	
+East Brooklyn_Mapleton-Flatlands 0.57248 86	
+East Brooklyn_Murray Hill 0.24659 82	
+East Brooklyn_Soho 0.21873 92	
+East Brooklyn_Union Port 0.306 86	
+East Harlem_Bedford Park -0.22721 78	
+East Harlem_Jamaica 0.38166 83	
+East Harlem_Mott Haven 0.63775 90	
+East Harlem_Murray Hill 0.54344 73	
+East Harlem_Spuyten Duyvil 0.21606 82	
+East Village_Boerum Hill 0.91134 75	
+East Village_Chinatown 0.90241 78	
+East Village_East Brooklyn 0.33461 86	
+East Village_Fordham 0.57892 81	
+East Village_Gravesend-Sheepshead Bay 0.55788 88	
+East Village_Jamaica -0.23017 84	
+East Village_Little Italy 0.93231 69	
+East Village_Middle Village 0.68294 79	
+East Village_Saintalbans 0.35598 71	
+East Village_Springfield Gardens -0.20832 69	
+Eastchester_Astoria-Long Island City 0 2	
+Eastchester_Auburndale 0 3	
+Eastchester_Jackson Heights 0 2	
+Eastchester_Jamaica 0 2	
+Eastchester_Lower East Side 0 2	
+Eastchester_Morningside Heights 0 2	
+Eastchester_Morris Heights 0 2	
+Financial District_Garment District 0.82816 78	
+Financial District_Gramercy 0.92479 98	
+Financial District_Hunts Point 0.12271 88	
+Financial District_University Heights -0.09497 76	
+Flatbush_Central Park 0.16015 78	
+Flatbush_Hamilton Heights 0.26867 66	
+Flatbush_Mott Haven 0.45022 76	
+Flatbush_Murray Hill 0.23263 70	
+Flatbush_Queens Village -0.08221 62	
+Flatbush_Soundview 0.17008 72	
+Flatbush_Throggs Neck 0.28076 74	
+Flatbush_Woodside 0.14832 73	
+Flushing_Auburndale 0.28313 85	
+Flushing_Bedford Park 0.15068 79	
+Flushing_Carroll Gardens 0.26351 81	
+Flushing_Queens Village 0.24681 84	
+Flushing_Upper West Side 0.47725 85	
+Fordham_Bay Ridge 0.67861 77	
+Fordham_East Village 0.60787 87	
+Fordham_Flatbush -0.07768 76	
+Fordham_Garment District -0.15851 81	
+Fordham_Glendale 0.65959 89	
+Fordham_Middle Village 0.65848 85	
+Fordham_South Bronx 0.49705 82	
+Forest Hills_Chinatown 0.01226 88	
+Forest Hills_Little Italy 0.19179 76	
+Forest Hills_Morris Heights 0.45172 92	
+Forest Hills_Union Port 0.52796 85	
+Forest Hills_West Village 0.33584 82	
+Fort Green_Bensonhurst 0.38026 84	
+Fort Green_Borough Park 0.34784 91	
+Fort Green_Downtown 0.66167 89	
+Fort Green_East Brooklyn 0.32797 89	
+Fort Green_Laurelton -0.16118 80	
+Fort Green_Mott Haven 0.27866 97	
+Fort Green_Murray Hill 0.01337 82	
+Fort Green_Nkew Gardens 0.09185 77	
+Fort Green_Queensboro Hill 0.42602 84	
+Fort Green_Soundview 0.56115 80	
+Fort Green_University Heights 0.48672 82	
+Fort Green_Woodside -0.09112 86	
+Garment District_Laurelton 0.36938 88	
+Garment District_Soundview -0.05231 93	
+Garment District_South Bronx -0.11643 93	
+Garment District_Spuyten Duyvil 0.25587 82	
+Garment District_Sunny Side 0.5527 89	
+Glendale_Baychester 0.19728 62	
+Glendale_Fordham 0.56072 79	
+Glendale_Jamaica -0.1703 89	
+Glendale_Middle Village 0.71913 88	
+Glendale_Ridgewood 0.68701 88	
+Gramercy_Flushing 0.50913 77	
+Gramercy_Garment District 0.85705 77	
+Gramercy_Parkchester 0.79307 80	
+Gramercy_Sunset Park 0.06508 77	
+Gravesend-Sheepshead Bay_Bensonhurst 0.53944 87	
+Gravesend-Sheepshead Bay_East Harlem 0.00406 83	
+Gravesend-Sheepshead Bay_Kings Bridge 0.42343 74	
+Gravesend-Sheepshead Bay_Mapleton-Flatlands 0.63747 91	
+Gravesend-Sheepshead Bay_University Heights 0.52064 90	
+Gravesend-Sheepshead Bay_West Village 0.39447 73	
+Greenwich Village_Clearview 0.36072 59	
+Greenwich Village_Laurelton 0.1697 72	
+Greenwich Village_North Sutton Area 0.51879 86	
+Greenwich Village_Soundview 0.41333 76	
+Greenwich Village_Woodhaven-Richmond Hill -0.18628 79	
+Greenwood_Clearview 0.06268 66	
+Greenwood_Gravesend-Sheepshead Bay 0.50198 85	
+Greenwood_Laurelton -0.10798 82	
+Greenwood_Yorkville -0.10757 92	
+Hamilton Heights_Astoria-Long Island City 0.54252 88	
+Hamilton Heights_Borough Park 0.52433 92	
+Hamilton Heights_Maspeth 0.57012 79	
+Hamilton Heights_Sunny Side 0.91918 83	
+Hamilton Heights_Sunset Park 0.36802 84	
+Hamilton Heights_Williams Bridge 0.23612 90	
+Harlem_Borough Park 0.59019 94	
+Harlem_Corona 0.46024 85	
+Harlem_Sunny Side 0.84829 91	
+High Bridge_Baychester 0.27035 69	
+High Bridge_Dyker Heights 0.43022 94	
+High Bridge_Fort Green 0.3623 91	
+High Bridge_Hamilton Heights 0.65301 93	
+High Bridge_Jackson Heights 0.35868 100	
+High Bridge_Little Italy 0.31756 88	
+High Bridge_Lower East Side 0.2736 95	
+High Bridge_Woodlawn-Nordwood 0.12544 81	
+Hunts Point_Borough Park 0.22172 86	
+Hunts Point_Dyker Heights 0.22082 85	
+Hunts Point_Mapleton-Flatlands 0.39512 85	
+Hunts Point_North Sutton Area 0.30868 82	
+Hunts Point_Ridgewood 0.39748 88	
+Hunts Point_University Heights 0.25365 86	
+Inwood_Battery Park -0.06063 90	
+Inwood_City Island 0.16181 25	
+Inwood_Eastchester 0 3	
+Inwood_Forest Hills 0.40165 86	
+Inwood_High Bridge 0.56575 76	
+Inwood_Williamsburg 0.85044 90	
+Inwood_Yorkville 0.02126 87	
+Jackson Heights_Bedford Park 0.48241 77	
+Jackson Heights_City Island 0.16652 27	
+Jackson Heights_Eastchester 0 2	
+Jackson Heights_Fordham 0.28291 85	
+Jackson Heights_High Bridge 0.41941 68	
+Jamaica_Bushwick -0.45045 83	
+Jamaica_Canarsie 0.05248 83	
+Jamaica_Nkew Gardens 0.31182 75	
+Jamaica_South Bronx -0.07941 84	
+Jamaica_Utopia 0.62912 77	
+Kings Bridge_Borough Park 0.41271 92	
+Kings Bridge_Dyker Heights 0.57111 96	
+Kings Bridge_Greenwich Village 0.51318 96	
+Kings Bridge_Queensboro Hill 0.36668 92	
+Laurelton_Auburndale -0.16806 81	
+Laurelton_Bedford Park -0.06579 80	
+Laurelton_City Island 0.19579 27	
+Laurelton_Eastchester 0 2	
+Laurelton_High Bridge -0.11373 79	
+Laurelton_Soundview -0.09461 77	
+Laurelton_Tremont -0.0781 78	
+Little Italy_Carnegie Hill -0.19086 82	
+Little Italy_City Island -0.02867 29	
+Little Italy_Country Club 0.30286 78	
+Little Italy_Eastchester 0 2	
+Little Italy_High Bridge 0.22984 80	
+Little Italy_Ridgewood 0.49611 89	
+Lower East Side_Gramercy 0.4476 94	
+Lower East Side_Gravesend-Sheepshead Bay 0.5121 85	
+Lower East Side_Greenwich Village 0.77019 84	
+Lower East Side_Kings Bridge 0.87224 73	
+Lower East Side_Queensboro Hill 0.36629 84	
+Lower East Side_Sunny Side 0.35011 87	
+Mapleton-Flatlands_Dyker Heights 0.3847 83	
+Mapleton-Flatlands_Flatbush 0.20085 75	
+Mapleton-Flatlands_Glendale 0.57211 89	
+Mapleton-Flatlands_Ridgewood 0.41804 85	
+Mapleton-Flatlands_Tremont 0.45318 78	
+Maspeth_Financial District 0.36877 87	
+Maspeth_Forest Hills 0.20705 81	
+Maspeth_Hunts Point 0.46441 84	
+Maspeth_Union Port 0.26529 81	
+Middle Village_Astoria-Long Island City 0.75247 87	
+Middle Village_Garment District -0.11003 80	
+Middle Village_Greenwich Village 0.28456 83	
+Middle Village_Midtown -0.21582 80	
+Midtown_Garment District 0.82959 82	
+Midtown_Sunset Park -0.27528 84	
+Morningside Heights_Corona 0.78232 77	
+Morningside Heights_Springfield Gardens 0.65815 85	
+Morningside Heights_University Heights -0.25904 77	
+Morningside Heights_Upper East Side 0.91886 82	
+Morris Heights_Boerum Hill 0.10236 80	
+Morris Heights_Borough Park 0.74571 80	
+Morris Heights_Morningside Heights 0.13823 78	
+Morris Heights_Saintalbans 0.36902 73	
+Morris Heights_Soundview 0.27581 76	
+Morris Heights_Union Port 0.6752 85	
+Morris Heights_Utopia 0.33889 78	
+Morris Park_East Brooklyn 0.49894 87	
+Morris Park_Gravesend-Sheepshead Bay 0.71853 86	
+Morris Park_Morningside Heights -0.11984 88	
+Morris Park_Parkchester 0.3777 92	
+Morris Park_Woodlawn-Nordwood 0.30404 81	
+Mott Haven_Astoria-Long Island City 0.29644 80	
+Mott Haven_Carnegie Hill 0.17485 72	
+Mott Haven_East Brooklyn 0.391 73	
+Mott Haven_Little Italy 0.37984 71	
+Mott Haven_Lower East Side 0.33988 75	
+Mott Haven_Morris Heights 0.46879 73	
+Mott Haven_Sunny Side 0.49751 76	
+Murray Hill_Boerum Hill 0.08948 83	
+Murray Hill_Country Club -0.12113 70	
+Murray Hill_Greenwood 0.01736 85	
+Murray Hill_Morris Heights 0.28452 86	
+Murray Hill_Nkew Gardens 0.13851 87	
+Murray Hill_Saintalbans 0.18109 75	
+Murray Hill_Tremont -0.09535 77	
+Nkew Gardens_Flatbush 0.23595 68	
+Nkew Gardens_Glendale 0.62959 77	
+Nkew Gardens_Laurelton -0.07162 78	
+Nkew Gardens_Soundview 0.27225 85	
+Nkew Gardens_Sunny Side 0.81223 92	
+North Sutton Area_Hunts Point 0.16545 86	
+North Sutton Area_Morningside Heights 0.87279 83	
+North Sutton Area_The Rockaways 0.07572 81	
+North Sutton Area_Wakefield-Williamsbridge -0.00441 89	
+Park Slope_Gravesend-Sheepshead Bay 0.37042 96	
+Park Slope_Kings Bridge 0.74937 97	
+Park Slope_Maspeth 0.55472 89	
+Park Slope_Morris Park 0.34864 83	
+Park Slope_Parkchester 0.18902 91	
+Park Slope_Utopia 0.00304 91	
+Parkchester_Mapleton-Flatlands 0.15081 79	
+Parkchester_Park Slope 0.44911 77	
+Parkchester_University Heights 0.3183 88	
+Parkchester_Woodlawn-Nordwood 0.06947 78	
+Queens Village_Battery Park 0.04909 79	
+Queens Village_Dyker Heights 0.21611 92	
+Queens Village_East Village -0.10732 90	
+Queens Village_Springfield Gardens 0.09156 92	
+Queens Village_Spuyten Duyvil -0.12919 81	
+Queens Village_Williamsburg -0.03104 77	
+Queens Village_Woodside 0.29085 80	
+Queensboro Hill_Mott Haven 0.51419 84	
+Queensboro Hill_Ridgewood 0.53062 85	
+Queensboro Hill_Tremont 0.55824 74	
+Ridgewood_Chinatown 0.55035 80	
+Ridgewood_Cobble Hill -0.05508 87	
+Ridgewood_Dyker Heights 0.50771 85	
+Riverdale_Auburndale 0.2873 82	
+Riverdale_Bay Ridge 0.62291 87	
+Riverdale_Bensonhurst 0.29018 84	
+Riverdale_Carnegie Hill -0.15319 78	
+Riverdale_Murray Hill 0.24434 80	
+Saintalbans_Carroll Gardens 0.50414 76	
+Saintalbans_Flushing 0.29281 75	
+Saintalbans_Sunset Park 0.32225 74	
+Saintalbans_Upper West Side 0.04303 78	
+Saintalbans_Yorkville 0.06384 85	
+Soho_Auburndale 0.15855 88	
+Soho_Bay Ridge 0.12429 89	
+Soho_Bedford-Stuyvesant 0.20896 80	
+Soho_Cobble Hill 0.39936 78	
+Soho_Dyker Heights 0.25963 83	
+Soho_Washington Heights 0.65986 77	
+Soundview_Cobble Hill 0.14234 88	
+Soundview_Garment District 0.09339 75	
+Soundview_Morningside Heights -0.05133 87	
+Soundview_Utopia 0.02335 81	
+South Bronx_Carroll Gardens 0.47888 76	
+South Bronx_Financial District -0.26051 86	
+South Bronx_Little Italy 0.23043 80	
+South Bronx_Midtown -0.24301 78	
+South Bronx_Mott Haven 0.4844 93	
+South Bronx_Upper West Side -0.21418 76	
+South Bronx_West Village 0.30674 69	
+South Bronx_Woodlawn-Nordwood 0.5104 85	
+Springfield Gardens_Brownsville -0.24697 83	
+Springfield Gardens_Central Park 0.65708 86	
+Springfield Gardens_Midtown 0.47168 79	
+Springfield Gardens_Queens Village 0.07675 74	
+Springfield Gardens_Throggs Neck -0.02912 83	
+Spuyten Duyvil_Downtown 0.58918 75	
+Steinway_Battery Park 0.44471 59	
+Steinway_East Village -0.19965 60	
+Steinway_Financial District 0.13508 58	
+Steinway_Forest Hills 0.18254 57	
+Steinway_Harlem 0.28025 56	
+Steinway_Inwood 0.05696 57	
+Steinway_Midtown 0.00043 58	
+Steinway_Soho -0.06794 57	
+Steinway_Williamsburg -0.25272 60	
+Sunny Side_Bushwick 0.23013 82	
+Sunny Side_Canarsie 0.42823 75	
+Sunny Side_Fordham 0.24558 88	
+Sunny Side_Little Italy 0.47808 82	
+Sunny Side_North Sutton Area 0.68182 79	
+Sunny Side_Steinway 0.22133 62	
+Sunny Side_Wakefield-Williamsbridge 0.25935 82	
+Sunset Park_Chinatown 0.36768 84	
+Sunset Park_Corona -0.25171 84	
+Sunset Park_Inwood 0.75064 76	
+Sunset Park_Jamaica -0.39506 86	
+Sunset Park_Mapleton-Flatlands 0.49899 87	
+Sunset Park_Parkchester 0.22531 95	
+The Rockaways_Battery Park -0.19773 63	
+The Rockaways_Chinatown 0.19451 62	
+The Rockaways_East Village 0.24569 70	
+The Rockaways_Hunts Point 0.21991 70	
+The Rockaways_Williamsburg 0.12987 62	
+Throggs Neck_Greenwood 0.43325 79	
+Throggs Neck_Hunts Point 0.27518 81	
+Throggs Neck_University Heights 0.34895 83	
+Throggs Neck_Williams Bridge 0.37839 97	
+Throggs Neck_Woodside -0.37447 71	
+Tremont_Bushwick 0.64788 91	
+Tremont_City Island -0.33346 33	
+Tremont_Clearview 0.00583 67	
+Tremont_Eastchester 0 2	
+Tremont_High Bridge 0.43553 77	
+Tremont_Jamaica -0.31673 91	
+Tremont_Mott Haven 0.37447 102	
+Tremont_North Sutton Area 0.04161 92	
+Tremont_Steinway -0.02114 72	
+Tremont_Upper East Side -0.09227 96	
+Tremont_Yorkville -0.08347 91	
+Tribeca_Midtown 0.89902 84	
+Tribeca_Sunset Park 0.09871 72	
+Union Port_Chinatown -0.10625 80	
+University Heights_Auburndale 0.36504 82	
+University Heights_Central Park -0.3904 81	
+University Heights_Cobble Hill -0.09296 85	
+University Heights_Queensboro Hill 0.42063 90	
+University Heights_Throggs Neck 0.38155 80	
+University Heights_Tremont 0.66348 78	
+Upper East Side_Borough Park 0.13386 89	
+Upper East Side_Brownsville -0.43815 92	
+Upper East Side_Carroll Gardens 0.21916 82	
+Upper East Side_Clinton 0.6823 96	
+Upper East Side_Greenwood -0.30639 80	
+Upper East Side_Nkew Gardens 0.2181 78	
+Upper East Side_Tribeca 0.6496 97	
+Upper East Side_Upper West Side 0.9583 84	
+Upper West Side_Borough Park 0.05793 89	
+Upper West Side_Cobble Hill 0.66481 92	
+Upper West Side_Maspeth 0.41967 88	
+Upper West Side_Springfield Gardens 0.61513 90	
+Upper West Side_Washington Heights 0.71684 88	
+Utopia_Boerum Hill -0.14988 88	
+Utopia_Carroll Gardens 0.02311 83	
+Utopia_Clinton 0.29815 91	
+Utopia_East Village 0.0288 95	
+Utopia_Hamilton Heights 0.46071 93	
+Utopia_Saintalbans 0.07522 81	
+Utopia_The Rockaways -0.10474 81	
+Utopia_Tribeca 0.25271 93	
+Utopia_Upper West Side 0.42757 83	
+Utopia_Wakefield-Williamsbridge -0.01017 90	
+Wakefield-Williamsbridge_Country Club 0.46045 73	
+Wakefield-Williamsbridge_Jackson Heights 0.48247 85	
+Wakefield-Williamsbridge_Murray Hill -0.11488 72	
+Wakefield-Williamsbridge_Queens Village 0.035 74	
+Wakefield-Williamsbridge_Tremont 0.75088 72	
+Wakefield-Williamsbridge_Woodside 0.15371 77	
+Washington Heights_Harlem 0.73821 87	
+Washington Heights_Inwood 0.72317 88	
+Washington Heights_Mott Haven 0.3704 91	
+Washington Heights_The Rockaways 0.246 86	
+West Village_Astoria-Long Island City 0.40178 83	
+West Village_Chinatown 0.91849 84	
+West Village_Clinton 0.76733 100	
+West Village_Cobble Hill 0.49603 91	
+West Village_Country Club 0.41211 69	
+West Village_Morris Heights 0.16044 88	
+West Village_Park Slope 0.87705 71	
+West Village_Soho 0.74609 95	
+West Village_Tribeca 0.77536 102	
+West Village_University Heights 0.45808 85	
+Williams Bridge_Bensonhurst 0.62085 75	
+Williams Bridge_Corona -0.30687 69	
+Williams Bridge_East Harlem -0.19346 75	
+Williams Bridge_Gravesend-Sheepshead Bay 0.64594 75	
+Williams Bridge_Kings Bridge 0.71879 61	
+Williams Bridge_Sunny Side 0.33745 68	
+Williams Bridge_West Village 0.42703 66	
+Williamsburg_Baychester 0.43404 60	
+Williamsburg_Bedford Park 0.39049 87	
+Williamsburg_Clinton 0.37005 92	
+Williamsburg_Cobble Hill 0.07833 84	
+Williamsburg_Fort Green 0.94768 82	
+Williamsburg_Ridgewood 0.87168 88	
+Williamsburg_Tribeca 0.40238 91	
+Woodhaven-Richmond Hill_Auburndale 0.13849 77	
+Woodhaven-Richmond Hill_Brownsville 0.22385 82	
+Woodhaven-Richmond Hill_Downtown -0.21439 83	
+Woodhaven-Richmond Hill_Forest Hills 0.50015 84	
+Woodhaven-Richmond Hill_Jackson Heights 0.72249 91	
+Woodhaven-Richmond Hill_Lower East Side 0.18063 85	
+Woodhaven-Richmond Hill_Woodside 0.56079 74	
+Woodlawn-Nordwood_Astoria-Long Island City 0.52974 81	
+Woodlawn-Nordwood_College Point 0 1	
+Woodlawn-Nordwood_Corona -0.31965 77	
+Woodlawn-Nordwood_Greenwich Village 0.26276 89	
+Woodlawn-Nordwood_Greenwood 0.59918 86	
+Woodlawn-Nordwood_Murray Hill -0.2302 75	
+Woodside_Boerum Hill -0.13275 88	
+Woodside_Carnegie Hill 0.01534 84	
+Woodside_Douglastown-Little Neck 0.41033 87	
+Woodside_Downtown -0.0043 82	
+Woodside_East Brooklyn 0.03917 88	
+Woodside_North Sutton Area 0.19196 94	
+Woodside_Saintalbans 0.22102 83	
+Woodside_Springfield Gardens -0.06259 88	
+Yorkville_Brownsville -0.33292 81	
+Yorkville_Gravesend-Sheepshead Bay -0.32491 83	
+Yorkville_Kings Bridge -0.37367 83	
+Yorkville_Spuyten Duyvil -0.04246 73	
+Yorkville_West Village -0.019 84	
