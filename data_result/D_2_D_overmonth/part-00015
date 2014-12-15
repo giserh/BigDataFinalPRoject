@@ -1,0 +1,4183 @@
+01	Astoria-Long Island City	Downtown	69
+01	Astoria-Long Island City	Fort Green	269
+01	Astoria-Long Island City	Gravesend-Sheepshead Bay	17
+01	Astoria-Long Island City	Woodside	1391
+01	Auburndale	Jackson Heights	1
+01	Battery Park	North Sutton Area	400
+01	Battery Park	Tremont	9
+01	Battery Park	Woodside	57
+01	Bay Ridge	Bensonhurst	33
+01	Bay Ridge	Jackson Heights	3
+01	Bay Ridge	Lower East Side	4
+01	Bay Ridge	Murray Hill	5
+01	Bedford Park	Tremont	1
+01	Bedford Park	Wakefield-Williamsbridge	7
+01	Bedford-Stuyvesant	Astoria-Long Island City	34
+01	Bedford-Stuyvesant	Chinatown	21
+01	Bensonhurst	Gramercy	5
+01	Bensonhurst	Upper East Side	8
+01	Boerum Hill	Chelsea	421
+01	Boerum Hill	Woodhaven-Richmond Hill	6
+01	Borough Park	Dyker Heights	13
+01	Borough Park	Garment District	17
+01	Borough Park	Tribeca	16
+01	Borough Park	West Village	15
+01	Brownsville	Boerum Hill	1
+01	Bushwick	Morningside Heights	5
+01	Bushwick	Woodhaven-Richmond Hill	7
+01	Canarsie	Brownsville	9
+01	Carnegie Hill	Battery Park	482
+01	Carnegie Hill	Bedford-Stuyvesant	32
+01	Carnegie Hill	Chelsea	2751
+01	Carnegie Hill	Downtown	67
+01	Carnegie Hill	Forest Hills	47
+01	Carnegie Hill	North Sutton Area	1477
+01	Carnegie Hill	Williamsburg	180
+01	Carroll Gardens	Bedford-Stuyvesant	500
+01	Carroll Gardens	Brownsville	13
+01	Carroll Gardens	The Rockaways	1
+01	Central Park	Bay Ridge	11
+01	Central Park	Central Park	14832
+01	Central Park	City Island	2
+01	Central Park	Garment District	5193
+01	Central Park	Park Slope	148
+01	Central Park	Riverdale	53
+01	Central Park	Throggs Neck	7
+01	Chelsea	Astoria-Long Island City	4384
+01	Chelsea	Bay Ridge	635
+01	Chelsea	Baychester	17
+01	Chelsea	Downtown	2000
+01	Chelsea	East Brooklyn	101
+01	Chelsea	Fort Green	5054
+01	Chelsea	Kings Bridge	135
+01	Chelsea	South Bronx	301
+01	Chelsea	Washington Heights	3552
+01	Chelsea	West Village	43719
+01	Chinatown	Borough Park	66
+01	Chinatown	Nkew Gardens	18
+01	Chinatown	Queens Village	2
+01	Chinatown	Ridgewood	28
+01	Chinatown	Upper East Side	1743
+01	Clearview	Auburndale	2
+01	Clinton	Bushwick	304
+01	Clinton	Canarsie	53
+01	Clinton	Country Club	29
+01	Clinton	Garment District	33336
+01	Clinton	Gravesend-Sheepshead Bay	205
+01	Clinton	Jackson Heights	715
+01	Clinton	Lower East Side	5641
+01	Clinton	Morris Park	55
+01	Clinton	Nkew Gardens	143
+01	Clinton	Parkchester	152
+01	Clinton	Soundview	92
+01	Clinton	Steinway	1
+01	Clinton	Union Port	37
+01	Cobble Hill	Clinton	90
+01	Cobble Hill	Greenwood	66
+01	Cobble Hill	Middle Village	1
+01	Cobble Hill	Washington Heights	15
+01	College Point	Upper West Side	1
+01	Corona	Chelsea	15
+01	Corona	Ridgewood	1
+01	Corona	Sunny Side	12
+01	Douglastown-Little Neck	Astoria-Long Island City	1
+01	Downtown	Garment District	772
+01	Downtown	Morningside Heights	43
+01	Dyker Heights	Financial District	1
+01	East Brooklyn	East Village	1
+01	East Harlem	Bedford Park	34
+01	East Harlem	Gramercy	1052
+01	East Harlem	Tremont	63
+01	East Harlem	University Heights	49
+01	East Harlem	Wakefield-Williamsbridge	21
+01	East Village	Boerum Hill	1410
+01	East Village	Borough Park	481
+01	East Village	Bushwick	2000
+01	East Village	East Brooklyn	58
+01	East Village	Jackson Heights	763
+01	East Village	Lower East Side	32723
+01	East Village	Riverdale	75
+01	East Village	Saintalbans	10
+01	East Village	Tremont	51
+01	East Village	Woodhaven-Richmond Hill	83
+01	Financial District	Bedford Park	35
+01	Financial District	Carroll Gardens	912
+01	Financial District	Middle Village	97
+01	Financial District	Sunset Park	190
+01	Financial District	Upper West Side	5658
+01	Flushing	Greenwood	1
+01	Flushing	Sunset Park	1
+01	Flushing	Upper West Side	27
+01	Fordham	Garment District	2
+01	Fordham	Parkchester	3
+01	Fordham	Tremont	19
+01	Forest Hills	Clinton	33
+01	Forest Hills	Corona	1
+01	Forest Hills	Nkew Gardens	705
+01	Forest Hills	Tribeca	26
+01	Forest Hills	Woodhaven-Richmond Hill	142
+01	Fort Green	Cobble Hill	343
+01	Fort Green	Forest Hills	31
+01	Fort Green	Fort Green	5445
+01	Fort Green	Gramercy	795
+01	Fort Green	Greenwich Village	739
+01	Fort Green	Jackson Heights	74
+01	Fort Green	Tremont	3
+01	Garment District	Laurelton	22
+01	Garment District	Soundview	159
+01	Garment District	Spuyten Duyvil	177
+01	Glendale	Garment District	1
+01	Glendale	Gramercy	1
+01	Glendale	Midtown	2
+01	Gramercy	Clearview	38
+01	Gramercy	Hamilton Heights	1206
+01	Gramercy	Kings Bridge	128
+01	Gramercy	Laurelton	6
+01	Gramercy	Union Port	88
+01	Gramercy	West Village	30075
+01	Gravesend-Sheepshead Bay	Dyker Heights	5
+01	Gravesend-Sheepshead Bay	Yorkville	2
+01	Greenwich Village	Auburndale	29
+01	Greenwich Village	Bedford Park	76
+01	Greenwich Village	Maspeth	159
+01	Greenwich Village	Parkchester	120
+01	Greenwich Village	Sunset Park	492
+01	Greenwood	Canarsie	2
+01	Greenwood	Financial District	22
+01	Greenwood	Greenwood	156
+01	Greenwood	Murray Hill	9
+01	Greenwood	Park Slope	170
+01	Hamilton Heights	Bensonhurst	4
+01	Hamilton Heights	Carnegie Hill	173
+01	Hamilton Heights	East Brooklyn	2
+01	Hamilton Heights	East Village	208
+01	Hamilton Heights	Fort Green	30
+01	Hamilton Heights	Maspeth	5
+01	Hamilton Heights	Murray Hill	124
+01	Hamilton Heights	North Sutton Area	37
+01	Hamilton Heights	Queens Village	1
+01	Hamilton Heights	Springfield Gardens	2
+01	Harlem	Bensonhurst	3
+01	Harlem	East Harlem	3285
+01	Harlem	Murray Hill	505
+01	Harlem	Woodlawn-Nordwood	4
+01	High Bridge	Downtown	9
+01	High Bridge	East Brooklyn	1
+01	High Bridge	Financial District	2
+01	High Bridge	Greenwich Village	2
+01	High Bridge	Little Italy	1
+01	High Bridge	Tremont	20
+01	High Bridge	Woodside	2
+01	Inwood	Chelsea	13
+01	Inwood	Riverdale	12
+01	Jackson Heights	Bedford-Stuyvesant	21
+01	Jackson Heights	Chinatown	10
+01	Jackson Heights	East Brooklyn	7
+01	Jackson Heights	Greenwich Village	65
+01	Jackson Heights	Little Italy	19
+01	Jackson Heights	Queens Village	5
+01	Jackson Heights	Soho	34
+01	Jamaica	Carroll Gardens	1
+01	Jamaica	Little Italy	25
+01	Jamaica	Morris Park	2
+01	Jamaica	Mott Haven	4
+01	Jamaica	Soho	53
+01	Jamaica	Upper West Side	183
+01	Jamaica	West Village	49
+01	Kings Bridge	Bedford Park	9
+01	Laurelton	Little Italy	1
+01	Little Italy	Battery Park	1525
+01	Little Italy	Fordham	9
+01	Little Italy	Forest Hills	101
+01	Little Italy	Glendale	12
+01	Little Italy	High Bridge	8
+01	Little Italy	Jackson Heights	173
+01	Little Italy	Jamaica	21
+01	Little Italy	Lower East Side	6968
+01	Little Italy	Williamsburg	3252
+01	Lower East Side	Dyker Heights	83
+01	Lower East Side	East Harlem	750
+01	Lower East Side	Forest Hills	417
+01	Lower East Side	Gramercy	30108
+01	Lower East Side	Mapleton-Flatlands	361
+01	Lower East Side	Park Slope	2908
+01	Lower East Side	Queensboro Hill	54
+01	Lower East Side	Sunny Side	1478
+01	Mapleton-Flatlands	Bedford-Stuyvesant	26
+01	Mapleton-Flatlands	Gramercy	17
+01	Maspeth	Chelsea	40
+01	Maspeth	Financial District	17
+01	Maspeth	Fort Green	4
+01	Maspeth	Murray Hill	35
+01	Maspeth	Nkew Gardens	4
+01	Maspeth	Ridgewood	19
+01	Middle Village	Fort Green	1
+01	Middle Village	Nkew Gardens	2
+01	Midtown	Borough Park	740
+01	Midtown	Corona	17
+01	Midtown	Downtown	3500
+01	Midtown	Garment District	183319
+01	Midtown	Hunts Point	126
+01	Midtown	Riverdale	696
+01	Midtown	Springfield Gardens	105
+01	Morningside Heights	Battery Park	284
+01	Morningside Heights	City Island	2
+01	Morningside Heights	East Village	610
+01	Morningside Heights	Gravesend-Sheepshead Bay	7
+01	Morningside Heights	High Bridge	109
+01	Morningside Heights	Morningside Heights	8662
+01	Morningside Heights	Union Port	6
+01	Morningside Heights	Williamsburg	80
+01	Morris Heights	Harlem	12
+01	Morris Heights	Inwood	4
+01	Morris Heights	Soundview	3
+01	Morris Heights	Upper East Side	9
+01	Morris Park	Greenwich Village	1
+01	Morris Park	South Bronx	7
+01	Morris Park	Wakefield-Williamsbridge	2
+01	Mott Haven	Auburndale	1
+01	Mott Haven	Carnegie Hill	7
+01	Mott Haven	East Brooklyn	1
+01	Mott Haven	Morris Park	8
+01	Mott Haven	Nkew Gardens	2
+01	Mott Haven	University Heights	14
+01	Murray Hill	Canarsie	51
+01	Murray Hill	City Island	1
+01	Murray Hill	Country Club	25
+01	Murray Hill	High Bridge	123
+01	Murray Hill	Jackson Heights	671
+01	Murray Hill	Lower East Side	8437
+01	Murray Hill	Morris Heights	27
+01	Murray Hill	Nkew Gardens	280
+01	Murray Hill	North Sutton Area	5983
+01	Nkew Gardens	Gramercy	29
+01	Nkew Gardens	Jamaica	44
+01	Nkew Gardens	Upper East Side	40
+01	North Sutton Area	Auburndale	13
+01	North Sutton Area	Bay Ridge	77
+01	North Sutton Area	Bedford Park	29
+01	North Sutton Area	Maspeth	64
+01	North Sutton Area	Riverdale	24
+01	North Sutton Area	Soho	1701
+01	North Sutton Area	The Rockaways	6
+01	Park Slope	Brownsville	36
+01	Park Slope	Midtown	334
+01	Park Slope	Park Slope	2803
+01	Queensboro Hill	Jamaica	1
+01	Queensboro Hill	Washington Heights	3
+01	Ridgewood	East Brooklyn	1
+01	Ridgewood	Flushing	1
+01	Ridgewood	Jackson Heights	7
+01	Ridgewood	Midtown	5
+01	Soho	City Island	3
+01	Soho	Clinton	7982
+01	Soho	East Village	17173
+01	Soho	Flatbush	4
+01	Soho	Glendale	19
+01	Soho	High Bridge	39
+01	Soho	Wakefield-Williamsbridge	15
+01	Soundview	Garment District	1
+01	Soundview	Greenwich Village	2
+01	Soundview	Lower East Side	2
+01	South Bronx	Greenwich Village	6
+01	South Bronx	Jackson Heights	2
+01	South Bronx	Kings Bridge	5
+01	South Bronx	Morris Park	7
+01	Springfield Gardens	Brownsville	1
+01	Springfield Gardens	Clinton	8
+01	Springfield Gardens	Tribeca	7
+01	Spuyten Duyvil	Carnegie Hill	1
+01	Spuyten Duyvil	Washington Heights	3
+01	Sunny Side	Nkew Gardens	115
+01	Sunny Side	Soho	384
+01	Sunny Side	Tremont	8
+01	Sunny Side	Union Port	12
+01	Sunset Park	Soho	2
+01	Sunset Park	South Bronx	2
+01	The Rockaways	The Rockaways	30
+01	Throggs Neck	Astoria-Long Island City	1
+01	Tremont	Williams Bridge	4
+01	Tribeca	Bay Ridge	358
+01	Tribeca	Dyker Heights	54
+01	Tribeca	Hunts Point	7
+01	Tribeca	Jackson Heights	248
+01	Tribeca	Lower East Side	9683
+01	Union Port	Clinton	5
+01	Union Port	Hunts Point	3
+01	University Heights	Central Park	2
+01	University Heights	Throggs Neck	2
+01	University Heights	Tremont	9
+01	Upper East Side	Carroll Gardens	790
+01	Upper East Side	Clearview	66
+01	Upper East Side	Douglastown-Little Neck	78
+01	Upper East Side	High Bridge	696
+01	Upper East Side	Laurelton	16
+01	Upper East Side	Morningside Heights	9400
+01	Upper East Side	Spuyten Duyvil	287
+01	Upper East Side	Upper West Side	177932
+01	Upper East Side	Yorkville	42491
+01	Upper West Side	Brownsville	29
+01	Upper West Side	Hamilton Heights	10475
+01	Utopia	Astoria-Long Island City	9
+01	Utopia	Bushwick	5
+01	Utopia	Jamaica	50
+01	Utopia	Washington Heights	4
+01	Wakefield-Williamsbridge	Astoria-Long Island City	2
+01	Wakefield-Williamsbridge	Chelsea	2
+01	Wakefield-Williamsbridge	Garment District	2
+01	Washington Heights	Carroll Gardens	7
+01	Washington Heights	East Harlem	258
+01	Washington Heights	Upper West Side	2196
+01	Washington Heights	Yorkville	213
+01	West Village	Battery Park	7916
+01	West Village	Cobble Hill	377
+01	West Village	East Village	17574
+01	West Village	Jackson Heights	323
+01	West Village	Lower East Side	10769
+01	West Village	Riverdale	60
+01	West Village	University Heights	22
+01	West Village	Williamsburg	3123
+01	West Village	Woodhaven-Richmond Hill	30
+01	Williams Bridge	Bedford Park	6
+01	Williams Bridge	Morningside Heights	2
+01	Williams Bridge	Parkchester	2
+01	Williamsburg	Cobble Hill	387
+01	Williamsburg	Corona	1
+01	Williamsburg	Downtown	786
+01	Williamsburg	Greenwood	245
+01	Woodhaven-Richmond Hill	Flushing	2
+01	Woodhaven-Richmond Hill	Morris Park	1
+01	Woodhaven-Richmond Hill	Soho	1
+01	Woodlawn-Nordwood	University Heights	1
+01	Woodlawn-Nordwood	Williams Bridge	1
+01	Woodside	Garment District	230
+01	Woodside	Kings Bridge	1
+01	Woodside	Maspeth	176
+01	Woodside	North Sutton Area	118
+01	Woodside	Park Slope	22
+01	Woodside	Utopia	21
+01	Woodside	Washington Heights	52
+01	Yorkville	Bedford-Stuyvesant	98
+01	Yorkville	Carroll Gardens	34
+01	Yorkville	Dyker Heights	1
+01	Yorkville	Fordham	39
+01	Yorkville	Forest Hills	82
+01	Yorkville	Gramercy	3358
+01	Yorkville	High Bridge	184
+01	Yorkville	Jamaica	22
+01	Yorkville	Sunny Side	280
+02	Astoria-Long Island City	Battery Park	135
+02	Astoria-Long Island City	Brownsville	15
+02	Astoria-Long Island City	Forest Hills	384
+02	Astoria-Long Island City	Mapleton-Flatlands	22
+02	Astoria-Long Island City	Queensboro Hill	75
+02	Astoria-Long Island City	Union Port	10
+02	Astoria-Long Island City	Williamsburg	553
+02	Auburndale	Douglastown-Little Neck	2
+02	Battery Park	Garment District	5061
+02	Battery Park	South Bronx	5
+02	Battery Park	Springfield Gardens	2
+02	Battery Park	The Rockaways	3
+02	Battery Park	Union Port	1
+02	Battery Park	Upper East Side	4576
+02	Bay Ridge	Financial District	5
+02	Bay Ridge	Middle Village	1
+02	Bay Ridge	Park Slope	14
+02	Bay Ridge	Sunny Side	1
+02	Bay Ridge	Upper East Side	7
+02	Bedford Park	Kings Bridge	5
+02	Bedford-Stuyvesant	Clinton	32
+02	Bedford-Stuyvesant	Greenwood	17
+02	Bedford-Stuyvesant	Sunny Side	32
+02	Bedford-Stuyvesant	Tribeca	30
+02	Bensonhurst	Kings Bridge	1
+02	Bensonhurst	Sunset Park	2
+02	Boerum Hill	Brownsville	32
+02	Boerum Hill	Carroll Gardens	1109
+02	Boerum Hill	Upper West Side	202
+02	Borough Park	Borough Park	640
+02	Borough Park	Clinton	13
+02	Borough Park	East Brooklyn	2
+02	Borough Park	Flatbush	1
+02	Borough Park	Glendale	1
+02	Borough Park	Nkew Gardens	1
+02	Borough Park	Sunny Side	6
+02	Borough Park	Washington Heights	3
+02	Brownsville	Greenwich Village	2
+02	Brownsville	Middle Village	1
+02	Bushwick	Bensonhurst	1
+02	Bushwick	Harlem	9
+02	Bushwick	Murray Hill	5
+02	Bushwick	Nkew Gardens	1
+02	Bushwick	Ridgewood	79
+02	Bushwick	Sunny Side	24
+02	Canarsie	Bedford-Stuyvesant	7
+02	Canarsie	Downtown	2
+02	Carnegie Hill	Bensonhurst	11
+02	Carnegie Hill	Carnegie Hill	6967
+02	Carnegie Hill	East Harlem	2146
+02	Carnegie Hill	Maspeth	25
+02	Carnegie Hill	Springfield Gardens	2
+02	Carnegie Hill	Woodlawn-Nordwood	9
+02	Carroll Gardens	Chelsea	1000
+02	Carroll Gardens	Greenwich Village	650
+02	Carroll Gardens	Murray Hill	384
+02	Carroll Gardens	Ridgewood	16
+02	Central Park	Auburndale	4
+02	Central Park	Greenwood	12
+02	Central Park	Little Italy	216
+02	Central Park	Morris Park	13
+02	Central Park	Spuyten Duyvil	35
+02	Chelsea	Morris Heights	109
+02	Chelsea	Parkchester	117
+02	Chelsea	Ridgewood	215
+02	Chelsea	Sunset Park	315
+02	Chinatown	Morningside Heights	204
+02	Chinatown	Morris Park	8
+02	Chinatown	Parkchester	12
+02	Chinatown	Soundview	12
+02	Chinatown	Washington Heights	155
+02	Clinton	Chinatown	1061
+02	Corona	Hamilton Heights	2
+02	Corona	Upper West Side	29
+02	Douglastown-Little Neck	Little Italy	1
+02	Downtown	Harlem	147
+02	Downtown	Hunts Point	4
+02	Downtown	Inwood	8
+02	Downtown	North Sutton Area	119
+02	Dyker Heights	Dyker Heights	45
+02	East Brooklyn	Morningside Heights	1
+02	East Harlem	Astoria-Long Island City	426
+02	East Harlem	Murray Hill	492
+02	East Harlem	Union Port	31
+02	East Harlem	Upper East Side	8874
+02	East Village	Greenwood	557
+02	East Village	Morningside Heights	1321
+02	East Village	Spuyten Duyvil	41
+02	Financial District	Bay Ridge	518
+02	Financial District	Country Club	21
+02	Financial District	Riverdale	48
+02	Financial District	Tremont	18
+02	Flushing	Bay Ridge	1
+02	Flushing	Parkchester	1
+02	Flushing	Queens Village	1
+02	Flushing	West Village	11
+02	Flushing	Woodside	11
+02	Forest Hills	Bedford Park	3
+02	Forest Hills	Hamilton Heights	4
+02	Forest Hills	High Bridge	4
+02	Forest Hills	Upper East Side	179
+02	Fort Green	Borough Park	151
+02	Fort Green	Carnegie Hill	25
+02	Fort Green	Chelsea	717
+02	Fort Green	East Brooklyn	60
+02	Fort Green	Greenwood	216
+02	Fort Green	Nkew Gardens	15
+02	Fort Green	South Bronx	9
+02	Garment District	Baychester	27
+02	Garment District	Country Club	67
+02	Garment District	Gramercy	71819
+02	Garment District	Hunts Point	53
+02	Garment District	Nkew Gardens	326
+02	Glendale	Bushwick	1
+02	Glendale	Middle Village	13
+02	Glendale	South Bronx	1
+02	Glendale	Woodhaven-Richmond Hill	10
+02	Gramercy	Corona	6
+02	Gramercy	Little Italy	9031
+02	Gramercy	Tremont	110
+02	Gramercy	Washington Heights	2502
+02	Greenwich Village	Borough Park	419
+02	Greenwich Village	Fort Green	5697
+02	Greenwich Village	Gramercy	65765
+02	Greenwich Village	Mapleton-Flatlands	429
+02	Greenwood	Battery Park	9
+02	Greenwood	Forest Hills	2
+02	Greenwood	Garment District	18
+02	Greenwood	Jamaica	2
+02	Greenwood	Sunny Side	8
+02	Greenwood	Williamsburg	40
+02	Hamilton Heights	Bedford-Stuyvesant	31
+02	Hamilton Heights	East Harlem	919
+02	Hamilton Heights	Maspeth	2
+02	Hamilton Heights	Spuyten Duyvil	37
+02	Harlem	Jamaica	28
+02	Harlem	Morris Park	26
+02	Harlem	Utopia	13
+02	High Bridge	Williams Bridge	1
+02	Inwood	Little Italy	1
+02	Inwood	Tremont	3
+02	Inwood	West Village	2
+02	Inwood	Williams Bridge	1
+02	Jackson Heights	Carroll Gardens	8
+02	Jackson Heights	Clearview	6
+02	Jackson Heights	Financial District	74
+02	Jackson Heights	Fordham	6
+02	Jackson Heights	Laurelton	1
+02	Jackson Heights	Morris Heights	1
+02	Jackson Heights	Sunny Side	337
+02	Jackson Heights	The Rockaways	2
+02	Jackson Heights	Upper West Side	178
+02	Jackson Heights	Utopia	38
+02	Jamaica	Baychester	1
+02	Jamaica	Bushwick	2
+02	Jamaica	Clinton	90
+02	Jamaica	Douglastown-Little Neck	5
+02	Jamaica	Tribeca	47
+02	Kings Bridge	Washington Heights	12
+02	Little Italy	Central Park	583
+02	Little Italy	Downtown	502
+02	Little Italy	Greenwich Village	11824
+02	Little Italy	Throggs Neck	6
+02	Little Italy	Woodside	82
+02	Lower East Side	Bedford Park	40
+02	Lower East Side	Flushing	82
+02	Lower East Side	Harlem	1588
+02	Lower East Side	Inwood	121
+02	Lower East Side	Middle Village	81
+02	Mapleton-Flatlands	Bensonhurst	18
+02	Mapleton-Flatlands	Borough Park	46
+02	Mapleton-Flatlands	Flushing	1
+02	Mapleton-Flatlands	Lower East Side	15
+02	Maspeth	Clinton	26
+02	Maspeth	Country Club	1
+02	Maspeth	Gramercy	68
+02	Maspeth	Tribeca	11
+02	Maspeth	Woodhaven-Richmond Hill	3
+02	Middle Village	Saintalbans	1
+02	Middle Village	Yorkville	2
+02	Midtown	Bensonhurst	430
+02	Midtown	Country Club	97
+02	Midtown	Dyker Heights	231
+02	Midtown	Maspeth	709
+02	Midtown	Murray Hill	91724
+02	Midtown	Nkew Gardens	1105
+02	Midtown	Woodlawn-Nordwood	277
+02	Morningside Heights	Baychester	2
+02	Morningside Heights	East Brooklyn	1
+02	Morningside Heights	Gravesend-Sheepshead Bay	10
+02	Morningside Heights	Greenwood	4
+02	Morningside Heights	Midtown	9118
+02	Morningside Heights	Parkchester	32
+02	Morningside Heights	Sunset Park	17
+02	Morningside Heights	Woodhaven-Richmond Hill	4
+02	Morris Heights	Carnegie Hill	1
+02	Morris Heights	Central Park	3
+02	Morris Park	Gramercy	2
+02	Morris Park	Mapleton-Flatlands	1
+02	Morris Park	Morris Park	26
+02	Morris Park	Parkchester	10
+02	Mott Haven	Fort Green	7
+02	Mott Haven	Upper East Side	165
+02	Mott Haven	Woodhaven-Richmond Hill	1
+02	Murray Hill	Bay Ridge	306
+02	Murray Hill	Boerum Hill	312
+02	Murray Hill	Borough Park	253
+02	Murray Hill	Gramercy	60082
+02	Murray Hill	Midtown	93163
+02	Murray Hill	Saintalbans	17
+02	Murray Hill	Springfield Gardens	28
+02	Murray Hill	Utopia	180
+02	Nkew Gardens	Financial District	17
+02	Nkew Gardens	Flushing	32
+02	Nkew Gardens	Nkew Gardens	420
+02	Nkew Gardens	Queens Village	3
+02	Nkew Gardens	Soho	9
+02	Nkew Gardens	Sunny Side	18
+02	North Sutton Area	Borough Park	31
+02	North Sutton Area	Carnegie Hill	1918
+02	North Sutton Area	East Brooklyn	13
+02	North Sutton Area	Flushing	33
+02	North Sutton Area	Fort Green	219
+02	North Sutton Area	Gramercy	14916
+02	North Sutton Area	Nkew Gardens	66
+02	North Sutton Area	Ridgewood	47
+02	North Sutton Area	South Bronx	92
+02	Park Slope	Cobble Hill	222
+02	Park Slope	Harlem	34
+02	Park Slope	Inwood	4
+02	Park Slope	Kings Bridge	3
+02	Park Slope	Queens Village	1
+02	Park Slope	Springfield Gardens	1
+02	Park Slope	Woodlawn-Nordwood	1
+02	Park Slope	Yorkville	26
+02	Parkchester	Mott Haven	1
+02	Queens Village	Woodhaven-Richmond Hill	1
+02	Queensboro Hill	Nkew Gardens	2
+02	Ridgewood	Brownsville	1
+02	Ridgewood	Nkew Gardens	1
+02	Ridgewood	Upper East Side	2
+02	Riverdale	Gramercy	1
+02	Riverdale	Parkchester	1
+02	Soho	Bedford Park	49
+02	Soho	Bedford-Stuyvesant	1388
+02	Soho	Boerum Hill	762
+02	Soho	Saintalbans	3
+02	Soho	The Rockaways	10
+02	Soho	Union Port	10
+02	Soho	Washington Heights	725
+02	Soundview	Battery Park	1
+02	Soundview	Fordham	3
+02	Soundview	Hamilton Heights	1
+02	Soundview	Morris Heights	1
+02	Soundview	Williamsburg	1
+02	South Bronx	Little Italy	1
+02	South Bronx	Union Port	6
+02	South Bronx	Yorkville	17
+02	Spuyten Duyvil	Kings Bridge	9
+02	Steinway	Park Slope	1
+02	Sunny Side	Chelsea	954
+02	Sunny Side	Downtown	138
+02	Sunny Side	East Brooklyn	19
+02	Sunny Side	High Bridge	12
+02	Sunny Side	Little Italy	139
+02	Sunny Side	Mapleton-Flatlands	15
+02	Sunny Side	Morris Heights	6
+02	Sunny Side	Woodside	1101
+02	Sunset Park	Bushwick	3
+02	Sunset Park	East Village	12
+02	Sunset Park	Fort Green	14
+02	Sunset Park	Greenwich Village	3
+02	Sunset Park	Sunset Park	154
+02	The Rockaways	Midtown	1
+02	Tribeca	Bensonhurst	61
+02	Tribeca	Borough Park	251
+02	Tribeca	Mapleton-Flatlands	225
+02	Tribeca	Murray Hill	5812
+02	Tribeca	North Sutton Area	815
+02	Tribeca	Ridgewood	64
+02	Tribeca	Union Port	11
+02	Union Port	Gramercy	2
+02	Union Port	High Bridge	2
+02	Upper East Side	Baychester	33
+02	Upper East Side	Clinton	24359
+02	Upper East Side	Fort Green	1882
+02	Upper East Side	Ridgewood	347
+02	Upper East Side	Tribeca	9317
+02	Upper East Side	Upper East Side	601951
+02	Upper West Side	Bensonhurst	50
+02	Upper West Side	East Village	8867
+02	Upper West Side	Glendale	27
+02	Upper West Side	Maspeth	90
+02	Upper West Side	Murray Hill	16684
+02	Utopia	Carnegie Hill	2
+02	Utopia	Douglastown-Little Neck	5
+02	Utopia	Hamilton Heights	1
+02	Utopia	Maspeth	2
+02	Utopia	West Village	7
+02	Wakefield-Williamsbridge	Morris Heights	1
+02	Wakefield-Williamsbridge	Union Port	1
+02	Washington Heights	Garment District	267
+02	Washington Heights	High Bridge	137
+02	Washington Heights	Soundview	13
+02	West Village	Boerum Hill	613
+02	West Village	Central Park	2049
+02	West Village	Corona	1
+02	West Village	Mott Haven	80
+02	West Village	Park Slope	1471
+02	West Village	Saintalbans	4
+02	West Village	Throggs Neck	9
+02	Williamsburg	Boerum Hill	652
+02	Williamsburg	Saintalbans	7
+02	Williamsburg	Soho	1144
+02	Williamsburg	University Heights	2
+02	Williamsburg	Wakefield-Williamsbridge	1
+02	Woodlawn-Nordwood	Clinton	1
+02	Woodlawn-Nordwood	Parkchester	1
+02	Woodlawn-Nordwood	Riverdale	2
+02	Woodlawn-Nordwood	Woodlawn-Nordwood	18
+02	Woodside	Astoria-Long Island City	792
+02	Woodside	Auburndale	2
+02	Woodside	Flushing	31
+02	Woodside	Greenwich Village	89
+02	Woodside	Little Italy	18
+02	Yorkville	Bay Ridge	23
+02	Yorkville	Spuyten Duyvil	27
+02	Yorkville	Tribeca	379
+02	Yorkville	Woodlawn-Nordwood	10
+03	Astoria-Long Island City	Bay Ridge	39
+03	Astoria-Long Island City	Country Club	5
+03	Astoria-Long Island City	Mott Haven	176
+03	Astoria-Long Island City	Nkew Gardens	273
+03	Astoria-Long Island City	Riverdale	12
+03	Astoria-Long Island City	Williams Bridge	13
+03	Battery Park	Clinton	4046
+03	Battery Park	Kings Bridge	4
+03	Battery Park	Tribeca	10122
+03	Bay Ridge	Astoria-Long Island City	1
+03	Bay Ridge	Carroll Gardens	12
+03	Bay Ridge	Clinton	4
+03	Bay Ridge	Greenwich Village	6
+03	Bay Ridge	Tribeca	4
+03	Bay Ridge	Upper West Side	5
+03	Baychester	Country Club	2
+03	Baychester	Tremont	1
+03	Bedford Park	Clinton	6
+03	Bedford-Stuyvesant	Glendale	5
+03	Bensonhurst	Little Italy	1
+03	Bensonhurst	Lower East Side	1
+03	Boerum Hill	Central Park	49
+03	Boerum Hill	Clinton	169
+03	Boerum Hill	Park Slope	1950
+03	Boerum Hill	Throggs Neck	1
+03	Boerum Hill	Tribeca	299
+03	Borough Park	Astoria-Long Island City	6
+03	Borough Park	Bay Ridge	21
+03	Borough Park	Brownsville	6
+03	Borough Park	Downtown	38
+03	Borough Park	Jackson Heights	1
+03	Borough Park	Lower East Side	27
+03	Brownsville	Carroll Gardens	1
+03	Brownsville	Chelsea	2
+03	Brownsville	East Village	1
+03	Brownsville	Harlem	1
+03	Brownsville	Park Slope	2
+03	Brownsville	South Bronx	1
+03	Bushwick	Carnegie Hill	1
+03	Bushwick	Carroll Gardens	19
+03	Bushwick	East Brooklyn	34
+03	Bushwick	Springfield Gardens	1
+03	Bushwick	Upper West Side	21
+03	Bushwick	Woodhaven-Richmond Hill	7
+03	Canarsie	Jackson Heights	1
+03	Canarsie	Lower East Side	3
+03	Canarsie	Ridgewood	1
+03	Carnegie Hill	Bedford-Stuyvesant	22
+03	Carnegie Hill	Fort Green	106
+03	Carnegie Hill	Midtown	27521
+03	Carroll Gardens	Flatbush	4
+03	Carroll Gardens	Glendale	1
+03	Carroll Gardens	Harlem	44
+03	Carroll Gardens	Inwood	3
+03	Carroll Gardens	Nkew Gardens	13
+03	Central Park	Parkchester	21
+03	Central Park	Sunset Park	14
+03	Central Park	The Rockaways	1
+03	Central Park	Washington Heights	963
+03	Chelsea	Astoria-Long Island City	5165
+03	Chelsea	Greenwich Village	74927
+03	Chelsea	Hunts Point	40
+03	Chelsea	Mapleton-Flatlands	521
+03	Chelsea	Upper East Side	51347
+03	Chelsea	Yorkville	3240
+03	Chinatown	Bedford-Stuyvesant	469
+03	Chinatown	Bushwick	232
+03	Chinatown	Cobble Hill	109
+03	Chinatown	Spuyten Duyvil	3
+03	Chinatown	Woodlawn-Nordwood	2
+03	City Island	City Island	50
+03	Clinton	Carroll Gardens	551
+03	Clinton	Downtown	705
+03	Clinton	Gravesend-Sheepshead Bay	253
+03	Clinton	Murray Hill	18352
+03	Clinton	Upper West Side	39963
+03	Cobble Hill	Astoria-Long Island City	42
+03	Cobble Hill	Auburndale	1
+03	Cobble Hill	Carnegie Hill	27
+03	Cobble Hill	East Brooklyn	8
+03	Cobble Hill	Maspeth	9
+03	Cobble Hill	West Village	223
+03	Corona	Borough Park	1
+03	Corona	Cobble Hill	1
+03	Corona	Wakefield-Williamsbridge	1
+03	Country Club	Garment District	1
+03	Douglastown-Little Neck	Carnegie Hill	1
+03	Douglastown-Little Neck	Upper East Side	3
+03	Downtown	Central Park	80
+03	Downtown	Downtown	1769
+03	Downtown	Flatbush	3
+03	Downtown	Greenwich Village	1318
+03	Downtown	Greenwood	153
+03	Downtown	Queens Village	1
+03	Downtown	Springfield Gardens	3
+03	Downtown	The Rockaways	3
+03	Dyker Heights	Financial District	1
+03	Dyker Heights	Gravesend-Sheepshead Bay	9
+03	East Brooklyn	Borough Park	1
+03	East Harlem	Bay Ridge	9
+03	East Harlem	City Island	1
+03	East Harlem	High Bridge	159
+03	East Village	Clinton	11702
+03	East Village	East Village	47547
+03	East Village	Financial District	15596
+03	East Village	Morris Heights	49
+03	East Village	Mott Haven	293
+03	East Village	Tribeca	10525
+03	Financial District	Brownsville	88
+03	Financial District	Corona	2
+03	Financial District	Jamaica	78
+03	Financial District	North Sutton Area	1617
+03	Financial District	Washington Heights	685
+03	Flatbush	Clinton	1
+03	Flatbush	Tribeca	1
+03	Flushing	Clearview	9
+03	Flushing	Little Italy	5
+03	Fordham	Bedford Park	20
+03	Fordham	Tremont	17
+03	Forest Hills	Fordham	1
+03	Forest Hills	Utopia	243
+03	Fort Green	Chinatown	349
+03	Fort Green	Hunts Point	3
+03	Fort Green	Jamaica	25
+03	Fort Green	Utopia	14
+03	Garment District	Bedford Park	219
+03	Garment District	Hamilton Heights	2031
+03	Garment District	The Rockaways	51
+03	Glendale	East Brooklyn	4
+03	Glendale	Forest Hills	16
+03	Glendale	Upper East Side	3
+03	Glendale	Williamsburg	4
+03	Gramercy	Boerum Hill	1442
+03	Gramercy	Carnegie Hill	5453
+03	Gramercy	Riverdale	163
+03	Gramercy	Saintalbans	31
+03	Gramercy	Wakefield-Williamsbridge	71
+03	Gravesend-Sheepshead Bay	Bensonhurst	15
+03	Gravesend-Sheepshead Bay	Bushwick	1
+03	Gravesend-Sheepshead Bay	Murray Hill	2
+03	Greenwich Village	Baychester	12
+03	Greenwich Village	Bensonhurst	196
+03	Greenwich Village	Downtown	2383
+03	Greenwich Village	East Harlem	1410
+03	Greenwich Village	Little Italy	10363
+03	Greenwich Village	Tremont	78
+03	Greenwich Village	Woodhaven-Richmond Hill	120
+03	Greenwich Village	Woodside	585
+03	Greenwood	Clinton	17
+03	Greenwood	Little Italy	9
+03	Greenwood	North Sutton Area	1
+03	Greenwood	Tribeca	13
+03	Hamilton Heights	Harlem	3763
+03	Hamilton Heights	Inwood	172
+03	Hamilton Heights	Little Italy	32
+03	Hamilton Heights	South Bronx	140
+03	Hamilton Heights	West Village	304
+03	Harlem	Baychester	12
+03	Harlem	Hunts Point	48
+03	Harlem	Jackson Heights	148
+03	Harlem	Lower East Side	561
+03	Harlem	Maspeth	7
+03	High Bridge	Midtown	41
+03	High Bridge	Mott Haven	88
+03	High Bridge	Upper West Side	35
+03	High Bridge	Yorkville	25
+03	Hunts Point	Chelsea	2
+03	Hunts Point	Upper East Side	10
+03	Inwood	Garment District	7
+03	Inwood	Greenwood	1
+03	Inwood	Park Slope	1
+03	Inwood	Soho	5
+03	Jackson Heights	Glendale	9
+03	Jackson Heights	Ridgewood	36
+03	Jackson Heights	Upper East Side	436
+03	Jamaica	Chelsea	139
+03	Jamaica	Clearview	1
+03	Jamaica	Laurelton	3
+03	Jamaica	Murray Hill	143
+03	Jamaica	Soundview	1
+03	Kings Bridge	Upper West Side	2
+03	Little Italy	Little Italy	2513
+03	Little Italy	Morris Park	11
+03	Little Italy	Mott Haven	48
+03	Little Italy	Queens Village	2
+03	Lower East Side	Baychester	17
+03	Lower East Side	Bushwick	2752
+03	Lower East Side	Canarsie	99
+03	Lower East Side	High Bridge	80
+03	Lower East Side	Midtown	25911
+03	Lower East Side	Yorkville	1835
+03	Mapleton-Flatlands	High Bridge	1
+03	Mapleton-Flatlands	Upper East Side	32
+03	Maspeth	Boerum Hill	3
+03	Maspeth	Chelsea	70
+03	Maspeth	Hamilton Heights	2
+03	Maspeth	Queensboro Hill	1
+03	Middle Village	Bedford-Stuyvesant	1
+03	Middle Village	Middle Village	54
+03	Middle Village	Sunny Side	8
+03	Midtown	City Island	27
+03	Midtown	Clearview	93
+03	Midtown	Clinton	110839
+03	Midtown	High Bridge	694
+03	Midtown	Middle Village	730
+03	Midtown	Tribeca	27547
+03	Midtown	Yorkville	15312
+03	Morningside Heights	Battery Park	252
+03	Morningside Heights	East Village	821
+03	Morningside Heights	Forest Hills	48
+03	Morningside Heights	Gramercy	1966
+03	Morningside Heights	Gravesend-Sheepshead Bay	10
+03	Morningside Heights	Williamsburg	123
+03	Morris Heights	East Harlem	1
+03	Morris Heights	Fordham	7
+03	Morris Heights	Hamilton Heights	3
+03	Morris Heights	Morningside Heights	6
+03	Morris Park	Hunts Point	3
+03	Morris Park	Tremont	10
+03	Morris Park	Upper East Side	7
+03	Mott Haven	Boerum Hill	1
+03	Mott Haven	Flushing	6
+03	Mott Haven	North Sutton Area	19
+03	Mott Haven	Washington Heights	87
+03	Murray Hill	Baychester	11
+03	Murray Hill	Corona	5
+03	Murray Hill	Douglastown-Little Neck	62
+03	Murray Hill	Middle Village	235
+03	Murray Hill	Washington Heights	1253
+03	Nkew Gardens	Auburndale	6
+03	Nkew Gardens	Bedford-Stuyvesant	8
+03	Nkew Gardens	Brownsville	1
+03	Nkew Gardens	Bushwick	3
+03	Nkew Gardens	Queensboro Hill	4
+03	North Sutton Area	Baychester	1
+03	North Sutton Area	Kings Bridge	36
+03	North Sutton Area	Little Italy	665
+03	North Sutton Area	Tremont	32
+03	North Sutton Area	West Village	1547
+03	Park Slope	Central Park	31
+03	Park Slope	Flushing	6
+03	Parkchester	Gramercy	9
+03	Parkchester	Upper East Side	11
+03	Parkchester	Yorkville	3
+03	Ridgewood	Astoria-Long Island City	15
+03	Ridgewood	Bensonhurst	1
+03	Ridgewood	Carroll Gardens	2
+03	Ridgewood	Financial District	4
+03	Ridgewood	Laurelton	1
+03	Ridgewood	Middle Village	20
+03	Ridgewood	Murray Hill	4
+03	Riverdale	Greenwich Village	1
+03	Riverdale	Hamilton Heights	5
+03	Riverdale	Upper East Side	5
+03	Saintalbans	Woodhaven-Richmond Hill	2
+03	Soho	Country Club	12
+03	Soundview	Murray Hill	1
+03	Soundview	Upper West Side	2
+03	South Bronx	Downtown	2
+03	South Bronx	Soundview	25
+03	South Bronx	Washington Heights	25
+03	South Bronx	Woodside	1
+03	Springfield Gardens	Gramercy	15
+03	Spuyten Duyvil	Clinton	1
+03	Spuyten Duyvil	Riverdale	6
+03	Sunny Side	Carnegie Hill	123
+03	Sunny Side	Fort Green	342
+03	Sunny Side	Gramercy	2163
+03	Sunny Side	Gravesend-Sheepshead Bay	18
+03	Sunny Side	Harlem	221
+03	Sunny Side	Inwood	14
+03	Sunset Park	Astoria-Long Island City	6
+03	Sunset Park	Battery Park	7
+03	Sunset Park	Flushing	2
+03	Sunset Park	Forest Hills	4
+03	Sunset Park	Sunny Side	4
+03	Sunset Park	Williamsburg	17
+03	Throggs Neck	Garment District	1
+03	Throggs Neck	Yorkville	1
+03	Tremont	South Bronx	19
+03	Tribeca	Carroll Gardens	919
+03	Tribeca	City Island	2
+03	Tribeca	Country Club	25
+03	Tribeca	Downtown	1439
+03	Tribeca	High Bridge	41
+03	Tribeca	Nkew Gardens	48
+03	Tribeca	Upper West Side	8085
+03	Tribeca	Woodside	193
+03	Union Port	Garment District	2
+03	Union Port	Morningside Heights	1
+03	University Heights	Gramercy	3
+03	University Heights	Hamilton Heights	5
+03	University Heights	Yorkville	3
+03	Upper East Side	Battery Park	6801
+03	Upper East Side	East Village	28470
+03	Upper East Side	Jackson Heights	2860
+03	Upper East Side	Lower East Side	18067
+03	Upper East Side	Sunset Park	220
+03	Upper East Side	Washington Heights	7381
+03	Upper West Side	Battery Park	5316
+03	Upper West Side	Bedford-Stuyvesant	573
+03	Upper West Side	Carroll Gardens	518
+03	Upper West Side	Downtown	587
+03	Upper West Side	Flatbush	1
+03	Upper West Side	Forest Hills	653
+03	Upper West Side	Greenwich Village	17381
+03	Upper West Side	Hamilton Heights	12057
+03	Upper West Side	Union Port	97
+03	Upper West Side	Upper West Side	361088
+03	Upper West Side	Washington Heights	16736
+03	Upper West Side	Williamsburg	1594
+03	Utopia	Auburndale	5
+03	Utopia	Bushwick	3
+03	Utopia	Central Park	7
+03	Utopia	East Brooklyn	3
+03	Utopia	Throggs Neck	1
+03	Wakefield-Williamsbridge	Chelsea	2
+03	Wakefield-Williamsbridge	Mott Haven	3
+03	Washington Heights	Auburndale	3
+03	Washington Heights	Cobble Hill	3
+03	Washington Heights	Country Club	5
+03	Washington Heights	Gramercy	356
+03	Washington Heights	Mapleton-Flatlands	14
+03	Washington Heights	Midtown	1321
+03	West Village	Little Italy	6187
+03	West Village	Tremont	37
+03	Williams Bridge	Upper West Side	2
+03	Williams Bridge	Yorkville	2
+03	Williamsburg	Queens Village	2
+03	Williamsburg	Tremont	4
+03	Woodhaven-Richmond Hill	East Village	6
+03	Woodhaven-Richmond Hill	Flushing	4
+03	Woodhaven-Richmond Hill	Forest Hills	20
+03	Woodhaven-Richmond Hill	Fort Green	1
+03	Woodhaven-Richmond Hill	Williamsburg	2
+03	Woodlawn-Nordwood	Throggs Neck	1
+03	Woodlawn-Nordwood	Upper West Side	1
+03	Woodside	Greenwood	5
+03	Woodside	Middle Village	39
+03	Yorkville	Downtown	131
+03	Yorkville	Parkchester	74
+03	Yorkville	Sunset Park	18
+03	Yorkville	Utopia	32
+03	Yorkville	Woodside	143
+04	Astoria-Long Island City	Bensonhurst	10
+04	Astoria-Long Island City	East Harlem	305
+04	Astoria-Long Island City	Kings Bridge	15
+04	Astoria-Long Island City	Murray Hill	1096
+04	Astoria-Long Island City	Queens Village	18
+04	Astoria-Long Island City	Sunny Side	3750
+04	Astoria-Long Island City	West Village	389
+04	Battery Park	Dyker Heights	30
+04	Battery Park	Gramercy	7181
+04	Battery Park	Greenwich Village	6503
+04	Battery Park	High Bridge	34
+04	Battery Park	Middle Village	23
+04	Battery Park	Nkew Gardens	48
+04	Battery Park	Springfield Gardens	1
+04	Battery Park	Woodhaven-Richmond Hill	24
+04	Bay Ridge	Garment District	2
+04	Baychester	Chelsea	1
+04	Bedford Park	Bedford Park	51
+04	Bedford Park	Fordham	11
+04	Bedford Park	Morningside Heights	3
+04	Bedford-Stuyvesant	Battery Park	5
+04	Bedford-Stuyvesant	Brownsville	73
+04	Bedford-Stuyvesant	Downtown	69
+04	Bedford-Stuyvesant	Forest Hills	5
+04	Bedford-Stuyvesant	Williamsburg	609
+04	Bedford-Stuyvesant	Woodside	9
+04	Bensonhurst	Bensonhurst	88
+04	Bensonhurst	Murray Hill	5
+04	Boerum Hill	Bushwick	269
+04	Boerum Hill	Canarsie	34
+04	Boerum Hill	Cobble Hill	464
+04	Boerum Hill	Springfield Gardens	3
+04	Boerum Hill	University Heights	1
+04	Borough Park	Greenwood	21
+04	Brownsville	Battery Park	1
+04	Brownsville	Downtown	1
+04	Brownsville	Sunset Park	1
+04	Brownsville	Williamsburg	3
+04	Bushwick	Brownsville	14
+04	Bushwick	Harlem	6
+04	Bushwick	Inwood	2
+04	Bushwick	Jamaica	2
+04	Bushwick	Woodside	10
+04	Canarsie	Chinatown	1
+04	Canarsie	Clinton	1
+04	Carnegie Hill	Baychester	2
+04	Carnegie Hill	Chinatown	54
+04	Carnegie Hill	Dyker Heights	3
+04	Carnegie Hill	Williams Bridge	2
+04	Carroll Gardens	Borough Park	160
+04	Carroll Gardens	Downtown	1178
+04	Carroll Gardens	Dyker Heights	51
+04	Carroll Gardens	Springfield Gardens	1
+04	Carroll Gardens	Woodside	33
+04	Central Park	Cobble Hill	40
+04	Central Park	Gramercy	6866
+04	Central Park	North Sutton Area	1316
+04	Central Park	Soho	1515
+04	Central Park	Williams Bridge	7
+04	Chelsea	Bensonhurst	140
+04	Chelsea	Borough Park	422
+04	Chelsea	Dyker Heights	127
+04	Chelsea	East Harlem	1890
+04	Chelsea	Murray Hill	38639
+04	Chelsea	Soho	35749
+04	Chinatown	Bay Ridge	65
+04	Chinatown	Bedford Park	6
+04	Chinatown	Boerum Hill	216
+04	Chinatown	Harlem	222
+04	Chinatown	Inwood	20
+04	Chinatown	Saintalbans	4
+04	Clinton	Auburndale	21
+04	Clinton	Bedford Park	144
+04	Clinton	City Island	3
+04	Clinton	High Bridge	260
+04	Clinton	Mapleton-Flatlands	210
+04	Clinton	University Heights	101
+04	Cobble Hill	Little Italy	139
+04	Cobble Hill	Lower East Side	246
+04	Cobble Hill	The Rockaways	1
+04	Corona	Brownsville	1
+04	Corona	Chelsea	19
+04	Corona	Dyker Heights	1
+04	Corona	North Sutton Area	3
+04	Corona	Woodhaven-Richmond Hill	3
+04	Country Club	East Harlem	1
+04	Country Club	Tremont	1
+04	Country Club	University Heights	1
+04	Country Club	Wakefield-Williamsbridge	3
+04	Douglastown-Little Neck	Brownsville	1
+04	Douglastown-Little Neck	Clearview	2
+04	Douglastown-Little Neck	Laurelton	1
+04	Douglastown-Little Neck	Midtown	14
+04	Downtown	Chelsea	1284
+04	Downtown	Financial District	1504
+04	Downtown	Harlem	187
+04	Downtown	Inwood	9
+04	Downtown	Sunny Side	231
+04	Dyker Heights	Borough Park	3
+04	Dyker Heights	Mapleton-Flatlands	1
+04	Dyker Heights	North Sutton Area	1
+04	Dyker Heights	Sunset Park	3
+04	East Brooklyn	Canarsie	12
+04	East Brooklyn	Fort Green	2
+04	East Brooklyn	South Bronx	1
+04	East Harlem	Bedford-Stuyvesant	63
+04	East Harlem	Boerum Hill	20
+04	East Harlem	Clinton	514
+04	East Harlem	Country Club	18
+04	East Harlem	Douglastown-Little Neck	1
+04	East Harlem	Fort Green	52
+04	East Harlem	Garment District	858
+04	East Harlem	Gravesend-Sheepshead Bay	3
+04	East Harlem	Nkew Gardens	13
+04	East Harlem	Queensboro Hill	1
+04	East Harlem	Saintalbans	2
+04	East Harlem	Tribeca	106
+04	East Harlem	Washington Heights	575
+04	East Village	Corona	3
+04	East Village	Fort Green	6691
+04	East Village	Hunts Point	24
+04	East Village	Morningside Heights	1406
+04	East Village	Washington Heights	1632
+04	Financial District	Flatbush	1
+04	Financial District	Glendale	24
+04	Financial District	Little Italy	4343
+04	Financial District	Maspeth	70
+04	Financial District	Queensboro Hill	28
+04	Financial District	Ridgewood	110
+04	Financial District	South Bronx	64
+04	Financial District	Sunny Side	761
+04	Financial District	Woodhaven-Richmond Hill	71
+04	Flatbush	Greenwich Village	1
+04	Flushing	Financial District	19
+04	Flushing	Garment District	28
+04	Flushing	Gramercy	38
+04	Flushing	Gravesend-Sheepshead Bay	1
+04	Flushing	High Bridge	5
+04	Flushing	Soho	10
+04	Flushing	Upper East Side	34
+04	Fordham	High Bridge	2
+04	Forest Hills	Gravesend-Sheepshead Bay	7
+04	Forest Hills	Greenwich Village	47
+04	Forest Hills	Jamaica	107
+04	Forest Hills	Morris Park	1
+04	Forest Hills	Parkchester	3
+04	Fort Green	City Island	2
+04	Fort Green	High Bridge	22
+04	Fort Green	Mapleton-Flatlands	162
+04	Garment District	Chinatown	1988
+04	Garment District	Mapleton-Flatlands	508
+04	Garment District	Middle Village	217
+04	Glendale	Chelsea	1
+04	Glendale	Morris Heights	1
+04	Glendale	Woodhaven-Richmond Hill	9
+04	Gramercy	Cobble Hill	905
+04	Gramercy	Downtown	2738
+04	Gramercy	Harlem	4499
+04	Gramercy	Inwood	421
+04	Gramercy	Park Slope	4114
+04	Gramercy	Williams Bridge	61
+04	Gramercy	Woodside	1069
+04	Gravesend-Sheepshead Bay	Downtown	3
+04	Gravesend-Sheepshead Bay	Greenwood	1
+04	Gravesend-Sheepshead Bay	Park Slope	5
+04	Greenwich Village	Central Park	3869
+04	Greenwich Village	Riverdale	106
+04	Greenwich Village	Throggs Neck	38
+04	Greenwich Village	Utopia	152
+04	Greenwich Village	Woodlawn-Nordwood	43
+04	Greenwood	Astoria-Long Island City	8
+04	Greenwood	Bedford-Stuyvesant	42
+04	Greenwood	Harlem	6
+04	Greenwood	Inwood	1
+04	Greenwood	Washington Heights	3
+04	Hamilton Heights	Gravesend-Sheepshead Bay	2
+04	Hamilton Heights	Hamilton Heights	2747
+04	Hamilton Heights	Midtown	1911
+04	Hamilton Heights	Soundview	23
+04	Harlem	Bay Ridge	13
+04	Harlem	Carroll Gardens	16
+04	Harlem	South Bronx	349
+04	Harlem	Upper West Side	9549
+04	High Bridge	Soundview	4
+04	High Bridge	Woodlawn-Nordwood	1
+04	Hunts Point	Soho	1
+04	Hunts Point	Union Port	2
+04	Inwood	Chelsea	24
+04	Inwood	Financial District	3
+04	Jackson Heights	Baychester	1
+04	Jackson Heights	Central Park	41
+04	Jackson Heights	Chelsea	106
+04	Jackson Heights	Downtown	29
+04	Jackson Heights	Mapleton-Flatlands	9
+04	Jackson Heights	Middle Village	41
+04	Jackson Heights	Queensboro Hill	47
+04	Jackson Heights	Throggs Neck	4
+04	Jackson Heights	University Heights	5
+04	Jackson Heights	Woodside	757
+04	Jamaica	Clinton	99
+04	Jamaica	Downtown	1
+04	Jamaica	Woodside	1
+04	Kings Bridge	University Heights	13
+04	Kings Bridge	Wakefield-Williamsbridge	3
+04	Laurelton	Financial District	2
+04	Laurelton	Queens Village	3
+04	Little Italy	Fort Green	1978
+04	Little Italy	Parkchester	6
+04	Little Italy	Soho	4679
+04	Little Italy	Spuyten Duyvil	8
+04	Little Italy	Sunset Park	81
+04	Little Italy	Utopia	14
+04	Lower East Side	Astoria-Long Island City	2558
+04	Lower East Side	Fordham	40
+04	Lower East Side	Morris Park	26
+04	Mapleton-Flatlands	Cobble Hill	1
+04	Mapleton-Flatlands	Financial District	17
+04	Mapleton-Flatlands	Harlem	2
+04	Mapleton-Flatlands	Sunny Side	5
+04	Maspeth	Bedford Park	1
+04	Maspeth	Chinatown	2
+04	Maspeth	Clinton	27
+04	Maspeth	The Rockaways	1
+04	Maspeth	Washington Heights	2
+04	Middle Village	Murray Hill	6
+04	Midtown	Boerum Hill	1723
+04	Midtown	Greenwich Village	72788
+04	Midtown	Harlem	15914
+04	Midtown	Inwood	1690
+04	Midtown	Lower East Side	25443
+04	Midtown	Maspeth	814
+04	Midtown	Morris Heights	281
+04	Midtown	Saintalbans	82
+04	Midtown	Soho	39410
+04	Morningside Heights	Flushing	43
+04	Morningside Heights	Greenwich Village	1418
+04	Morningside Heights	Jamaica	19
+04	Morningside Heights	Morris Heights	44
+04	Morningside Heights	Queensboro Hill	4
+04	Morris Heights	Battery Park	1
+04	Morris Heights	Chelsea	3
+04	Morris Heights	Fort Green	1
+04	Morris Heights	Wakefield-Williamsbridge	4
+04	Morris Heights	Williamsburg	1
+04	Morris Park	Central Park	2
+04	Morris Park	Financial District	1
+04	Morris Park	Throggs Neck	2
+04	Mott Haven	Chelsea	45
+04	Mott Haven	Garment District	41
+04	Mott Haven	South Bronx	95
+04	Murray Hill	Garment District	39476
+04	Murray Hill	Park Slope	1280
+04	Murray Hill	South Bronx	149
+04	Nkew Gardens	Carnegie Hill	2
+04	Nkew Gardens	East Brooklyn	1
+04	Nkew Gardens	Jackson Heights	21
+04	Nkew Gardens	Midtown	85
+04	North Sutton Area	Central Park	1755
+04	North Sutton Area	Clearview	6
+04	North Sutton Area	Douglastown-Little Neck	12
+04	North Sutton Area	Throggs Neck	39
+04	North Sutton Area	Yorkville	1255
+04	Park Slope	Bedford Park	2
+04	Park Slope	Jackson Heights	40
+04	Park Slope	Lower East Side	358
+04	Parkchester	Kings Bridge	1
+04	Parkchester	West Village	1
+04	Queensboro Hill	Glendale	1
+04	Ridgewood	Bushwick	34
+04	Ridgewood	Fort Green	2
+04	Ridgewood	Morningside Heights	1
+04	Ridgewood	Woodhaven-Richmond Hill	4
+04	Riverdale	Clinton	1
+04	Riverdale	Fort Green	1
+04	Saintalbans	Queens Village	2
+04	Saintalbans	Utopia	1
+04	Soho	Jackson Heights	363
+04	Soho	Lower East Side	15181
+04	Soho	Tremont	21
+04	Soho	Union Port	11
+04	Soundview	East Harlem	4
+04	Soundview	Soundview	109
+04	South Bronx	Glendale	1
+04	Springfield Gardens	East Brooklyn	1
+04	Springfield Gardens	Flushing	1
+04	Springfield Gardens	Upper West Side	19
+04	Springfield Gardens	Yorkville	3
+04	Spuyten Duyvil	Harlem	2
+04	Spuyten Duyvil	Inwood	5
+04	Sunny Side	Baychester	3
+04	Sunny Side	Carroll Gardens	70
+04	Sunny Side	Greenwood	27
+04	Sunny Side	Sunset Park	19
+04	Sunny Side	Upper West Side	995
+04	Sunny Side	Washington Heights	103
+04	Sunset Park	Bensonhurst	8
+04	Sunset Park	Clinton	3
+04	Sunset Park	Dyker Heights	7
+04	Sunset Park	East Harlem	1
+04	Sunset Park	Gramercy	8
+04	Sunset Park	Lower East Side	10
+04	Sunset Park	Morningside Heights	2
+04	Sunset Park	Ridgewood	1
+04	Sunset Park	Tribeca	5
+04	The Rockaways	Jamaica	1
+04	Throggs Neck	Tribeca	1
+04	Tremont	Fort Green	1
+04	Tremont	Parkchester	4
+04	Tribeca	Boerum Hill	745
+04	Tribeca	Financial District	18148
+04	Tribeca	Gramercy	16378
+04	Tribeca	Morningside Heights	571
+04	Tribeca	Saintalbans	5
+04	Tribeca	Soundview	24
+04	Tribeca	Sunny Side	585
+04	Union Port	Central Park	1
+04	Union Port	Throggs Neck	6
+04	University Heights	Morris Heights	6
+04	University Heights	Soundview	1
+04	Upper East Side	Boerum Hill	666
+04	Upper East Side	Forest Hills	1572
+04	Upper East Side	Gramercy	99527
+04	Upper East Side	Greenwich Village	32936
+04	Upper East Side	Saintalbans	28
+04	Upper East Side	Williamsburg	3329
+04	Upper West Side	Downtown	556
+04	Upper West Side	East Brooklyn	18
+04	Upper West Side	Tremont	271
+04	Upper West Side	Upper East Side	169581
+04	Upper West Side	Woodside	522
+04	Upper West Side	Yorkville	14780
+04	Utopia	Bedford Park	1
+04	Utopia	Glendale	2
+04	Utopia	Jamaica	56
+04	Utopia	Mapleton-Flatlands	1
+04	Utopia	University Heights	1
+04	Wakefield-Williamsbridge	Astoria-Long Island City	3
+04	Wakefield-Williamsbridge	Bedford Park	7
+04	Wakefield-Williamsbridge	Clinton	1
+04	Washington Heights	Canarsie	1
+04	Washington Heights	Hamilton Heights	1476
+04	Washington Heights	North Sutton Area	44
+04	West Village	Borough Park	142
+04	West Village	Flushing	43
+04	Williams Bridge	Garment District	1
+04	Williams Bridge	Hunts Point	1
+04	Williams Bridge	Upper East Side	2
+04	Williams Bridge	Washington Heights	1
+04	Williamsburg	Soundview	8
+04	Williamsburg	Sunny Side	753
+04	Woodhaven-Richmond Hill	East Brooklyn	6
+04	Woodhaven-Richmond Hill	Harlem	2
+04	Woodhaven-Richmond Hill	Laurelton	2
+04	Woodhaven-Richmond Hill	Soundview	1
+04	Woodside	Bay Ridge	6
+04	Woodside	Woodlawn-Nordwood	1
+04	Yorkville	Astoria-Long Island City	618
+04	Yorkville	Central Park	3193
+04	Yorkville	Chinatown	91
+04	Yorkville	Cobble Hill	18
+04	Yorkville	Flushing	49
+04	Yorkville	Garment District	3311
+04	Yorkville	Morris Heights	65
+04	Yorkville	Queensboro Hill	8
+04	Yorkville	Throggs Neck	15
+05	Astoria-Long Island City	Bedford-Stuyvesant	194
+05	Astoria-Long Island City	Central Park	434
+05	Astoria-Long Island City	Chinatown	69
+05	Astoria-Long Island City	The Rockaways	3
+05	Astoria-Long Island City	Throggs Neck	11
+05	Auburndale	Jamaica	3
+05	Battery Park	Bay Ridge	103
+05	Battery Park	Bedford Park	4
+05	Battery Park	Corona	3
+05	Battery Park	East Brooklyn	8
+05	Battery Park	Flushing	31
+05	Battery Park	Fordham	7
+05	Battery Park	Jamaica	29
+05	Battery Park	Mott Haven	6
+05	Battery Park	Queensboro Hill	1
+05	Battery Park	Riverdale	11
+05	Battery Park	Soho	6979
+05	Bay Ridge	Bedford-Stuyvesant	4
+05	Bay Ridge	Washington Heights	1
+05	Bedford Park	Financial District	3
+05	Bedford Park	Union Port	1
+05	Bedford-Stuyvesant	Harlem	21
+05	Bedford-Stuyvesant	Inwood	4
+05	Bedford-Stuyvesant	Morningside Heights	6
+05	Bedford-Stuyvesant	South Bronx	2
+05	Bedford-Stuyvesant	Tremont	1
+05	Bensonhurst	Gravesend-Sheepshead Bay	26
+05	Bensonhurst	Greenwich Village	3
+05	Bensonhurst	Mapleton-Flatlands	11
+05	Bensonhurst	Soho	1
+05	Bensonhurst	Tribeca	3
+05	Boerum Hill	Bay Ridge	200
+05	Boerum Hill	Flushing	6
+05	Boerum Hill	Queensboro Hill	3
+05	Boerum Hill	Union Port	1
+05	Borough Park	Murray Hill	25
+05	Brownsville	Gravesend-Sheepshead Bay	2
+05	Brownsville	Hamilton Heights	1
+05	Brownsville	Upper East Side	1
+05	Bushwick	Little Italy	13
+05	Bushwick	Soho	21
+05	Bushwick	Tremont	1
+05	Bushwick	West Village	21
+05	Bushwick	Woodhaven-Richmond Hill	7
+05	Canarsie	Canarsie	80
+05	Canarsie	Woodhaven-Richmond Hill	1
+05	Carnegie Hill	Bedford-Stuyvesant	38
+05	Carnegie Hill	Garment District	3931
+05	Carnegie Hill	Gramercy	4645
+05	Carnegie Hill	Middle Village	10
+05	Carnegie Hill	Morris Park	11
+05	Carnegie Hill	Parkchester	14
+05	Carnegie Hill	Utopia	9
+05	Carroll Gardens	Auburndale	1
+05	Carroll Gardens	Carroll Gardens	2102
+05	Carroll Gardens	Chinatown	164
+05	Carroll Gardens	High Bridge	3
+05	Carroll Gardens	Morningside Heights	26
+05	Carroll Gardens	Upper West Side	265
+05	Central Park	Battery Park	809
+05	Central Park	Boerum Hill	50
+05	Central Park	Douglastown-Little Neck	1
+05	Central Park	East Village	1448
+05	Central Park	Flushing	40
+05	Central Park	Laurelton	2
+05	Central Park	Saintalbans	7
+05	Central Park	Soundview	10
+05	Central Park	Union Port	9
+05	Central Park	University Heights	3
+05	Central Park	Williamsburg	258
+05	Chelsea	Astoria-Long Island City	4638
+05	Chelsea	Chinatown	2669
+05	Chelsea	City Island	4
+05	Chelsea	Financial District	19976
+05	Chelsea	High Bridge	287
+05	Chelsea	Nkew Gardens	251
+05	Chelsea	Queens Village	18
+05	Chelsea	Woodside	519
+05	Chinatown	Carnegie Hill	94
+05	Chinatown	East Brooklyn	14
+05	Chinatown	Morris Heights	5
+05	Chinatown	Queensboro Hill	8
+05	Chinatown	Woodhaven-Richmond Hill	8
+05	Clinton	Bay Ridge	358
+05	Clinton	Boerum Hill	363
+05	Clinton	Carnegie Hill	2097
+05	Clinton	Forest Hills	444
+05	Clinton	Gravesend-Sheepshead Bay	209
+05	Clinton	Middle Village	111
+05	Clinton	Midtown	93826
+05	Clinton	Saintalbans	16
+05	Cobble Hill	Gravesend-Sheepshead Bay	13
+05	Cobble Hill	Greenwich Village	400
+05	Cobble Hill	Woodhaven-Richmond Hill	8
+05	Corona	Soho	5
+05	Douglastown-Little Neck	Central Park	1
+05	Douglastown-Little Neck	Garment District	4
+05	Douglastown-Little Neck	Jamaica	5
+05	Douglastown-Little Neck	Utopia	2
+05	Douglastown-Little Neck	Woodhaven-Richmond Hill	1
+05	Downtown	Battery Park	382
+05	Downtown	Boerum Hill	672
+05	Downtown	Clearview	3
+05	Downtown	East Brooklyn	52
+05	Downtown	East Village	1023
+05	Downtown	Saintalbans	5
+05	Downtown	Yorkville	116
+05	Dyker Heights	Canarsie	1
+05	Dyker Heights	Financial District	1
+05	Dyker Heights	Tremont	1
+05	East Brooklyn	Central Park	2
+05	East Brooklyn	Downtown	2
+05	East Brooklyn	Woodside	1
+05	East Harlem	Borough Park	13
+05	East Harlem	Queens Village	2
+05	East Harlem	Sunny Side	128
+05	East Village	Fordham	79
+05	East Village	Kings Bridge	96
+05	East Village	Soundview	43
+05	East Village	The Rockaways	15
+05	East Village	West Village	18233
+05	Financial District	Central Park	1212
+05	Financial District	Dyker Heights	151
+05	Financial District	Garment District	13689
+05	Financial District	Morris Park	23
+05	Financial District	Throggs Neck	16
+05	Financial District	Utopia	103
+05	Financial District	Woodhaven-Richmond Hill	61
+05	Financial District	Woodlawn-Nordwood	15
+05	Flushing	Bushwick	2
+05	Flushing	Central Park	9
+05	Flushing	Throggs Neck	1
+05	Fordham	Tremont	11
+05	Forest Hills	Glendale	75
+05	Forest Hills	North Sutton Area	18
+05	Forest Hills	Queens Village	5
+05	Forest Hills	Queensboro Hill	16
+05	Forest Hills	Sunset Park	5
+05	Fort Green	Brownsville	80
+05	Fort Green	Bushwick	732
+05	Fort Green	Canarsie	58
+05	Fort Green	North Sutton Area	65
+05	Fort Green	Soundview	3
+05	Garment District	Brownsville	143
+05	Garment District	Chelsea	52999
+05	Garment District	Corona	5
+05	Glendale	Murray Hill	1
+05	Gramercy	Auburndale	54
+05	Gramercy	Carroll Gardens	1573
+05	Gramercy	Dyker Heights	148
+05	Gramercy	Fordham	191
+05	Gramercy	Jamaica	242
+05	Gramercy	Morningside Heights	2446
+05	Gramercy	Parkchester	174
+05	Gramercy	Sunset Park	391
+05	Gravesend-Sheepshead Bay	Greenwich Village	11
+05	Greenwich Village	Bushwick	1900
+05	Greenwich Village	Canarsie	92
+05	Greenwich Village	Carnegie Hill	2628
+05	Greenwich Village	Forest Hills	582
+05	Greenwich Village	North Sutton Area	2694
+05	Greenwich Village	Ridgewood	388
+05	Greenwich Village	Steinway	1
+05	Greenwood	Central Park	4
+05	Hamilton Heights	Bushwick	3
+05	Hamilton Heights	Canarsie	1
+05	Harlem	Central Park	1583
+05	Harlem	Cobble Hill	10
+05	Harlem	Financial District	304
+05	Harlem	Hamilton Heights	2535
+05	Harlem	Sunset Park	12
+05	Harlem	Throggs Neck	18
+05	Harlem	Wakefield-Williamsbridge	28
+05	High Bridge	Central Park	11
+05	High Bridge	Morningside Heights	10
+05	High Bridge	Morris Heights	13
+05	High Bridge	Upper East Side	58
+05	Hunts Point	Washington Heights	1
+05	Inwood	North Sutton Area	4
+05	Inwood	Ridgewood	1
+05	Inwood	Tremont	4
+05	Jackson Heights	East Harlem	65
+05	Jamaica	Bedford-Stuyvesant	2
+05	Jamaica	Boerum Hill	1
+05	Jamaica	Chelsea	141
+05	Jamaica	Nkew Gardens	12
+05	Jamaica	North Sutton Area	19
+05	Jamaica	Saintalbans	7
+05	Jamaica	The Rockaways	1
+05	Jamaica	Upper East Side	200
+05	Jamaica	Woodhaven-Richmond Hill	21
+05	Kings Bridge	Country Club	1
+05	Kings Bridge	Soundview	1
+05	Kings Bridge	Spuyten Duyvil	15
+05	Laurelton	Gramercy	5
+05	Laurelton	Jamaica	3
+05	Little Italy	Bay Ridge	133
+05	Little Italy	Cobble Hill	228
+05	Little Italy	Douglastown-Little Neck	6
+05	Little Italy	Hamilton Heights	170
+05	Little Italy	Midtown	13555
+05	Lower East Side	Country Club	27
+05	Lower East Side	Nkew Gardens	166
+05	Lower East Side	Sunset Park	415
+05	Lower East Side	Woodlawn-Nordwood	18
+05	Mapleton-Flatlands	Clinton	8
+05	Mapleton-Flatlands	Tribeca	3
+05	Maspeth	Chelsea	33
+05	Middle Village	Maspeth	13
+05	Midtown	Bedford Park	422
+05	Midtown	Brownsville	118
+05	Midtown	Clinton	98794
+05	Midtown	Gravesend-Sheepshead Bay	747
+05	Midtown	Greenwood	584
+05	Midtown	Tribeca	25599
+05	Midtown	Utopia	641
+05	Midtown	Woodside	2733
+05	Morningside Heights	Battery Park	230
+05	Morningside Heights	Bushwick	20
+05	Morningside Heights	Canarsie	2
+05	Morningside Heights	East Village	762
+05	Morningside Heights	Forest Hills	54
+05	Morningside Heights	Murray Hill	1036
+05	Morningside Heights	Riverdale	163
+05	Morningside Heights	Upper East Side	10644
+05	Morningside Heights	Williamsburg	132
+05	Morris Heights	Bedford Park	4
+05	Morris Park	City Island	1
+05	Morris Park	Jackson Heights	1
+05	Mott Haven	Astoria-Long Island City	27
+05	Mott Haven	Hunts Point	12
+05	Mott Haven	Woodlawn-Nordwood	1
+05	Murray Hill	Kings Bridge	46
+05	Murray Hill	Maspeth	190
+05	Murray Hill	Parkchester	78
+05	Murray Hill	Sunset Park	110
+05	Nkew Gardens	Lower East Side	6
+05	Nkew Gardens	Mapleton-Flatlands	1
+05	Nkew Gardens	Murray Hill	31
+05	Nkew Gardens	Woodhaven-Richmond Hill	40
+05	North Sutton Area	Battery Park	810
+05	North Sutton Area	Boerum Hill	131
+05	North Sutton Area	Bushwick	59
+05	North Sutton Area	Forest Hills	233
+05	North Sutton Area	Springfield Gardens	4
+05	North Sutton Area	Williamsburg	427
+05	Park Slope	City Island	1
+05	Park Slope	Flatbush	4
+05	Park Slope	Fort Green	2502
+05	Park Slope	Glendale	2
+05	Park Slope	Gravesend-Sheepshead Bay	85
+05	Park Slope	High Bridge	5
+05	Park Slope	Ridgewood	23
+05	Park Slope	The Rockaways	4
+05	Parkchester	Washington Heights	2
+05	Queens Village	East Harlem	1
+05	Riverdale	Tremont	1
+05	Soho	Douglastown-Little Neck	13
+05	Soho	Jamaica	37
+05	Soho	Kings Bridge	35
+05	Soho	Queensboro Hill	9
+05	Soho	West Village	22646
+05	Soundview	South Bronx	7
+05	South Bronx	Boerum Hill	1
+05	South Bronx	Central Park	1
+05	South Bronx	Sunny Side	2
+05	South Bronx	Throggs Neck	2
+05	South Bronx	Tremont	15
+05	Springfield Gardens	Bushwick	1
+05	Springfield Gardens	Canarsie	2
+05	Springfield Gardens	Harlem	10
+05	Springfield Gardens	Ridgewood	2
+05	Springfield Gardens	Springfield Gardens	49
+05	Spuyten Duyvil	Upper East Side	3
+05	Sunny Side	Bensonhurst	10
+05	Sunny Side	East Harlem	119
+05	Sunny Side	Greenwich Village	649
+05	Sunny Side	Maspeth	382
+05	Sunny Side	Middle Village	115
+05	Sunny Side	Wakefield-Williamsbridge	3
+05	Sunset Park	Bedford-Stuyvesant	21
+05	Sunset Park	Gravesend-Sheepshead Bay	24
+05	Tremont	Gramercy	1
+05	Tremont	Riverdale	3
+05	Tremont	Soho	1
+05	Tribeca	Auburndale	9
+05	Tribeca	Brownsville	50
+05	Tribeca	Chinatown	1753
+05	Tribeca	Hamilton Heights	308
+05	Tribeca	Springfield Gardens	11
+05	Union Port	Bedford Park	1
+05	Union Port	Chinatown	2
+05	Union Port	East Harlem	6
+05	Union Port	Jackson Heights	2
+05	Union Port	Lower East Side	1
+05	University Heights	Clinton	1
+05	University Heights	Kings Bridge	3
+05	University Heights	South Bronx	4
+05	University Heights	Union Port	1
+05	University Heights	Williams Bridge	1
+05	Upper East Side	Bedford Park	438
+05	Upper East Side	Flushing	516
+05	Upper East Side	Fordham	263
+05	Upper East Side	Jamaica	286
+05	Upper East Side	Queens Village	42
+05	Upper West Side	Bedford Park	310
+05	Upper West Side	City Island	3
+05	Upper West Side	Hamilton Heights	11812
+05	Upper West Side	High Bridge	766
+05	Upper West Side	Queens Village	13
+05	Upper West Side	Queensboro Hill	53
+05	Upper West Side	Springfield Gardens	15
+05	Upper West Side	The Rockaways	7
+05	Utopia	Bushwick	2
+05	Utopia	Chinatown	4
+05	Utopia	Greenwich Village	23
+05	Utopia	Maspeth	2
+05	Wakefield-Williamsbridge	Canarsie	1
+05	Washington Heights	Chinatown	12
+05	Washington Heights	Gravesend-Sheepshead Bay	2
+05	Washington Heights	Little Italy	18
+05	Washington Heights	Murray Hill	153
+05	Washington Heights	Soho	101
+05	Washington Heights	Spuyten Duyvil	79
+05	Washington Heights	Sunny Side	38
+05	West Village	Bedford-Stuyvesant	1177
+05	West Village	Bushwick	681
+05	West Village	Canarsie	41
+05	West Village	Carnegie Hill	1223
+05	West Village	Clinton	15754
+05	West Village	Hamilton Heights	876
+05	West Village	Hunts Point	17
+05	West Village	North Sutton Area	1329
+05	West Village	Queens Village	7
+05	West Village	Tribeca	14472
+05	Williamsburg	Bay Ridge	149
+05	Williamsburg	Clinton	533
+05	Williamsburg	Financial District	1264
+05	Williamsburg	Gramercy	2325
+05	Williamsburg	Hunts Point	2
+05	Williamsburg	Tribeca	974
+05	Williamsburg	Williams Bridge	5
+05	Woodhaven-Richmond Hill	Astoria-Long Island City	3
+05	Woodhaven-Richmond Hill	Brownsville	1
+05	Woodhaven-Richmond Hill	Flushing	5
+05	Woodhaven-Richmond Hill	Springfield Gardens	4
+05	Woodside	Boerum Hill	11
+05	Woodside	Clearview	2
+05	Woodside	Laurelton	1
+05	Woodside	Mapleton-Flatlands	8
+05	Woodside	Morris Heights	4
+05	Woodside	Saintalbans	3
+05	Woodside	Union Port	2
+05	Yorkville	Boerum Hill	34
+05	Yorkville	Chelsea	2317
+05	Yorkville	Upper East Side	31096
+06	Astoria-Long Island City	Clearview	22
+06	Astoria-Long Island City	Corona	2
+06	Astoria-Long Island City	Laurelton	4
+06	Astoria-Long Island City	Yorkville	659
+06	Auburndale	Utopia	4
+06	Battery Park	Bushwick	51
+06	Battery Park	Fort Green	459
+06	Battery Park	Gravesend-Sheepshead Bay	69
+06	Battery Park	Greenwood	58
+06	Battery Park	Jackson Heights	74
+06	Battery Park	Lower East Side	3417
+06	Battery Park	Morris Park	11
+06	Battery Park	Springfield Gardens	2
+06	Bay Ridge	Bedford Park	1
+06	Bay Ridge	Chelsea	26
+06	Bay Ridge	Jackson Heights	1
+06	Bay Ridge	Sunset Park	36
+06	Baychester	Baychester	5
+06	Bedford Park	Washington Heights	5
+06	Bedford-Stuyvesant	Borough Park	36
+06	Bedford-Stuyvesant	Garment District	57
+06	Bedford-Stuyvesant	Jackson Heights	22
+06	Bedford-Stuyvesant	Jamaica	6
+06	Bedford-Stuyvesant	Lower East Side	190
+06	Bedford-Stuyvesant	Washington Heights	7
+06	Bensonhurst	Downtown	2
+06	Boerum Hill	Battery Park	119
+06	Boerum Hill	East Village	566
+06	Boerum Hill	Financial District	338
+06	Boerum Hill	Fordham	1
+06	Boerum Hill	Gramercy	534
+06	Boerum Hill	Jackson Heights	50
+06	Boerum Hill	Jamaica	8
+06	Boerum Hill	Lower East Side	530
+06	Boerum Hill	Soho	238
+06	Borough Park	Bensonhurst	17
+06	Borough Park	East Harlem	2
+06	Borough Park	West Village	14
+06	Bushwick	Chinatown	13
+06	Bushwick	Financial District	25
+06	Bushwick	Gramercy	44
+06	Bushwick	Harlem	12
+06	Bushwick	Inwood	1
+06	Bushwick	The Rockaways	1
+06	Bushwick	Upper East Side	32
+06	Canarsie	Mapleton-Flatlands	13
+06	Carnegie Hill	Fordham	9
+06	Carnegie Hill	Glendale	7
+06	Carnegie Hill	Jamaica	12
+06	Carnegie Hill	Little Italy	169
+06	Carnegie Hill	Ridgewood	15
+06	Carnegie Hill	Soho	826
+06	Carnegie Hill	Wakefield-Williamsbridge	5
+06	Carnegie Hill	West Village	924
+06	Carroll Gardens	Clearview	1
+06	Carroll Gardens	Midtown	1266
+06	Carroll Gardens	Morris Park	4
+06	Carroll Gardens	Park Slope	2427
+06	Carroll Gardens	Upper East Side	645
+06	Central Park	Bushwick	39
+06	Central Park	Carroll Gardens	64
+06	Central Park	Central Park	13973
+06	Central Park	Harlem	3699
+06	Central Park	Inwood	113
+06	Central Park	Throggs Neck	6
+06	Central Park	Tremont	22
+06	Central Park	Upper West Side	34551
+06	Chelsea	Boerum Hill	1218
+06	Chelsea	Country Club	21
+06	Chelsea	Gramercy	88088
+06	Chelsea	Saintalbans	28
+06	Chelsea	Union Port	47
+06	Chelsea	Woodhaven-Richmond Hill	137
+06	Chelsea	Woodlawn-Nordwood	41
+06	Chinatown	Chinatown	855
+06	Chinatown	Country Club	2
+06	Chinatown	Hunts Point	4
+06	Chinatown	Midtown	5165
+06	Chinatown	Nkew Gardens	19
+06	Chinatown	Upper East Side	1850
+06	Clearview	Washington Heights	1
+06	Clinton	Battery Park	5341
+06	Clinton	East Village	10350
+06	Clinton	Morris Heights	108
+06	Clinton	Park Slope	1088
+06	Clinton	Ridgewood	134
+06	Clinton	Williamsburg	1699
+06	Cobble Hill	Bay Ridge	54
+06	Cobble Hill	Morningside Heights	15
+06	Cobble Hill	Mott Haven	3
+06	Cobble Hill	South Bronx	1
+06	Corona	Jackson Heights	9
+06	Corona	Lower East Side	5
+06	Country Club	Clinton	1
+06	Country Club	South Bronx	1
+06	Douglastown-Little Neck	Jackson Heights	2
+06	Downtown	Bedford-Stuyvesant	1033
+06	Downtown	Clinton	427
+06	Downtown	Cobble Hill	479
+06	Downtown	Flushing	24
+06	Downtown	Garment District	874
+06	Downtown	Harlem	143
+06	Downtown	Inwood	10
+06	Downtown	Tribeca	979
+06	Downtown	Wakefield-Williamsbridge	2
+06	Dyker Heights	Downtown	2
+06	Dyker Heights	Mapleton-Flatlands	2
+06	East Brooklyn	Maspeth	1
+06	East Brooklyn	Soho	2
+06	East Harlem	Downtown	32
+06	East Harlem	Maspeth	13
+06	East Harlem	South Bronx	274
+06	East Harlem	Woodside	80
+06	East Village	Bay Ridge	609
+06	East Village	Borough Park	464
+06	East Village	Jamaica	95
+06	East Village	Morningside Heights	1212
+06	East Village	Sunny Side	2451
+06	East Village	University Heights	49
+06	Financial District	Clinton	8520
+06	Financial District	East Village	13116
+06	Financial District	Tribeca	15606
+06	Flatbush	Flatbush	4
+06	Flatbush	Mapleton-Flatlands	1
+06	Flushing	Bedford-Stuyvesant	3
+06	Flushing	Chelsea	40
+06	Flushing	Park Slope	2
+06	Flushing	South Bronx	1
+06	Fordham	Upper West Side	5
+06	Forest Hills	Bay Ridge	3
+06	Forest Hills	Carnegie Hill	8
+06	Forest Hills	Cobble Hill	7
+06	Forest Hills	Downtown	16
+06	Forest Hills	East Brooklyn	5
+06	Forest Hills	Jackson Heights	145
+06	Forest Hills	Lower East Side	43
+06	Forest Hills	Nkew Gardens	589
+06	Forest Hills	Woodside	126
+06	Fort Green	Bedford-Stuyvesant	3110
+06	Fort Green	Clearview	2
+06	Fort Green	Dyker Heights	30
+06	Fort Green	Laurelton	3
+06	Fort Green	Sunset Park	202
+06	Fort Green	Washington Heights	76
+06	Fort Green	Williams Bridge	2
+06	Garment District	Kings Bridge	141
+06	Garment District	Maspeth	292
+06	Garment District	Murray Hill	38520
+06	Garment District	Queens Village	48
+06	Garment District	West Village	13719
+06	Glendale	Brownsville	1
+06	Glendale	Clinton	1
+06	Glendale	Downtown	1
+06	Glendale	Garment District	2
+06	Glendale	Ridgewood	8
+06	Glendale	Woodhaven-Richmond Hill	9
+06	Glendale	Woodside	3
+06	Gramercy	Harlem	4319
+06	Gramercy	Inwood	344
+06	Gramercy	Mapleton-Flatlands	544
+06	Gramercy	Morris Park	108
+06	Gramercy	Ridgewood	414
+06	Gramercy	The Rockaways	31
+06	Gramercy	Tremont	120
+06	Gramercy	Upper West Side	33930
+06	Gravesend-Sheepshead Bay	Greenwich Village	7
+06	Greenwich Village	Cobble Hill	713
+06	Greenwich Village	Country Club	27
+06	Greenwich Village	Maspeth	141
+06	Greenwich Village	Morningside Heights	1505
+06	Hamilton Heights	Battery Park	69
+06	Hamilton Heights	Forest Hills	16
+06	Hamilton Heights	High Bridge	114
+06	Hamilton Heights	Williamsburg	30
+06	Harlem	Bedford Park	46
+06	Harlem	Chelsea	1466
+06	Harlem	Chinatown	37
+06	Harlem	Garment District	1068
+06	Harlem	Spuyten Duyvil	22
+06	Harlem	Upper East Side	6199
+06	Harlem	Woodhaven-Richmond Hill	11
+06	High Bridge	Maspeth	1
+06	High Bridge	Morris Park	1
+06	High Bridge	Washington Heights	52
+06	Hunts Point	Hamilton Heights	1
+06	Inwood	Baychester	2
+06	Inwood	High Bridge	6
+06	Inwood	Soundview	1
+06	Jackson Heights	Carnegie Hill	16
+06	Jackson Heights	Chinatown	10
+06	Jackson Heights	Corona	2
+06	Jackson Heights	South Bronx	30
+06	Jackson Heights	Spuyten Duyvil	2
+06	Kings Bridge	Morris Heights	3
+06	Kings Bridge	Upper East Side	3
+06	Laurelton	Auburndale	1
+06	Laurelton	Bensonhurst	2
+06	Little Italy	Battery Park	1591
+06	Little Italy	Boerum Hill	317
+06	Little Italy	East Village	9278
+06	Little Italy	Flushing	27
+06	Little Italy	Forest Hills	99
+06	Little Italy	Greenwood	105
+06	Little Italy	Sunny Side	493
+06	Little Italy	Williamsburg	3349
+06	Lower East Side	Boerum Hill	1169
+06	Lower East Side	Borough Park	413
+06	Lower East Side	Maspeth	214
+06	Lower East Side	Saintalbans	11
+06	Mapleton-Flatlands	Forest Hills	2
+06	Mapleton-Flatlands	Murray Hill	11
+06	Mapleton-Flatlands	University Heights	2
+06	Maspeth	Battery Park	6
+06	Maspeth	Flushing	10
+06	Maspeth	Forest Hills	18
+06	Maspeth	Mapleton-Flatlands	1
+06	Maspeth	Sunset Park	1
+06	Maspeth	Williamsburg	45
+06	Middle Village	Central Park	2
+06	Middle Village	East Brooklyn	2
+06	Middle Village	Soho	6
+06	Middle Village	Upper West Side	2
+06	Middle Village	Woodside	5
+06	Midtown	Battery Park	18158
+06	Midtown	Carroll Gardens	1883
+06	Midtown	Forest Hills	3450
+06	Midtown	Gramercy	182753
+06	Midtown	Maspeth	857
+06	Midtown	Upper West Side	177240
+06	Midtown	Williamsburg	6359
+06	Morningside Heights	Financial District	357
+06	Morningside Heights	Fort Green	95
+06	Morningside Heights	Morningside Heights	6850
+06	Morningside Heights	Soho	369
+06	Morningside Heights	South Bronx	161
+06	Morningside Heights	Utopia	13
+06	Morris Heights	Midtown	6
+06	Morris Park	Boerum Hill	1
+06	Morris Park	Clinton	5
+06	Mott Haven	Carroll Gardens	1
+06	Mott Haven	Central Park	21
+06	Mott Haven	Greenwood	1
+06	Mott Haven	Throggs Neck	4
+06	Mott Haven	Upper West Side	97
+06	Murray Hill	Clearview	22
+06	Murray Hill	Hunts Point	25
+06	Murray Hill	Laurelton	9
+06	Murray Hill	Little Italy	2594
+06	Murray Hill	Union Port	34
+06	Murray Hill	West Village	8943
+06	Murray Hill	Williams Bridge	18
+06	Nkew Gardens	East Harlem	10
+06	Nkew Gardens	Maspeth	4
+06	Nkew Gardens	Utopia	125
+06	North Sutton Area	Chinatown	303
+06	North Sutton Area	Country Club	9
+06	North Sutton Area	Maspeth	67
+06	North Sutton Area	Morris Park	20
+06	North Sutton Area	Parkchester	30
+06	Park Slope	Astoria-Long Island City	173
+06	Park Slope	Garment District	126
+06	Park Slope	Riverdale	1
+06	Park Slope	University Heights	1
+06	Parkchester	Hamilton Heights	1
+06	Parkchester	Midtown	14
+06	Parkchester	Morris Park	5
+06	Queens Village	Auburndale	1
+06	Queensboro Hill	Carroll Gardens	1
+06	Queensboro Hill	Woodside	7
+06	Ridgewood	Bedford-Stuyvesant	17
+06	Ridgewood	Garment District	2
+06	Riverdale	Kings Bridge	10
+06	Saintalbans	Gramercy	2
+06	Soho	Astoria-Long Island City	1210
+06	Soho	Bushwick	679
+06	Soho	Dyker Heights	53
+06	Soho	Garment District	16983
+06	Soho	Harlem	1264
+06	Soho	Inwood	116
+06	Soho	Middle Village	48
+06	Soho	North Sutton Area	1185
+06	Soho	Ridgewood	141
+06	Soho	Union Port	7
+06	Soundview	Chelsea	1
+06	Soundview	Jackson Heights	2
+06	Soundview	Lower East Side	1
+06	Springfield Gardens	Carnegie Hill	2
+06	Springfield Gardens	Fort Green	4
+06	Springfield Gardens	Maspeth	1
+06	Spuyten Duyvil	Morris Heights	1
+06	Sunny Side	Fordham	9
+06	Sunny Side	Jackson Heights	1047
+06	Sunny Side	Lower East Side	659
+06	Sunset Park	Harlem	1
+06	Sunset Park	Yorkville	4
+06	The Rockaways	Bedford-Stuyvesant	1
+06	The Rockaways	Little Italy	1
+06	The Rockaways	Sunny Side	2
+06	The Rockaways	West Village	1
+06	Tremont	Mott Haven	4
+06	Tremont	Murray Hill	1
+06	Tribeca	Bedford Park	21
+06	Tribeca	Douglastown-Little Neck	12
+06	Tribeca	Maspeth	37
+06	Tribeca	Soho	14073
+06	Union Port	Union Port	66
+06	University Heights	Morris Park	3
+06	Upper East Side	Bushwick	461
+06	Upper East Side	Canarsie	68
+06	Upper East Side	Clearview	49
+06	Upper East Side	Hunts Point	166
+06	Upper East Side	Morris Heights	206
+06	Upper East Side	Williams Bridge	115
+06	Upper East Side	Yorkville	42466
+06	Upper West Side	Fort Green	1274
+06	Upper West Side	Morningside Heights	30881
+06	Upper West Side	Morris Park	144
+06	Upper West Side	Parkchester	201
+06	Upper West Side	University Heights	205
+06	Utopia	Saintalbans	5
+06	Wakefield-Williamsbridge	Woodlawn-Nordwood	2
+06	Washington Heights	Greenwood	1
+06	Washington Heights	Middle Village	2
+06	Washington Heights	Woodlawn-Nordwood	9
+06	West Village	Bay Ridge	364
+06	West Village	East Village	17909
+06	West Village	Riverdale	93
+06	West Village	Spuyten Duyvil	49
+06	West Village	Union Port	19
+06	Williamsburg	Astoria-Long Island City	1100
+06	Williamsburg	Bedford-Stuyvesant	4615
+06	Williamsburg	Douglastown-Little Neck	13
+06	Williamsburg	Flushing	24
+06	Williamsburg	Greenwood	338
+06	Woodhaven-Richmond Hill	Chelsea	3
+06	Woodside	Carroll Gardens	12
+06	Woodside	Cobble Hill	5
+06	Woodside	Garment District	255
+06	Woodside	Glendale	9
+06	Woodside	Gravesend-Sheepshead Bay	3
+06	Woodside	Jamaica	15
+06	Woodside	Upper West Side	162
+06	Yorkville	Battery Park	226
+06	Yorkville	East Village	1152
+06	Yorkville	Forest Hills	98
+06	Yorkville	Ridgewood	23
+06	Yorkville	University Heights	54
+06	Yorkville	Williamsburg	240
+07	Astoria-Long Island City	Borough Park	43
+07	Astoria-Long Island City	Nkew Gardens	206
+07	Auburndale	Flushing	13
+07	Battery Park	Parkchester	13
+07	Battery Park	Sunset Park	55
+07	Bay Ridge	Cobble Hill	2
+07	Bay Ridge	Downtown	6
+07	Bay Ridge	Upper East Side	5
+07	Bedford Park	Kings Bridge	9
+07	Bedford-Stuyvesant	Boerum Hill	63
+07	Bedford-Stuyvesant	Gramercy	70
+07	Bedford-Stuyvesant	Gravesend-Sheepshead Bay	9
+07	Bedford-Stuyvesant	Greenwich Village	89
+07	Bedford-Stuyvesant	Kings Bridge	1
+07	Bedford-Stuyvesant	Mott Haven	1
+07	Bedford-Stuyvesant	Park Slope	168
+07	Bedford-Stuyvesant	Saintalbans	3
+07	Bedford-Stuyvesant	Springfield Gardens	1
+07	Bedford-Stuyvesant	Upper East Side	53
+07	Bedford-Stuyvesant	West Village	34
+07	Bensonhurst	Financial District	1
+07	Boerum Hill	Battery Park	85
+07	Boerum Hill	Bedford-Stuyvesant	985
+07	Boerum Hill	Forest Hills	19
+07	Boerum Hill	Fort Green	2156
+07	Boerum Hill	Morris Park	5
+07	Boerum Hill	Ridgewood	41
+07	Boerum Hill	Williamsburg	1049
+07	Borough Park	Clearview	1
+07	Borough Park	Financial District	32
+07	Borough Park	Flushing	1
+07	Borough Park	Laurelton	1
+07	Borough Park	Midtown	61
+07	Brownsville	Fort Green	9
+07	Brownsville	High Bridge	1
+07	Brownsville	Midtown	4
+07	Bushwick	Bushwick	624
+07	Bushwick	Greenwich Village	61
+07	Bushwick	Midtown	39
+07	Bushwick	Woodhaven-Richmond Hill	7
+07	Canarsie	Greenwood	1
+07	Carnegie Hill	Bedford-Stuyvesant	17
+07	Carnegie Hill	Bensonhurst	1
+07	Carnegie Hill	Country Club	7
+07	Carnegie Hill	Murray Hill	2362
+07	Carnegie Hill	Nkew Gardens	4
+07	Carnegie Hill	Queensboro Hill	9
+07	Carroll Gardens	Astoria-Long Island City	130
+07	Carroll Gardens	Jackson Heights	30
+07	Carroll Gardens	Kings Bridge	1
+07	Carroll Gardens	Ridgewood	27
+07	Carroll Gardens	Sunset Park	444
+07	Central Park	Chinatown	165
+07	Central Park	Greenwich Village	2582
+07	Central Park	Little Italy	363
+07	Central Park	Wakefield-Williamsbridge	15
+07	Chelsea	Brownsville	86
+07	Chelsea	Queensboro Hill	71
+07	Chinatown	Glendale	3
+07	City Island	Country Club	2
+07	City Island	Parkchester	2
+07	Clinton	Baychester	28
+07	Clinton	Douglastown-Little Neck	25
+07	Clinton	Downtown	644
+07	Clinton	Fort Green	1353
+07	Clinton	Gravesend-Sheepshead Bay	187
+07	Clinton	Midtown	101669
+07	Clinton	South Bronx	274
+07	Clinton	Upper East Side	25832
+07	Clinton	Woodside	419
+07	Cobble Hill	Central Park	15
+07	Cobble Hill	Morris Park	1
+07	Corona	Chelsea	16
+07	Corona	Murray Hill	24
+07	Corona	Upper West Side	28
+07	Douglastown-Little Neck	Queens Village	4
+07	Downtown	Parkchester	3
+07	Downtown	Riverdale	2
+07	Downtown	Sunset Park	184
+07	Dyker Heights	Financial District	1
+07	East Brooklyn	Greenwich Village	1
+07	East Brooklyn	Upper East Side	3
+07	East Harlem	Clearview	2
+07	East Harlem	Glendale	3
+07	East Harlem	Jamaica	7
+07	East Harlem	Parkchester	35
+07	East Harlem	Sunset Park	17
+07	East Harlem	Woodlawn-Nordwood	8
+07	East Village	Brownsville	58
+07	East Village	Chinatown	3708
+07	East Village	Douglastown-Little Neck	21
+07	East Village	Downtown	1797
+07	East Village	Dyker Heights	63
+07	East Village	Flatbush	8
+07	East Village	Hamilton Heights	880
+07	East Village	Middle Village	138
+07	East Village	North Sutton Area	3625
+07	Financial District	Baychester	9
+07	Financial District	Bedford-Stuyvesant	1315
+07	Financial District	Clearview	29
+07	Financial District	Dyker Heights	121
+07	Financial District	Hamilton Heights	295
+07	Financial District	Washington Heights	641
+07	Financial District	Yorkville	876
+07	Flushing	Auburndale	22
+07	Flushing	Queensboro Hill	67
+07	Fordham	Riverdale	2
+07	Fordham	South Bronx	3
+07	Forest Hills	Bedford Park	1
+07	Forest Hills	Boerum Hill	5
+07	Forest Hills	Douglastown-Little Neck	15
+07	Forest Hills	Greenwood	1
+07	Forest Hills	Midtown	302
+07	Forest Hills	Saintalbans	10
+07	Forest Hills	University Heights	5
+07	Forest Hills	Wakefield-Williamsbridge	2
+07	Fort Green	Central Park	40
+07	Fort Green	Downtown	1365
+07	Fort Green	East Harlem	56
+07	Fort Green	Financial District	557
+07	Fort Green	Spuyten Duyvil	2
+07	Fort Green	Woodside	56
+07	Garment District	Astoria-Long Island City	4717
+07	Garment District	Bedford-Stuyvesant	1678
+07	Garment District	Bensonhurst	150
+07	Garment District	Borough Park	343
+07	Garment District	Carroll Gardens	773
+07	Garment District	East Harlem	2039
+07	Garment District	Gramercy	74437
+07	Garment District	Morningside Heights	2807
+07	Garment District	Utopia	256
+07	Glendale	Jackson Heights	1
+07	Glendale	Lower East Side	1
+07	Gramercy	Battery Park	9344
+07	Gramercy	Canarsie	88
+07	Gramercy	Chinatown	3779
+07	Gramercy	Forest Hills	1188
+07	Gramercy	Middle Village	291
+07	Gramercy	Springfield Gardens	39
+07	Gramercy	Williamsburg	6147
+07	Gravesend-Sheepshead Bay	Financial District	4
+07	Greenwich Village	City Island	5
+07	Greenwich Village	Clearview	12
+07	Greenwich Village	High Bridge	188
+07	Greenwich Village	Laurelton	3
+07	Greenwich Village	Soho	31019
+07	Greenwich Village	Yorkville	1872
+07	Greenwood	Battery Park	11
+07	Greenwood	Clearview	1
+07	Greenwood	Cobble Hill	10
+07	Greenwood	East Village	25
+07	Greenwood	Maspeth	1
+07	Greenwood	Williamsburg	65
+07	Greenwood	Yorkville	1
+07	Hamilton Heights	Central Park	231
+07	Hamilton Heights	Chinatown	14
+07	Hamilton Heights	Jamaica	4
+07	Hamilton Heights	Mapleton-Flatlands	4
+07	Hamilton Heights	Queensboro Hill	1
+07	Hamilton Heights	Sunny Side	47
+07	Hamilton Heights	Throggs Neck	1
+07	Hamilton Heights	Woodhaven-Richmond Hill	2
+07	Hamilton Heights	Woodside	27
+07	Harlem	Borough Park	5
+07	Harlem	Dyker Heights	3
+07	Harlem	Park Slope	49
+07	High Bridge	Jackson Heights	4
+07	High Bridge	Lower East Side	6
+07	Inwood	Battery Park	4
+07	Inwood	Carnegie Hill	2
+07	Inwood	Forest Hills	1
+07	Inwood	Wakefield-Williamsbridge	3
+07	Inwood	Williamsburg	3
+07	Inwood	Woodlawn-Nordwood	1
+07	Jackson Heights	Battery Park	23
+07	Jackson Heights	Clearview	6
+07	Jackson Heights	East Village	73
+07	Jackson Heights	High Bridge	17
+07	Jackson Heights	Utopia	50
+07	Jackson Heights	Yorkville	118
+07	Jamaica	Chelsea	138
+07	Jamaica	South Bronx	2
+07	Kings Bridge	Financial District	1
+07	Laurelton	Bedford-Stuyvesant	1
+07	Laurelton	Laurelton	39
+07	Laurelton	Soho	1
+07	Laurelton	Springfield Gardens	2
+07	Little Italy	Bushwick	400
+07	Little Italy	Canarsie	14
+07	Little Italy	Central Park	618
+07	Little Italy	Maspeth	28
+07	Little Italy	Throggs Neck	4
+07	Lower East Side	Jackson Heights	647
+07	Lower East Side	Lower East Side	18500
+07	Lower East Side	Soho	12717
+07	Lower East Side	Springfield Gardens	19
+07	Lower East Side	Washington Heights	909
+07	Mapleton-Flatlands	Bay Ridge	6
+07	Mapleton-Flatlands	Fort Green	25
+07	Mapleton-Flatlands	Springfield Gardens	1
+07	Maspeth	Carnegie Hill	1
+07	Maspeth	Chelsea	27
+07	Maspeth	East Village	23
+07	Maspeth	Hunts Point	1
+07	Middle Village	Gramercy	2
+07	Midtown	Clinton	109241
+07	Midtown	East Village	47509
+07	Midtown	Gravesend-Sheepshead Bay	726
+07	Midtown	Harlem	14367
+07	Midtown	Inwood	1447
+07	Midtown	Mapleton-Flatlands	633
+07	Midtown	Queens Village	62
+07	Midtown	Queensboro Hill	259
+07	Midtown	Sunny Side	10242
+07	Midtown	Sunset Park	450
+07	Midtown	Tribeca	24697
+07	Midtown	Woodlawn-Nordwood	267
+07	Morningside Heights	Battery Park	232
+07	Morningside Heights	East Village	517
+07	Morningside Heights	Forest Hills	38
+07	Morningside Heights	Williams Bridge	15
+07	Morningside Heights	Williamsburg	96
+07	Morris Park	East Village	2
+07	Mott Haven	Bedford Park	15
+07	Mott Haven	Brownsville	1
+07	Mott Haven	Chinatown	2
+07	Murray Hill	Bensonhurst	125
+07	Murray Hill	Carroll Gardens	437
+07	Murray Hill	East Harlem	1055
+07	Murray Hill	Morningside Heights	1029
+07	Murray Hill	Murray Hill	20960
+07	Murray Hill	Tremont	45
+07	Murray Hill	Upper West Side	17120
+07	Murray Hill	Woodside	444
+07	Nkew Gardens	Chelsea	18
+07	Nkew Gardens	Country Club	1
+07	Nkew Gardens	Gravesend-Sheepshead Bay	1
+07	Nkew Gardens	Hamilton Heights	1
+07	Nkew Gardens	South Bronx	1
+07	North Sutton Area	Glendale	9
+07	North Sutton Area	Greenwood	21
+07	North Sutton Area	Jackson Heights	255
+07	North Sutton Area	Woodlawn-Nordwood	16
+07	Park Slope	Battery Park	60
+07	Park Slope	Bay Ridge	198
+07	Park Slope	Douglastown-Little Neck	1
+07	Park Slope	East Village	354
+07	Park Slope	Jamaica	1
+07	Park Slope	Queens Village	1
+07	Park Slope	Sunset Park	343
+07	Park Slope	Utopia	1
+07	Parkchester	Mott Haven	5
+07	Queens Village	Jamaica	11
+07	Queensboro Hill	Upper East Side	1
+07	Ridgewood	Chelsea	6
+07	Ridgewood	Chinatown	1
+07	Ridgewood	Upper East Side	7
+07	Riverdale	Bedford Park	5
+07	Riverdale	Washington Heights	10
+07	Riverdale	Woodlawn-Nordwood	2
+07	Saintalbans	Brownsville	1
+07	Soho	Central Park	1538
+07	Soho	Throggs Neck	14
+07	Soho	Upper East Side	13245
+07	Soundview	Astoria-Long Island City	2
+07	Soundview	Harlem	5
+07	Soundview	Midtown	5
+07	Soundview	University Heights	3
+07	South Bronx	Astoria-Long Island City	5
+07	South Bronx	Hamilton Heights	9
+07	South Bronx	Midtown	16
+07	South Bronx	South Bronx	191
+07	Springfield Gardens	Hamilton Heights	2
+07	Springfield Gardens	Murray Hill	14
+07	Steinway	Jackson Heights	2
+07	Steinway	South Bronx	1
+07	Sunny Side	Bushwick	227
+07	Sunny Side	Canarsie	16
+07	Sunny Side	Dyker Heights	1
+07	Sunny Side	Forest Hills	327
+07	Sunny Side	Hamilton Heights	48
+07	Sunny Side	Morris Heights	2
+07	Sunny Side	Soundview	9
+07	Sunset Park	Brownsville	1
+07	Tremont	Bedford Park	5
+07	Tremont	High Bridge	8
+07	Tremont	Soundview	4
+07	Tremont	Washington Heights	6
+07	Tribeca	Forest Hills	215
+07	Tribeca	North Sutton Area	807
+07	Tribeca	Park Slope	1709
+07	Tribeca	Sunset Park	154
+07	Tribeca	Upper East Side	8766
+07	Tribeca	Washington Heights	509
+07	Tribeca	Williamsburg	2980
+07	University Heights	Lower East Side	1
+07	University Heights	Morningside Heights	1
+07	University Heights	Washington Heights	5
+07	Upper East Side	Chelsea	40674
+07	Upper East Side	Ridgewood	342
+07	Upper East Side	Sunny Side	5998
+07	Upper West Side	Clinton	44049
+07	Upper West Side	Cobble Hill	204
+07	Upper West Side	Country Club	35
+07	Upper West Side	Hamilton Heights	10172
+07	Upper West Side	Mott Haven	699
+07	Upper West Side	Tribeca	5799
+07	Upper West Side	Wakefield-Williamsbridge	76
+07	Upper West Side	Woodhaven-Richmond Hill	62
+07	Utopia	Bushwick	2
+07	Utopia	East Village	11
+07	Wakefield-Williamsbridge	Chelsea	1
+07	Wakefield-Williamsbridge	Wakefield-Williamsbridge	33
+07	Wakefield-Williamsbridge	Washington Heights	1
+07	Washington Heights	East Village	130
+07	Washington Heights	Maspeth	6
+07	Washington Heights	Morningside Heights	714
+07	Washington Heights	Sunset Park	6
+07	Washington Heights	Wakefield-Williamsbridge	5
+07	West Village	Douglastown-Little Neck	15
+07	West Village	Fordham	19
+07	West Village	Greenwood	231
+07	West Village	Mapleton-Flatlands	184
+07	Williams Bridge	University Heights	1
+07	Williamsburg	Bushwick	3633
+07	Williamsburg	Carnegie Hill	68
+07	Williamsburg	Carroll Gardens	875
+07	Williamsburg	Fordham	5
+07	Williamsburg	Jamaica	24
+07	Williamsburg	Upper West Side	890
+07	Woodhaven-Richmond Hill	Flushing	2
+07	Woodhaven-Richmond Hill	Midtown	21
+07	Woodhaven-Richmond Hill	Nkew Gardens	34
+07	Woodhaven-Richmond Hill	The Rockaways	3
+07	Woodhaven-Richmond Hill	Utopia	8
+07	Woodlawn-Nordwood	Upper East Side	1
+07	Woodside	Battery Park	35
+07	Woodside	Forest Hills	110
+07	Woodside	Morningside Heights	16
+07	Woodside	Riverdale	3
+07	Woodside	Sunset Park	5
+07	Woodside	Tremont	2
+07	Woodside	Williamsburg	108
+07	Yorkville	Bushwick	27
+07	Yorkville	Carnegie Hill	2808
+07	Yorkville	Little Italy	165
+07	Yorkville	Mapleton-Flatlands	18
+07	Yorkville	Steinway	1
+08	Astoria-Long Island City	Carnegie Hill	133
+08	Astoria-Long Island City	City Island	1
+08	Astoria-Long Island City	Jamaica	122
+08	Astoria-Long Island City	Little Italy	110
+08	Astoria-Long Island City	Woodhaven-Richmond Hill	114
+08	Auburndale	Williamsburg	1
+08	Battery Park	Cobble Hill	88
+08	Battery Park	Financial District	9440
+08	Battery Park	Springfield Gardens	2
+08	Battery Park	Sunny Side	151
+08	Bay Ridge	Boerum Hill	8
+08	Bay Ridge	Carroll Gardens	8
+08	Bay Ridge	Gramercy	10
+08	Baychester	Fordham	1
+08	Bedford Park	Midtown	3
+08	Bedford Park	University Heights	3
+08	Bedford-Stuyvesant	Canarsie	39
+08	Bedford-Stuyvesant	Hamilton Heights	10
+08	Boerum Hill	Bedford Park	3
+08	Boerum Hill	Chelsea	355
+08	Boerum Hill	Greenwich Village	369
+08	Boerum Hill	Sunny Side	100
+08	Borough Park	Bedford-Stuyvesant	20
+08	Borough Park	Bushwick	7
+08	Borough Park	Canarsie	8
+08	Borough Park	Dyker Heights	11
+08	Borough Park	Hamilton Heights	1
+08	Brownsville	Boerum Hill	1
+08	Brownsville	East Brooklyn	28
+08	Brownsville	Sunny Side	2
+08	Bushwick	Bedford-Stuyvesant	472
+08	Bushwick	Central Park	4
+08	Bushwick	East Brooklyn	28
+08	Bushwick	Yorkville	5
+08	Canarsie	Bay Ridge	1
+08	Canarsie	Tribeca	1
+08	Carnegie Hill	Battery Park	365
+08	Carnegie Hill	East Village	598
+08	Carnegie Hill	Forest Hills	46
+08	Carnegie Hill	Upper East Side	31237
+08	Carnegie Hill	Williamsburg	121
+08	Carroll Gardens	Boerum Hill	1014
+08	Carroll Gardens	Little Italy	206
+08	Carroll Gardens	North Sutton Area	61
+08	Carroll Gardens	Saintalbans	1
+08	Carroll Gardens	West Village	317
+08	Central Park	Borough Park	19
+08	Central Park	Clinton	5010
+08	Central Park	Financial District	1401
+08	Central Park	Gravesend-Sheepshead Bay	14
+08	Central Park	Hunts Point	10
+08	Central Park	Mott Haven	98
+08	Central Park	Park Slope	113
+08	Central Park	Ridgewood	26
+08	Central Park	Tribeca	725
+08	Chelsea	Bay Ridge	634
+08	Chelsea	Bedford Park	106
+08	Chelsea	Greenwich Village	56472
+08	Chelsea	Washington Heights	3633
+08	Chinatown	Brownsville	22
+08	Chinatown	Corona	1
+08	Chinatown	Fordham	6
+08	Chinatown	Ridgewood	28
+08	Chinatown	University Heights	2
+08	Clinton	Dyker Heights	81
+08	Clinton	Gramercy	26449
+08	Clinton	Morris Park	64
+08	Clinton	Parkchester	156
+08	Clinton	Soundview	124
+08	Clinton	Tremont	120
+08	Cobble Hill	Bushwick	31
+08	Cobble Hill	Canarsie	6
+08	Cobble Hill	Clinton	96
+08	Cobble Hill	East Brooklyn	5
+08	Cobble Hill	Tribeca	263
+08	Corona	Carnegie Hill	2
+08	Corona	Central Park	4
+08	Corona	East Brooklyn	1
+08	Corona	Springfield Gardens	1
+08	Corona	Sunny Side	10
+08	Country Club	Canarsie	1
+08	Country Club	City Island	1
+08	Country Club	Wakefield-Williamsbridge	6
+08	Douglastown-Little Neck	Battery Park	1
+08	Douglastown-Little Neck	Springfield Gardens	3
+08	Downtown	Maspeth	19
+08	Downtown	Morris Park	1
+08	Downtown	Soundview	4
+08	Downtown	Williams Bridge	1
+08	Dyker Heights	Greenwich Village	4
+08	Dyker Heights	Mapleton-Flatlands	3
+08	Dyker Heights	Upper East Side	2
+08	East Brooklyn	Carroll Gardens	2
+08	East Brooklyn	Midtown	8
+08	East Brooklyn	Upper West Side	1
+08	East Harlem	Hunts Point	43
+08	East Harlem	Kings Bridge	24
+08	East Harlem	Springfield Gardens	2
+08	East Harlem	Spuyten Duyvil	8
+08	East Harlem	Tremont	54
+08	East Village	East Brooklyn	75
+08	East Village	Morningside Heights	1043
+08	East Village	Murray Hill	18989
+08	East Village	Ridgewood	413
+08	Financial District	Borough Park	416
+08	Financial District	Corona	3
+08	Financial District	Flushing	187
+08	Financial District	Jackson Heights	408
+08	Financial District	Laurelton	4
+08	Financial District	Lower East Side	16824
+08	Financial District	Nkew Gardens	151
+08	Financial District	Soundview	35
+08	Financial District	Union Port	15
+08	Financial District	Wakefield-Williamsbridge	15
+08	Flatbush	Fort Green	1
+08	Flushing	Battery Park	15
+08	Flushing	Bensonhurst	1
+08	Flushing	Clinton	38
+08	Flushing	East Harlem	6
+08	Flushing	Forest Hills	78
+08	Flushing	Jackson Heights	206
+08	Flushing	Lower East Side	22
+08	Flushing	Ridgewood	6
+08	Flushing	Tribeca	16
+08	Flushing	Williamsburg	26
+08	Fordham	Central Park	1
+08	Fordham	Morris Heights	1
+08	Fordham	Parkchester	2
+08	Forest Hills	Gravesend-Sheepshead Bay	6
+08	Forest Hills	Sunny Side	167
+08	Fort Green	Astoria-Long Island City	246
+08	Fort Green	Bedford Park	4
+08	Fort Green	Garment District	493
+08	Fort Green	Gramercy	881
+08	Fort Green	Midtown	939
+08	Fort Green	Morningside Heights	33
+08	Fort Green	Queensboro Hill	3
+08	Fort Green	Sunny Side	228
+08	Garment District	Douglastown-Little Neck	69
+08	Garment District	East Brooklyn	151
+08	Garment District	Laurelton	21
+08	Garment District	Midtown	190781
+08	Garment District	Park Slope	1696
+08	Garment District	Soundview	186
+08	Garment District	South Bronx	546
+08	Glendale	Gramercy	1
+08	Glendale	Maspeth	2
+08	Glendale	Woodhaven-Richmond Hill	13
+08	Gramercy	Bedford Park	130
+08	Gramercy	Carnegie Hill	4216
+08	Gramercy	City Island	7
+08	Gramercy	East Brooklyn	101
+08	Gramercy	Harlem	3720
+08	Gramercy	High Bridge	265
+08	Gramercy	Inwood	331
+08	Gramercy	Midtown	167502
+08	Gramercy	Union Port	57
+08	Gravesend-Sheepshead Bay	Lower East Side	3
+08	Gravesend-Sheepshead Bay	Soho	3
+08	Greenwich Village	Financial District	19024
+08	Greenwich Village	South Bronx	222
+08	Greenwich Village	Tremont	74
+08	Greenwood	Boerum Hill	69
+08	Greenwood	Downtown	30
+08	Greenwood	Greenwood	213
+08	Greenwood	Little Italy	5
+08	Greenwood	West Village	17
+08	Hamilton Heights	Fordham	16
+08	Hamilton Heights	Morris Park	15
+08	Hamilton Heights	Park Slope	14
+08	Hamilton Heights	Parkchester	19
+08	Harlem	Boerum Hill	19
+08	Harlem	Douglastown-Little Neck	2
+08	Harlem	Queensboro Hill	5
+08	Harlem	Riverdale	39
+08	Harlem	Saintalbans	2
+08	High Bridge	Battery Park	1
+08	High Bridge	East Village	5
+08	High Bridge	Forest Hills	1
+08	High Bridge	Murray Hill	10
+08	High Bridge	Park Slope	2
+08	High Bridge	Tremont	8
+08	High Bridge	Williamsburg	1
+08	High Bridge	Woodhaven-Richmond Hill	2
+08	Inwood	Bedford-Stuyvesant	2
+08	Inwood	Murray Hill	6
+08	Jackson Heights	Battery Park	19
+08	Jackson Heights	Forest Hills	138
+08	Jackson Heights	Midtown	583
+08	Jackson Heights	Ridgewood	31
+08	Jackson Heights	Williamsburg	93
+08	Jamaica	Carnegie Hill	10
+08	Jamaica	Carroll Gardens	1
+08	Jamaica	Parkchester	2
+08	Jamaica	Riverdale	3
+08	Jamaica	Upper West Side	164
+08	Kings Bridge	Bedford-Stuyvesant	1
+08	Kings Bridge	East Harlem	1
+08	Kings Bridge	Tremont	2
+08	Laurelton	Canarsie	1
+08	Little Italy	Carnegie Hill	363
+08	Little Italy	Chelsea	9591
+08	Little Italy	Financial District	4625
+08	Little Italy	Little Italy	1694
+08	Lower East Side	East Brooklyn	78
+08	Lower East Side	Greenwich Village	17747
+08	Lower East Side	Morningside Heights	633
+08	Lower East Side	Sunny Side	1561
+08	Lower East Side	Tremont	28
+08	Lower East Side	Woodhaven-Richmond Hill	68
+08	Lower East Side	Yorkville	1407
+08	Mapleton-Flatlands	Carroll Gardens	24
+08	Mapleton-Flatlands	Downtown	9
+08	Mapleton-Flatlands	Financial District	17
+08	Mapleton-Flatlands	Gravesend-Sheepshead Bay	61
+08	Mapleton-Flatlands	Sunset Park	7
+08	Mapleton-Flatlands	Upper West Side	7
+08	Maspeth	Financial District	20
+08	Maspeth	Garment District	34
+08	Maspeth	Morningside Heights	1
+08	Maspeth	Murray Hill	36
+08	Maspeth	Ridgewood	31
+08	Middle Village	East Village	1
+08	Middle Village	Greenwood	1
+08	Middle Village	Sunny Side	5
+08	Middle Village	Williamsburg	2
+08	Midtown	Bay Ridge	897
+08	Midtown	Chelsea	112658
+08	Midtown	Fort Green	4739
+08	Midtown	Hunts Point	137
+08	Midtown	Riverdale	535
+08	Midtown	Utopia	660
+08	Morningside Heights	Astoria-Long Island City	189
+08	Morningside Heights	Bedford-Stuyvesant	34
+08	Morningside Heights	Cobble Hill	15
+08	Morningside Heights	Corona	1
+08	Morningside Heights	Dyker Heights	6
+08	Morningside Heights	Greenwich Village	705
+08	Morris Park	Baychester	1
+08	Mott Haven	Bedford-Stuyvesant	7
+08	Mott Haven	Borough Park	1
+08	Mott Haven	Fordham	14
+08	Murray Hill	Baychester	11
+08	Murray Hill	City Island	4
+08	Murray Hill	Downtown	779
+08	Murray Hill	Flatbush	1
+08	Murray Hill	Fort Green	1193
+08	Murray Hill	Morris Heights	38
+08	Murray Hill	Wakefield-Williamsbridge	29
+08	Nkew Gardens	Greenwich Village	5
+08	North Sutton Area	Bensonhurst	16
+08	North Sutton Area	East Harlem	411
+08	North Sutton Area	North Sutton Area	2310
+08	North Sutton Area	Tremont	15
+08	North Sutton Area	Williams Bridge	13
+08	Park Slope	Bensonhurst	34
+08	Park Slope	East Brooklyn	17
+08	Park Slope	East Harlem	10
+08	Park Slope	Washington Heights	20
+08	Parkchester	Central Park	1
+08	Parkchester	Downtown	1
+08	Parkchester	Throggs Neck	9
+08	Queens Village	Chelsea	1
+08	Queens Village	Forest Hills	1
+08	Queensboro Hill	Inwood	1
+08	Queensboro Hill	Jamaica	1
+08	Queensboro Hill	Queensboro Hill	39
+08	Ridgewood	Glendale	42
+08	Riverdale	Astoria-Long Island City	2
+08	Riverdale	Upper East Side	6
+08	Riverdale	Yorkville	1
+08	Soho	Clinton	8172
+08	Soho	East Brooklyn	47
+08	Soho	Morris Heights	16
+08	Soho	South Bronx	46
+08	Soho	Tribeca	11526
+08	Soundview	Canarsie	1
+08	Soundview	Garment District	1
+08	Soundview	Kings Bridge	1
+08	Soundview	Morris Park	4
+08	Soundview	Parkchester	8
+08	Soundview	Upper West Side	2
+08	South Bronx	Morris Park	4
+08	South Bronx	Parkchester	5
+08	Springfield Gardens	South Bronx	1
+08	Spuyten Duyvil	Bedford Park	1
+08	Spuyten Duyvil	Williams Bridge	1
+08	Sunny Side	Borough Park	30
+08	Sunny Side	Clearview	11
+08	Sunny Side	Laurelton	2
+08	Sunny Side	Midtown	3922
+08	Sunny Side	Queens Village	5
+08	Sunny Side	Yorkville	262
+08	The Rockaways	Bedford-Stuyvesant	1
+08	Tribeca	Baychester	4
+08	Tribeca	East Village	7953
+08	Tribeca	Gramercy	12162
+08	Tribeca	Hunts Point	7
+08	Tribeca	Maspeth	49
+08	Tribeca	Queens Village	8
+08	Union Port	East Village	3
+08	Union Port	Fort Green	1
+08	Union Port	Soundview	7
+08	University Heights	Forest Hills	4
+08	University Heights	Tremont	1
+08	University Heights	Upper East Side	1
+08	Upper East Side	Country Club	79
+08	Upper East Side	East Brooklyn	72
+08	Upper East Side	Financial District	18255
+08	Upper East Side	Springfield Gardens	31
+08	Upper West Side	Boerum Hill	252
+08	Upper West Side	Douglastown-Little Neck	20
+08	Upper West Side	Dyker Heights	21
+08	Upper West Side	Financial District	5969
+08	Upper West Side	Middle Village	73
+08	Upper West Side	Nkew Gardens	180
+08	Upper West Side	Saintalbans	12
+08	Utopia	Chelsea	23
+08	Utopia	Harlem	11
+08	Utopia	High Bridge	1
+08	Utopia	Inwood	2
+08	Utopia	Park Slope	12
+08	Utopia	Yorkville	5
+08	Washington Heights	Baychester	6
+08	Washington Heights	Bedford Park	23
+08	Washington Heights	Jackson Heights	38
+08	West Village	Brownsville	33
+08	West Village	Kings Bridge	48
+08	West Village	Little Italy	5356
+08	West Village	West Village	16078
+08	Williams Bridge	Garment District	1
+08	Williams Bridge	South Bronx	1
+08	Williamsburg	Brownsville	44
+08	Williamsburg	Corona	1
+08	Williamsburg	Mapleton-Flatlands	129
+08	Woodhaven-Richmond Hill	Chinatown	1
+08	Woodhaven-Richmond Hill	Jamaica	37
+08	Woodside	Bedford Park	2
+08	Woodside	Morris Park	2
+08	Woodside	North Sutton Area	97
+08	Woodside	Park Slope	27
+08	Woodside	Spuyten Duyvil	1
+08	Yorkville	Fordham	28
+08	Yorkville	Greenwich Village	925
+08	Yorkville	Jamaica	22
+09	Astoria-Long Island City	Auburndale	32
+09	Astoria-Long Island City	Gramercy	2112
+09	Astoria-Long Island City	Morris Park	34
+09	Astoria-Long Island City	Queens Village	6
+09	Battery Park	Bedford-Stuyvesant	112
+09	Battery Park	Boerum Hill	147
+09	Battery Park	Country Club	1
+09	Battery Park	Laurelton	2
+09	Battery Park	Midtown	16321
+09	Battery Park	Nkew Gardens	13
+09	Battery Park	Saintalbans	2
+09	Battery Park	Soundview	6
+09	Battery Park	Spuyten Duyvil	9
+09	Battery Park	The Rockaways	2
+09	Battery Park	Wakefield-Williamsbridge	4
+09	Battery Park	Washington Heights	150
+09	Bedford Park	Bedford Park	48
+09	Bedford Park	Morris Heights	2
+09	Bedford Park	Williams Bridge	4
+09	Bedford-Stuyvesant	Bay Ridge	23
+09	Bedford-Stuyvesant	Bensonhurst	8
+09	Bedford-Stuyvesant	Clinton	55
+09	Bedford-Stuyvesant	East Harlem	6
+09	Bedford-Stuyvesant	Tribeca	44
+09	Bedford-Stuyvesant	Wakefield-Williamsbridge	1
+09	Bensonhurst	Carroll Gardens	1
+09	Bensonhurst	Chinatown	2
+09	Bensonhurst	East Village	1
+09	Bensonhurst	Garment District	1
+09	Bensonhurst	North Sutton Area	1
+09	Boerum Hill	Clearview	2
+09	Boerum Hill	Dyker Heights	30
+09	Boerum Hill	Hamilton Heights	29
+09	Boerum Hill	Murray Hill	194
+09	Boerum Hill	Woodhaven-Richmond Hill	7
+09	Boerum Hill	Yorkville	39
+09	Borough Park	Chinatown	10
+09	Borough Park	Maspeth	1
+09	Borough Park	Park Slope	137
+09	Brownsville	Bedford-Stuyvesant	17
+09	Brownsville	Brownsville	69
+09	Brownsville	Garment District	2
+09	Brownsville	Nkew Gardens	1
+09	Bushwick	Boerum Hill	36
+09	Bushwick	Park Slope	94
+09	Bushwick	Queensboro Hill	1
+09	Bushwick	Saintalbans	1
+09	Carnegie Hill	Bay Ridge	19
+09	Carnegie Hill	Bedford-Stuyvesant	38
+09	Carnegie Hill	Carroll Gardens	35
+09	Carnegie Hill	Gravesend-Sheepshead Bay	6
+09	Carnegie Hill	Tremont	11
+09	Carroll Gardens	Gramercy	768
+09	Carroll Gardens	Gravesend-Sheepshead Bay	64
+09	Carroll Gardens	Maspeth	15
+09	Central Park	Bedford-Stuyvesant	66
+09	Central Park	Fort Green	161
+09	Central Park	Upper East Side	39429
+09	Chelsea	Auburndale	34
+09	Chelsea	Ridgewood	274
+09	Chelsea	Sunset Park	339
+09	Chelsea	Williams Bridge	51
+09	Chinatown	Baychester	1
+09	Chinatown	Bensonhurst	50
+09	Chinatown	Forest Hills	45
+09	Chinatown	Greenwich Village	3135
+09	Chinatown	Mapleton-Flatlands	63
+09	Chinatown	Murray Hill	1512
+09	Clinton	Central Park	4722
+09	Clinton	Chinatown	1171
+09	Clinton	Gravesend-Sheepshead Bay	193
+09	Clinton	Hunts Point	32
+09	Clinton	Midtown	87952
+09	Clinton	Queens Village	22
+09	Clinton	Throggs Neck	46
+09	Cobble Hill	Bensonhurst	11
+09	Cobble Hill	Financial District	435
+09	Cobble Hill	Flushing	6
+09	Cobble Hill	Murray Hill	209
+09	Corona	Astoria-Long Island City	10
+09	Corona	Upper East Side	41
+09	Downtown	Carroll Gardens	1510
+09	Downtown	High Bridge	9
+09	Downtown	Nkew Gardens	40
+09	Downtown	North Sutton Area	111
+09	Downtown	University Heights	3
+09	Downtown	Upper West Side	491
+09	Dyker Heights	Chelsea	2
+09	Dyker Heights	Financial District	2
+09	Dyker Heights	Sunset Park	6
+09	East Brooklyn	Flushing	1
+09	East Brooklyn	South Bronx	1
+09	East Harlem	Auburndale	2
+09	East Harlem	Bensonhurst	2
+09	East Harlem	East Harlem	3567
+09	East Harlem	Greenwich Village	362
+09	East Harlem	Kings Bridge	16
+09	East Harlem	Little Italy	58
+09	East Harlem	Murray Hill	457
+09	East Harlem	Utopia	13
+09	East Harlem	West Village	155
+09	East Village	Bensonhurst	124
+09	East Village	East Harlem	1515
+09	East Village	Midtown	44790
+09	Financial District	Bushwick	520
+09	Financial District	Canarsie	85
+09	Financial District	Dyker Heights	136
+09	Financial District	High Bridge	110
+09	Financial District	Park Slope	2195
+09	Financial District	Queens Village	12
+09	Financial District	Tremont	18
+09	Financial District	Upper East Side	15067
+09	Flushing	Bedford Park	4
+09	Flushing	Chinatown	9
+09	Flushing	Downtown	21
+09	Flushing	Garment District	66
+09	Flushing	Murray Hill	78
+09	Flushing	University Heights	1
+09	Flushing	Woodside	24
+09	Fordham	Williams Bridge	3
+09	Fordham	Yorkville	1
+09	Forest Hills	Maspeth	31
+09	Fort Green	Borough Park	204
+09	Fort Green	Clinton	331
+09	Fort Green	Mott Haven	13
+09	Fort Green	Ridgewood	137
+09	Fort Green	Tribeca	481
+09	Garment District	Battery Park	6194
+09	Garment District	Carroll Gardens	845
+09	Garment District	East Village	18872
+09	Garment District	Springfield Gardens	124
+09	Garment District	Williamsburg	3002
+09	Garment District	Woodhaven-Richmond Hill	162
+09	Glendale	Bushwick	8
+09	Gramercy	Morris Heights	71
+09	Gramercy	Upper East Side	92890
+09	Gravesend-Sheepshead Bay	Carroll Gardens	5
+09	Gravesend-Sheepshead Bay	Fort Green	6
+09	Gravesend-Sheepshead Bay	Garment District	3
+09	Gravesend-Sheepshead Bay	Sunset Park	2
+09	Gravesend-Sheepshead Bay	Upper West Side	2
+09	Greenwich Village	Chinatown	3285
+09	Greenwich Village	East Village	44911
+09	Greenwich Village	Fordham	61
+09	Greenwich Village	Gramercy	62289
+09	Greenwich Village	Jackson Heights	909
+09	Greenwich Village	Wakefield-Williamsbridge	43
+09	Greenwood	Garment District	25
+09	Greenwood	Gramercy	36
+09	Hamilton Heights	Queensboro Hill	7
+09	Hamilton Heights	Sunset Park	7
+09	Harlem	Auburndale	1
+09	Harlem	Bedford-Stuyvesant	115
+09	Harlem	Chelsea	1466
+09	Harlem	East Village	549
+09	Harlem	Williams Bridge	19
+09	Harlem	Yorkville	2502
+09	High Bridge	Hamilton Heights	41
+09	High Bridge	High Bridge	156
+09	High Bridge	Utopia	1
+09	Hunts Point	Central Park	3
+09	Hunts Point	High Bridge	2
+09	Inwood	Financial District	3
+09	Inwood	Hamilton Heights	29
+09	Inwood	Morris Park	1
+09	Jackson Heights	Bedford Park	3
+09	Jackson Heights	Gramercy	232
+09	Jackson Heights	Sunny Side	438
+09	Jackson Heights	Sunset Park	8
+09	Jamaica	Bedford Park	1
+09	Jamaica	Gramercy	154
+09	Jamaica	Middle Village	4
+09	Jamaica	Sunny Side	17
+09	Laurelton	Chelsea	1
+09	Laurelton	Greenwich Village	1
+09	Laurelton	Nkew Gardens	2
+09	Little Italy	Bedford-Stuyvesant	749
+09	Little Italy	Clearview	2
+09	Little Italy	Garment District	6171
+09	Little Italy	Hunts Point	2
+09	Little Italy	Laurelton	2
+09	Little Italy	Soundview	7
+09	Little Italy	Washington Heights	276
+09	Lower East Side	Kings Bridge	38
+09	Lower East Side	Riverdale	38
+09	Lower East Side	The Rockaways	20
+09	Lower East Side	Wakefield-Williamsbridge	22
+09	Lower East Side	West Village	12509
+09	Mapleton-Flatlands	Garment District	13
+09	Mapleton-Flatlands	Harlem	1
+09	Mapleton-Flatlands	Little Italy	3
+09	Mapleton-Flatlands	Park Slope	40
+09	Maspeth	Auburndale	1
+09	Maspeth	Central Park	6
+09	Middle Village	Boerum Hill	1
+09	Middle Village	Woodhaven-Richmond Hill	6
+09	Midtown	Bensonhurst	367
+09	Midtown	Clinton	90888
+09	Midtown	East Harlem	6598
+09	Midtown	Gravesend-Sheepshead Bay	817
+09	Midtown	Greenwich Village	65478
+09	Midtown	Tribeca	24902
+09	Midtown	Williams Bridge	140
+09	Midtown	Woodhaven-Richmond Hill	336
+09	Morningside Heights	Astoria-Long Island City	290
+09	Morningside Heights	Battery Park	207
+09	Morningside Heights	East Village	684
+09	Morningside Heights	Forest Hills	28
+09	Morningside Heights	Garment District	1654
+09	Morningside Heights	Mott Haven	127
+09	Morningside Heights	North Sutton Area	295
+09	Morningside Heights	Park Slope	68
+09	Morningside Heights	Spuyten Duyvil	121
+09	Morningside Heights	Williamsburg	112
+09	Morningside Heights	Yorkville	1632
+09	Morris Heights	Financial District	1
+09	Morris Heights	High Bridge	10
+09	Morris Heights	Upper West Side	3
+09	Morris Heights	Wakefield-Williamsbridge	2
+09	Morris Park	Bedford Park	5
+09	Morris Park	Washington Heights	3
+09	Mott Haven	Financial District	11
+09	Mott Haven	Sunny Side	16
+09	Mott Haven	Upper East Side	172
+09	Murray Hill	Astoria-Long Island City	2619
+09	Murray Hill	Glendale	58
+09	Murray Hill	Greenwood	135
+09	Murray Hill	Mapleton-Flatlands	242
+09	Murray Hill	Sunny Side	2031
+09	Murray Hill	University Heights	38
+09	Nkew Gardens	Downtown	1
+09	Nkew Gardens	North Sutton Area	8
+09	Nkew Gardens	Park Slope	6
+09	Nkew Gardens	Soho	6
+09	North Sutton Area	Bedford-Stuyvesant	118
+09	North Sutton Area	Dyker Heights	15
+09	North Sutton Area	East Village	5014
+09	North Sutton Area	Fordham	11
+09	North Sutton Area	Gramercy	14714
+09	North Sutton Area	Utopia	35
+09	Park Slope	Carnegie Hill	17
+09	Park Slope	Kings Bridge	3
+09	Park Slope	West Village	162
+09	Park Slope	Woodhaven-Richmond Hill	7
+09	Parkchester	High Bridge	2
+09	Parkchester	Morris Heights	2
+09	Parkchester	Union Port	6
+09	Ridgewood	Park Slope	5
+09	Ridgewood	Ridgewood	199
+09	Riverdale	Midtown	1
+09	Riverdale	Mott Haven	1
+09	Saintalbans	East Brooklyn	1
+09	Soho	Bedford Park	33
+09	Soho	Bedford-Stuyvesant	1500
+09	Soho	Canarsie	44
+09	Soho	Greenwich Village	24343
+09	Soho	Morris Park	18
+09	Soho	Ridgewood	176
+09	Soundview	Bedford Park	1
+09	Soundview	Fordham	1
+09	South Bronx	Hunts Point	4
+09	South Bronx	Upper East Side	24
+09	South Bronx	Williamsburg	1
+09	Springfield Gardens	Laurelton	9
+09	Springfield Gardens	Middle Village	2
+09	Springfield Gardens	Park Slope	2
+09	Steinway	Steinway	9
+09	Sunny Side	Clinton	535
+09	Sunny Side	Douglastown-Little Neck	19
+09	Sunny Side	Downtown	181
+09	Sunny Side	Morris Park	10
+09	Sunny Side	North Sutton Area	473
+09	Sunny Side	Parkchester	11
+09	Sunny Side	Tribeca	196
+09	Sunny Side	Woodside	1280
+09	Sunset Park	Borough Park	26
+09	Sunset Park	Chinatown	3
+09	Sunset Park	Cobble Hill	2
+09	Sunset Park	Downtown	13
+09	Sunset Park	Woodside	3
+09	Throggs Neck	Kings Bridge	1
+09	Throggs Neck	West Village	1
+09	Tremont	Morris Heights	7
+09	Tremont	Union Port	4
+09	Tremont	Woodlawn-Nordwood	1
+09	Tribeca	Bensonhurst	100
+09	Tribeca	Clinton	6431
+09	Tribeca	East Harlem	230
+09	Tribeca	Garment District	12128
+09	Tribeca	Mapleton-Flatlands	206
+09	Tribeca	Tribeca	10745
+09	Union Port	Country Club	6
+09	Union Port	Fordham	1
+09	Union Port	Gramercy	3
+09	Union Port	Parkchester	5
+09	Union Port	Washington Heights	2
+09	Union Port	Yorkville	2
+09	University Heights	Garment District	1
+09	Upper East Side	Bensonhurst	142
+09	Upper East Side	Borough Park	332
+09	Upper East Side	East Harlem	19669
+09	Upper East Side	Fort Green	2230
+09	Upper East Side	Morningside Heights	10353
+09	Upper East Side	Nkew Gardens	390
+09	Upper East Side	The Rockaways	32
+09	Upper West Side	Borough Park	167
+09	Upper West Side	Gramercy	31767
+09	Upper West Side	Hamilton Heights	10742
+09	Upper West Side	North Sutton Area	5829
+09	Upper West Side	Yorkville	13233
+09	Utopia	Chinatown	3
+09	Utopia	North Sutton Area	4
+09	Utopia	West Village	8
+09	Washington Heights	Brownsville	1
+09	Washington Heights	Glendale	3
+09	Washington Heights	Nkew Gardens	6
+09	Washington Heights	Union Port	4
+09	Washington Heights	Washington Heights	2626
+09	West Village	Borough Park	192
+09	West Village	Corona	1
+09	West Village	Garment District	21987
+09	West Village	Gravesend-Sheepshead Bay	181
+09	West Village	Mott Haven	83
+09	West Village	Murray Hill	10658
+09	Williams Bridge	Wakefield-Williamsbridge	3
+09	Williamsburg	Clearview	3
+09	Williamsburg	Country Club	1
+09	Williamsburg	Garment District	1094
+09	Williamsburg	Laurelton	3
+09	Williamsburg	Murray Hill	799
+09	Williamsburg	North Sutton Area	165
+09	Williamsburg	Soho	1530
+09	Williamsburg	Soundview	6
+09	Woodhaven-Richmond Hill	Clinton	4
+09	Woodhaven-Richmond Hill	Flushing	2
+09	Woodhaven-Richmond Hill	Middle Village	2
+09	Woodhaven-Richmond Hill	Sunny Side	7
+09	Woodhaven-Richmond Hill	Tribeca	1
+09	Woodlawn-Nordwood	South Bronx	1
+09	Woodside	Auburndale	7
+09	Woodside	Gramercy	299
+09	Woodside	Greenwich Village	75
+09	Woodside	Midtown	836
+09	Woodside	Springfield Gardens	3
+09	Woodside	Upper East Side	848
+09	Yorkville	Bay Ridge	29
+09	Yorkville	Clinton	1799
+09	Yorkville	Douglastown-Little Neck	10
+09	Yorkville	Queensboro Hill	7
+09	Yorkville	Tribeca	322
+10	Astoria-Long Island City	Greenwood	23
+10	Astoria-Long Island City	Little Italy	105
+10	Astoria-Long Island City	Murray Hill	1005
+10	Astoria-Long Island City	Queensboro Hill	74
+10	Astoria-Long Island City	Springfield Gardens	14
+10	Astoria-Long Island City	The Rockaways	3
+10	Astoria-Long Island City	Woodlawn-Nordwood	7
+10	Auburndale	Carnegie Hill	1
+10	Battery Park	Central Park	511
+10	Battery Park	North Sutton Area	415
+10	Battery Park	Soundview	3
+10	Battery Park	Throggs Neck	9
+10	Battery Park	Woodhaven-Richmond Hill	11
+10	Bay Ridge	Central Park	1
+10	Bedford Park	Garment District	2
+10	Bedford Park	Soho	1
+10	Bedford-Stuyvesant	Central Park	7
+10	Bedford-Stuyvesant	Midtown	115
+10	Bedford-Stuyvesant	Morningside Heights	7
+10	Bedford-Stuyvesant	Yorkville	15
+10	Bensonhurst	Canarsie	1
+10	Bensonhurst	Chelsea	4
+10	Bensonhurst	Laurelton	1
+10	Bensonhurst	Mapleton-Flatlands	7
+10	Boerum Hill	Garment District	215
+10	Boerum Hill	Harlem	49
+10	Boerum Hill	Inwood	7
+10	Boerum Hill	Parkchester	1
+10	Boerum Hill	Ridgewood	32
+10	Boerum Hill	The Rockaways	3
+10	Boerum Hill	Tremont	1
+10	Borough Park	Carroll Gardens	46
+10	Borough Park	Cobble Hill	4
+10	Borough Park	Flushing	1
+10	Borough Park	Springfield Gardens	1
+10	Borough Park	Upper West Side	29
+10	Brownsville	Gramercy	2
+10	Bushwick	Fort Green	396
+10	Bushwick	Garment District	30
+10	Canarsie	Financial District	3
+10	Carnegie Hill	Corona	2
+10	Carnegie Hill	Park Slope	115
+10	Carnegie Hill	South Bronx	49
+10	Carroll Gardens	Dyker Heights	45
+10	Central Park	East Harlem	2027
+10	Central Park	Gravesend-Sheepshead Bay	17
+10	Central Park	Queens Village	4
+10	Chelsea	Auburndale	33
+10	Chelsea	Douglastown-Little Neck	46
+10	Chelsea	Mapleton-Flatlands	428
+10	Chelsea	Queensboro Hill	81
+10	Chelsea	University Heights	94
+10	Chinatown	Battery Park	818
+10	Chinatown	Forest Hills	52
+10	Chinatown	Gravesend-Sheepshead Bay	39
+10	Chinatown	Mott Haven	19
+10	Chinatown	Park Slope	538
+10	Chinatown	Williamsburg	1159
+10	Clearview	Jackson Heights	1
+10	Clinton	Bensonhurst	110
+10	Clinton	Chelsea	58242
+10	Clinton	East Harlem	1120
+10	Clinton	Gramercy	28550
+10	Clinton	Gravesend-Sheepshead Bay	231
+10	Clinton	Greenwood	169
+10	Clinton	Hamilton Heights	2166
+10	Clinton	Queens Village	15
+10	Clinton	Springfield Gardens	42
+10	Clinton	Upper East Side	26308
+10	Cobble Hill	Downtown	462
+10	Cobble Hill	Sunset Park	44
+10	Cobble Hill	Woodside	24
+10	Corona	Bushwick	2
+10	Corona	Canarsie	1
+10	Corona	Riverdale	1
+10	Country Club	Chelsea	1
+10	Country Club	Wakefield-Williamsbridge	2
+10	Douglastown-Little Neck	Springfield Gardens	2
+10	Douglastown-Little Neck	Utopia	3
+10	Downtown	Glendale	4
+10	East Brooklyn	Borough Park	1
+10	East Brooklyn	Gramercy	7
+10	East Brooklyn	North Sutton Area	1
+10	East Brooklyn	Sunny Side	4
+10	East Harlem	Auburndale	2
+10	East Harlem	Bushwick	24
+10	East Harlem	Carroll Gardens	9
+10	East Harlem	Clearview	1
+10	East Harlem	Parkchester	46
+10	East Harlem	Sunset Park	10
+10	East Harlem	The Rockaways	2
+10	East Harlem	Upper West Side	3374
+10	East Harlem	Utopia	5
+10	East Village	Country Club	21
+10	East Village	Downtown	1807
+10	East Village	High Bridge	125
+10	East Village	Nkew Gardens	189
+10	East Village	Queens Village	4
+10	Financial District	Dyker Heights	108
+10	Financial District	Morris Park	20
+10	Financial District	Parkchester	81
+10	Financial District	Sunny Side	862
+10	Financial District	Wakefield-Williamsbridge	17
+10	Flatbush	Sunny Side	1
+10	Flushing	Carnegie Hill	3
+10	Flushing	Chinatown	2
+10	Flushing	East Village	11
+10	Flushing	Utopia	21
+10	Fordham	Fordham	54
+10	Fordham	Hamilton Heights	2
+10	Fordham	Morningside Heights	1
+10	Forest Hills	Gravesend-Sheepshead Bay	2
+10	Forest Hills	Murray Hill	116
+10	Forest Hills	North Sutton Area	17
+10	Forest Hills	The Rockaways	1
+10	Fort Green	Central Park	55
+10	Fort Green	Flatbush	4
+10	Fort Green	Glendale	11
+10	Fort Green	Mapleton-Flatlands	184
+10	Fort Green	University Heights	2
+10	Garment District	Auburndale	59
+10	Garment District	Bushwick	712
+10	Garment District	Canarsie	128
+10	Garment District	Carroll Gardens	845
+10	Garment District	Clinton	39490
+10	Garment District	Parkchester	177
+10	Garment District	Sunset Park	244
+10	Garment District	Tribeca	9910
+10	Garment District	Upper West Side	38333
+10	Garment District	Utopia	271
+10	Garment District	Washington Heights	3208
+10	Glendale	Fort Green	1
+10	Glendale	Maspeth	2
+10	Gramercy	Battery Park	9545
+10	Gramercy	Financial District	29624
+10	Gramercy	Forest Hills	1334
+10	Gramercy	Greenwich Village	73119
+10	Gramercy	Middle Village	310
+10	Gramercy	Williamsburg	7566
+10	Gravesend-Sheepshead Bay	Bensonhurst	13
+10	Greenwich Village	Chelsea	71140
+10	Greenwich Village	Downtown	1982
+10	Greenwich Village	Greenwich Village	51908
+10	Greenwich Village	Mott Haven	219
+10	Greenwich Village	Park Slope	3837
+10	Greenwood	Cobble Hill	12
+10	Greenwood	Upper East Side	36
+10	Hamilton Heights	Borough Park	6
+10	Hamilton Heights	Hunts Point	4
+10	Hamilton Heights	Mapleton-Flatlands	8
+10	Hamilton Heights	Queensboro Hill	2
+10	Hamilton Heights	University Heights	17
+10	Hamilton Heights	Woodhaven-Richmond Hill	3
+10	Hamilton Heights	Woodlawn-Nordwood	1
+10	Harlem	Clinton	1272
+10	Harlem	Country Club	11
+10	Harlem	Flushing	16
+10	Harlem	Fort Green	100
+10	Harlem	Morris Heights	55
+10	Harlem	Nkew Gardens	21
+10	Harlem	Tribeca	209
+10	Harlem	Utopia	17
+10	Harlem	Williams Bridge	19
+10	High Bridge	Greenwood	1
+10	High Bridge	Woodlawn-Nordwood	2
+10	Hunts Point	Washington Heights	1
+10	Hunts Point	Williams Bridge	1
+10	Inwood	Morris Park	3
+10	Jackson Heights	Borough Park	9
+10	Jamaica	East Brooklyn	2
+10	Jamaica	East Harlem	10
+10	Jamaica	Greenwich Village	77
+10	Jamaica	Middle Village	1
+10	Jamaica	Park Slope	3
+10	Jamaica	Sunny Side	26
+10	Jamaica	Yorkville	17
+10	Kings Bridge	Wakefield-Williamsbridge	2
+10	Laurelton	Maspeth	1
+10	Laurelton	Upper East Side	3
+10	Little Italy	Bensonhurst	38
+10	Little Italy	Bushwick	502
+10	Little Italy	Canarsie	11
+10	Little Italy	Clearview	2
+10	Little Italy	Clinton	2910
+10	Little Italy	Murray Hill	4619
+10	Little Italy	Tribeca	4255
+10	Little Italy	Upper East Side	6861
+10	Lower East Side	Bensonhurst	130
+10	Lower East Side	Central Park	1255
+10	Lower East Side	East Harlem	867
+10	Lower East Side	Fort Green	6668
+10	Lower East Side	Greenwood	495
+10	Lower East Side	Throggs Neck	31
+10	Mapleton-Flatlands	Financial District	22
+10	Mapleton-Flatlands	Gravesend-Sheepshead Bay	66
+10	Mapleton-Flatlands	Maspeth	1
+10	Mapleton-Flatlands	Morningside Heights	3
+10	Maspeth	Auburndale	3
+10	Maspeth	Glendale	3
+10	Middle Village	Gramercy	5
+10	Middle Village	Woodlawn-Nordwood	1
+10	Midtown	Gravesend-Sheepshead Bay	785
+10	Midtown	Hamilton Heights	5295
+10	Midtown	Morris Park	290
+10	Midtown	Queensboro Hill	295
+10	Morningside Heights	Boerum Hill	36
+10	Morningside Heights	Forest Hills	42
+10	Morningside Heights	Glendale	4
+10	Morningside Heights	Greenwich Village	1138
+10	Morningside Heights	Maspeth	2
+10	Morningside Heights	Williams Bridge	11
+10	Morningside Heights	Williamsburg	118
+10	Morris Park	Williams Bridge	2
+10	Mott Haven	Bedford Park	8
+10	Mott Haven	Bushwick	1
+10	Mott Haven	East Harlem	130
+10	Murray Hill	Battery Park	3726
+10	Murray Hill	Bensonhurst	107
+10	Murray Hill	Clinton	15401
+10	Murray Hill	Dyker Heights	60
+10	Murray Hill	East Harlem	1157
+10	Murray Hill	Forest Hills	734
+10	Murray Hill	Jackson Heights	583
+10	Murray Hill	Lower East Side	9209
+10	Murray Hill	Sunny Side	2641
+10	Murray Hill	Tribeca	5915
+10	Murray Hill	Williamsburg	1882
+10	Nkew Gardens	Clinton	8
+10	Nkew Gardens	Tribeca	5
+10	Nkew Gardens	Washington Heights	4
+10	North Sutton Area	Bay Ridge	82
+10	North Sutton Area	Chelsea	4966
+10	North Sutton Area	Downtown	230
+10	North Sutton Area	Forest Hills	274
+10	North Sutton Area	Hunts Point	3
+10	North Sutton Area	Mott Haven	80
+10	North Sutton Area	Park Slope	360
+10	North Sutton Area	Queensboro Hill	13
+10	North Sutton Area	Woodside	200
+10	Park Slope	Battery Park	80
+10	Park Slope	Canarsie	42
+10	Park Slope	East Village	462
+10	Park Slope	Williamsburg	1007
+10	Parkchester	Bedford Park	3
+10	Parkchester	Union Port	6
+10	Parkchester	Williams Bridge	6
+10	Queens Village	Clinton	3
+10	Queens Village	Nkew Gardens	3
+10	Queens Village	Saintalbans	3
+10	Queensboro Hill	East Village	1
+10	Queensboro Hill	Lower East Side	1
+10	Ridgewood	Gramercy	5
+10	Ridgewood	Jamaica	3
+10	Riverdale	Hamilton Heights	1
+10	Soho	Greenwich Village	25336
+10	Soho	Springfield Gardens	15
+10	Soundview	Clinton	2
+10	Soundview	Morningside Heights	1
+10	Soundview	Mott Haven	2
+10	South Bronx	Carnegie Hill	1
+10	South Bronx	South Bronx	199
+10	South Bronx	Woodlawn-Nordwood	1
+10	Springfield Gardens	Astoria-Long Island City	1
+10	Springfield Gardens	Clinton	7
+10	Sunny Side	Clinton	623
+10	Sunny Side	Flushing	120
+10	Sunny Side	Morris Park	9
+10	Sunny Side	Tribeca	237
+10	Sunny Side	Washington Heights	151
+10	Sunset Park	Bedford-Stuyvesant	20
+10	The Rockaways	Morningside Heights	1
+10	Throggs Neck	Bedford Park	1
+10	Tremont	Morris Heights	3
+10	Tremont	Union Port	1
+10	Tribeca	Corona	3
+10	Tribeca	Flushing	36
+10	Tribeca	Jamaica	35
+10	Tribeca	Kings Bridge	37
+10	Tribeca	Morris Park	29
+10	Tribeca	Soho	15326
+10	Tribeca	Upper East Side	10630
+10	Tribeca	West Village	17015
+10	Tribeca	Woodlawn-Nordwood	6
+10	Union Port	Fordham	3
+10	Union Port	Greenwich Village	1
+10	Union Port	Morris Park	1
+10	Union Port	Parkchester	5
+10	Union Port	Williams Bridge	1
+10	University Heights	Bedford Park	7
+10	Upper East Side	Chelsea	47106
+10	Upper East Side	Little Italy	4391
+10	Upper East Side	Mott Haven	1818
+10	Upper East Side	Queensboro Hill	114
+10	Upper West Side	Astoria-Long Island City	3681
+10	Upper West Side	Clinton	45622
+10	Upper West Side	East Brooklyn	13
+10	Upper West Side	Queens Village	18
+10	Upper West Side	Tribeca	6925
+10	Upper West Side	Union Port	61
+10	Wakefield-Williamsbridge	Upper West Side	1
+10	Washington Heights	Bensonhurst	2
+10	Washington Heights	Midtown	1258
+10	Washington Heights	Murray Hill	124
+10	Washington Heights	Utopia	3
+10	West Village	High Bridge	53
+10	West Village	Upper East Side	17257
+10	Williams Bridge	Morris Park	3
+10	Williamsburg	Bushwick	5364
+10	Williamsburg	Central Park	155
+10	Williamsburg	Clearview	4
+10	Williamsburg	High Bridge	14
+10	Williamsburg	Laurelton	2
+10	Williamsburg	Lower East Side	5780
+10	Williamsburg	Throggs Neck	3
+10	Williamsburg	Woodlawn-Nordwood	3
+10	Woodhaven-Richmond Hill	Bay Ridge	1
+10	Woodhaven-Richmond Hill	Canarsie	2
+10	Woodhaven-Richmond Hill	Carnegie Hill	1
+10	Woodhaven-Richmond Hill	Forest Hills	16
+10	Woodhaven-Richmond Hill	Lower East Side	1
+10	Woodlawn-Nordwood	Mott Haven	1
+10	Woodside	Battery Park	44
+10	Woodside	Bushwick	31
+10	Woodside	Dyker Heights	1
+10	Woodside	Forest Hills	102
+10	Woodside	Murray Hill	195
+10	Woodside	Soho	55
+10	Woodside	Williamsburg	106
+10	Yorkville	Carnegie Hill	3938
+10	Yorkville	Harlem	4240
+10	Yorkville	Inwood	118
+10	Yorkville	North Sutton Area	858
+10	Yorkville	Tremont	68
+11	Astoria-Long Island City	Baychester	1
+11	Astoria-Long Island City	Clearview	21
+11	Astoria-Long Island City	East Harlem	275
+11	Astoria-Long Island City	Fordham	16
+11	Astoria-Long Island City	Jamaica	116
+11	Astoria-Long Island City	Laurelton	7
+11	Astoria-Long Island City	Soundview	31
+11	Astoria-Long Island City	Utopia	124
+11	Astoria-Long Island City	Williams Bridge	12
+11	Auburndale	Forest Hills	3
+11	Auburndale	Midtown	1
+11	Battery Park	Brownsville	11
+11	Battery Park	Sunny Side	165
+11	Battery Park	Wakefield-Williamsbridge	3
+11	Battery Park	Williams Bridge	6
+11	Bay Ridge	Boerum Hill	10
+11	Bay Ridge	Garment District	2
+11	Bedford Park	Harlem	1
+11	Bedford Park	High Bridge	6
+11	Bedford Park	Inwood	3
+11	Bedford Park	Morningside Heights	1
+11	Bedford Park	Mott Haven	4
+11	Bedford Park	Riverdale	5
+11	Bedford-Stuyvesant	Battery Park	12
+11	Bedford-Stuyvesant	East Village	190
+11	Bedford-Stuyvesant	Fort Green	1017
+11	Bedford-Stuyvesant	Hamilton Heights	12
+11	Bedford-Stuyvesant	Jackson Heights	27
+11	Bedford-Stuyvesant	Laurelton	4
+11	Bedford-Stuyvesant	Lower East Side	237
+11	Bedford-Stuyvesant	Queens Village	2
+11	Bedford-Stuyvesant	Williamsburg	1014
+11	Bensonhurst	Greenwich Village	1
+11	Bensonhurst	Nkew Gardens	1
+11	Boerum Hill	Carroll Gardens	1169
+11	Boerum Hill	Financial District	291
+11	Boerum Hill	Upper West Side	225
+11	Borough Park	Boerum Hill	34
+11	Borough Park	Bushwick	11
+11	Borough Park	Canarsie	2
+11	Brownsville	Bay Ridge	1
+11	Brownsville	Jamaica	1
+11	Brownsville	Mapleton-Flatlands	4
+11	Bushwick	Central Park	8
+11	Bushwick	Downtown	38
+11	Bushwick	Mapleton-Flatlands	14
+11	Bushwick	South Bronx	4
+11	Canarsie	Battery Park	2
+11	Canarsie	East Village	1
+11	Carnegie Hill	Astoria-Long Island City	263
+11	Carnegie Hill	Bedford Park	23
+11	Carnegie Hill	Carnegie Hill	6172
+11	Carnegie Hill	East Brooklyn	6
+11	Carnegie Hill	Harlem	2194
+11	Carnegie Hill	Inwood	64
+11	Carnegie Hill	Mott Haven	64
+11	Carroll Gardens	Battery Park	307
+11	Carroll Gardens	East Village	637
+11	Carroll Gardens	Hamilton Heights	21
+11	Carroll Gardens	North Sutton Area	55
+11	Carroll Gardens	Riverdale	3
+11	Central Park	Maspeth	36
+11	Central Park	Mott Haven	111
+11	Central Park	Soho	1241
+11	Central Park	South Bronx	63
+11	Central Park	Yorkville	3001
+11	Chelsea	Clearview	34
+11	Chelsea	Laurelton	16
+11	Chelsea	Soundview	90
+11	Chinatown	Brownsville	13
+11	Chinatown	Downtown	451
+11	Chinatown	Garment District	2670
+11	Chinatown	Little Italy	773
+11	Chinatown	North Sutton Area	162
+11	Chinatown	Riverdale	6
+11	Chinatown	Sunny Side	164
+11	Chinatown	Wakefield-Williamsbridge	2
+11	Chinatown	Woodside	34
+11	Clearview	Clearview	3
+11	Clearview	Maspeth	1
+11	Clinton	Borough Park	180
+11	Clinton	Dyker Heights	76
+11	Clinton	University Heights	90
+11	Cobble Hill	Gravesend-Sheepshead Bay	15
+11	Cobble Hill	Upper East Side	243
+11	Corona	Clinton	11
+11	Corona	Fort Green	6
+11	Corona	Soho	3
+11	Corona	Yorkville	6
+11	Country Club	Country Club	13
+11	Douglastown-Little Neck	Midtown	5
+11	Downtown	Astoria-Long Island City	172
+11	Downtown	Brownsville	61
+11	Downtown	Hamilton Heights	34
+11	Downtown	Jamaica	14
+11	Downtown	Mott Haven	19
+11	Downtown	Queensboro Hill	5
+11	Downtown	Ridgewood	52
+11	Dyker Heights	Mapleton-Flatlands	2
+11	Dyker Heights	North Sutton Area	2
+11	East Brooklyn	Forest Hills	1
+11	East Brooklyn	Glendale	1
+11	East Brooklyn	Park Slope	1
+11	East Harlem	Canarsie	1
+11	East Harlem	Gravesend-Sheepshead Bay	10
+11	East Harlem	Hunts Point	40
+11	East Harlem	Morris Heights	62
+11	East Harlem	Soho	163
+11	East Village	Bedford Park	71
+11	East Village	Clearview	22
+11	East Village	Spuyten Duyvil	41
+11	East Village	Upper East Side	32054
+11	East Village	Washington Heights	1631
+11	East Village	Yorkville	2653
+11	Financial District	Little Italy	4199
+11	Financial District	Maspeth	51
+11	Financial District	Williams Bridge	10
+11	Financial District	Woodlawn-Nordwood	16
+11	Flatbush	Greenwich Village	2
+11	Flatbush	Soho	1
+11	Flushing	Battery Park	8
+11	Flushing	Forest Hills	13
+11	Flushing	Saintalbans	1
+11	Flushing	Springfield Gardens	2
+11	Flushing	Williamsburg	11
+11	Fordham	Morris Park	4
+11	Forest Hills	Battery Park	14
+11	Forest Hills	Bensonhurst	1
+11	Forest Hills	Clearview	3
+11	Forest Hills	East Harlem	9
+11	Forest Hills	Forest Hills	1287
+11	Forest Hills	Harlem	16
+11	Forest Hills	Inwood	2
+11	Forest Hills	Middle Village	89
+11	Forest Hills	Sunny Side	189
+11	Forest Hills	Tremont	4
+11	Forest Hills	Williamsburg	21
+11	Fort Green	Bedford Park	6
+11	Fort Green	Sunny Side	277
+11	Fort Green	Wakefield-Williamsbridge	2
+11	Garment District	Baychester	24
+11	Garment District	Cobble Hill	357
+11	Garment District	Douglastown-Little Neck	67
+11	Garment District	Financial District	15602
+11	Garment District	Fort Green	2833
+11	Glendale	Woodhaven-Richmond Hill	13
+11	Gramercy	Bedford Park	150
+11	Gramercy	Clinton	25971
+11	Gramercy	Flatbush	3
+11	Gramercy	Glendale	97
+11	Gramercy	Greenwood	426
+11	Gravesend-Sheepshead Bay	Garment District	5
+11	Gravesend-Sheepshead Bay	Harlem	1
+11	Greenwich Village	Country Club	20
+11	Greenwich Village	Nkew Gardens	215
+11	Greenwich Village	Spuyten Duyvil	85
+11	Greenwich Village	The Rockaways	22
+11	Greenwood	Boerum Hill	130
+11	Greenwood	Carroll Gardens	129
+11	Greenwood	Chinatown	8
+11	Greenwood	Upper West Side	15
+11	Hamilton Heights	Baychester	2
+11	Hamilton Heights	Clearview	1
+11	Hamilton Heights	Glendale	2
+11	Hamilton Heights	Laurelton	1
+11	Hamilton Heights	Soundview	30
+11	Harlem	City Island	2
+11	Harlem	Clearview	3
+11	Harlem	Harlem	10829
+11	Harlem	Inwood	156
+11	Harlem	Laurelton	1
+11	Harlem	Little Italy	70
+11	Harlem	Mapleton-Flatlands	12
+11	Harlem	Midtown	4251
+11	Harlem	Soundview	65
+11	Harlem	Woodhaven-Richmond Hill	8
+11	High Bridge	Murray Hill	6
+11	High Bridge	Union Port	3
+11	Hunts Point	Murray Hill	1
+11	Hunts Point	Riverdale	1
+11	Hunts Point	Upper West Side	3
+11	Inwood	Hunts Point	2
+11	Inwood	Morningside Heights	17
+11	Inwood	Mott Haven	2
+11	Jackson Heights	Fort Green	64
+11	Jackson Heights	Hunts Point	10
+11	Jackson Heights	Midtown	612
+11	Jackson Heights	Queensboro Hill	32
+11	Jamaica	Carnegie Hill	18
+11	Jamaica	Flushing	7
+11	Jamaica	Fort Green	4
+11	Jamaica	Gravesend-Sheepshead Bay	3
+11	Jamaica	Harlem	30
+11	Jamaica	Inwood	6
+11	Jamaica	Morris Heights	1
+11	Kings Bridge	Central Park	3
+11	Kings Bridge	Midtown	5
+11	Kings Bridge	Morris Park	1
+11	Kings Bridge	Yorkville	4
+11	Laurelton	Upper West Side	4
+11	Little Italy	East Harlem	197
+11	Lower East Side	Greenwich Village	21736
+11	Lower East Side	Middle Village	106
+11	Lower East Side	Mott Haven	184
+11	Lower East Side	Soundview	28
+11	Lower East Side	South Bronx	135
+11	Lower East Side	Tremont	43
+11	Mapleton-Flatlands	Murray Hill	10
+11	Maspeth	North Sutton Area	4
+11	Middle Village	Bay Ridge	1
+11	Middle Village	Chelsea	4
+11	Middle Village	Murray Hill	2
+11	Middle Village	Upper West Side	4
+11	Middle Village	Utopia	4
+11	Midtown	Mott Haven	874
+11	Midtown	Soundview	298
+11	Morningside Heights	Bay Ridge	9
+11	Morningside Heights	Downtown	36
+11	Morningside Heights	Dyker Heights	3
+11	Morningside Heights	Fort Green	97
+11	Morningside Heights	Kings Bridge	46
+11	Morningside Heights	North Sutton Area	270
+11	Morningside Heights	Riverdale	90
+11	Morningside Heights	West Village	601
+11	Morningside Heights	Woodside	17
+11	Morris Heights	Central Park	1
+11	Morris Heights	Clinton	2
+11	Morris Heights	Hunts Point	1
+11	Morris Park	Harlem	3
+11	Morris Park	University Heights	2
+11	Mott Haven	Bay Ridge	1
+11	Mott Haven	Hamilton Heights	55
+11	Mott Haven	Midtown	76
+11	Mott Haven	The Rockaways	1
+11	Murray Hill	Bedford Park	47
+11	Murray Hill	Bushwick	306
+11	Murray Hill	Carnegie Hill	3088
+11	Murray Hill	Chinatown	1123
+11	Nkew Gardens	Carroll Gardens	1
+11	Nkew Gardens	East Brooklyn	4
+11	Nkew Gardens	Saintalbans	3
+11	Nkew Gardens	Upper West Side	35
+11	Nkew Gardens	Woodhaven-Richmond Hill	46
+11	North Sutton Area	Boerum Hill	107
+11	North Sutton Area	Country Club	5
+11	North Sutton Area	Harlem	516
+11	North Sutton Area	Inwood	43
+11	North Sutton Area	Nkew Gardens	61
+11	North Sutton Area	Queens Village	2
+11	North Sutton Area	Saintalbans	2
+11	North Sutton Area	Williams Bridge	10
+11	Park Slope	Country Club	2
+11	Park Slope	Nkew Gardens	7
+11	Park Slope	Queensboro Hill	3
+11	Parkchester	Murray Hill	5
+11	Parkchester	Upper West Side	4
+11	Queensboro Hill	Forest Hills	3
+11	Ridgewood	Clinton	3
+11	Ridgewood	Forest Hills	11
+11	Ridgewood	Sunset Park	1
+11	Ridgewood	Williamsburg	64
+11	Riverdale	Fordham	4
+11	Saintalbans	Jackson Heights	1
+11	Soho	Borough Park	235
+11	Soho	Clearview	6
+11	Soho	Gravesend-Sheepshead Bay	142
+11	Soho	Laurelton	4
+11	Soho	Nkew Gardens	77
+11	Soho	Parkchester	27
+11	Soho	Spuyten Duyvil	23
+11	Soho	Sunny Side	845
+11	Soho	Sunset Park	206
+11	Soho	Woodhaven-Richmond Hill	36
+11	Soundview	Morris Park	1
+11	Soundview	Parkchester	14
+11	Soundview	Tremont	3
+11	South Bronx	Fordham	10
+11	South Bronx	Lower East Side	6
+11	South Bronx	Parkchester	11
+11	Springfield Gardens	Fort Green	2
+11	Springfield Gardens	Springfield Gardens	50
+11	Sunny Side	Borough Park	28
+11	Sunny Side	Murray Hill	1106
+11	Sunset Park	Gravesend-Sheepshead Bay	27
+11	Sunset Park	Mott Haven	1
+11	Sunset Park	Upper East Side	4
+11	The Rockaways	Garment District	1
+11	Throggs Neck	Soundview	3
+11	Tremont	Kings Bridge	1
+11	Tribeca	Clearview	8
+11	Tribeca	Laurelton	5
+11	Tribeca	Spuyten Duyvil	32
+11	Union Port	Carnegie Hill	1
+11	Union Port	Murray Hill	1
+11	University Heights	Morris Park	1
+11	University Heights	Parkchester	2
+11	Upper East Side	City Island	9
+11	Upper East Side	Flatbush	4
+11	Upper East Side	Glendale	91
+11	Upper East Side	Morris Heights	216
+11	Upper East Side	Riverdale	463
+11	Upper East Side	Soho	15291
+11	Upper East Side	University Heights	227
+11	Upper East Side	Woodhaven-Richmond Hill	187
+11	Upper West Side	Corona	5
+11	Upper West Side	Greenwood	135
+11	Upper West Side	Morris Heights	207
+11	Upper West Side	The Rockaways	15
+11	Upper West Side	University Heights	205
+11	Utopia	Douglastown-Little Neck	8
+11	Utopia	Fort Green	5
+11	Utopia	Middle Village	4
+11	Utopia	Murray Hill	25
+11	Wakefield-Williamsbridge	Baychester	1
+11	Wakefield-Williamsbridge	Clinton	1
+11	Wakefield-Williamsbridge	Garment District	1
+11	Washington Heights	Ridgewood	2
+11	Washington Heights	Washington Heights	2885
+11	West Village	Clearview	16
+11	West Village	Financial District	11726
+11	West Village	Gravesend-Sheepshead Bay	180
+11	West Village	Hamilton Heights	874
+11	West Village	Laurelton	2
+11	West Village	Middle Village	43
+11	West Village	Soundview	29
+11	Williams Bridge	Mott Haven	1
+11	Williamsburg	Hamilton Heights	99
+11	Williamsburg	Harlem	294
+11	Williamsburg	Inwood	19
+11	Williamsburg	Little Italy	1214
+11	Woodhaven-Richmond Hill	Tremont	1
+11	Woodhaven-Richmond Hill	Washington Heights	1
+11	Woodhaven-Richmond Hill	Woodhaven-Richmond Hill	189
+11	Woodlawn-Nordwood	Fordham	1
+11	Woodlawn-Nordwood	Kings Bridge	3
+11	Woodlawn-Nordwood	Riverdale	2
+11	Woodside	Bedford Park	6
+11	Woodside	Bedford-Stuyvesant	18
+11	Woodside	Brownsville	2
+11	Woodside	Midtown	887
+11	Woodside	Sunny Side	1260
+11	Woodside	The Rockaways	2
+11	Woodside	Woodlawn-Nordwood	4
+11	Yorkville	Borough Park	26
+11	Yorkville	Financial District	699
+11	Yorkville	Greenwood	3
+11	Yorkville	Mott Haven	462
+11	Yorkville	Park Slope	92
+12	Astoria-Long Island City	Auburndale	42
+12	Astoria-Long Island City	Bedford Park	32
+12	Astoria-Long Island City	East Brooklyn	34
+12	Astoria-Long Island City	Gramercy	1833
+12	Astoria-Long Island City	Mapleton-Flatlands	18
+12	Astoria-Long Island City	Ridgewood	213
+12	Astoria-Long Island City	South Bronx	103
+12	Auburndale	Nkew Gardens	1
+12	Battery Park	Auburndale	5
+12	Battery Park	Carroll Gardens	219
+12	Battery Park	Chinatown	932
+12	Battery Park	Gravesend-Sheepshead Bay	61
+12	Battery Park	Upper West Side	2861
+12	Bay Ridge	Battery Park	5
+12	Bay Ridge	Bay Ridge	256
+12	Bay Ridge	Bushwick	2
+12	Bay Ridge	Canarsie	4
+12	Bay Ridge	Greenwich Village	7
+12	Bay Ridge	Williamsburg	14
+12	Bedford Park	Country Club	1
+12	Bedford Park	Morris Park	5
+12	Bedford Park	Tremont	7
+12	Bedford-Stuyvesant	Bedford-Stuyvesant	2117
+12	Bedford-Stuyvesant	Boerum Hill	112
+12	Bedford-Stuyvesant	Saintalbans	5
+12	Bedford-Stuyvesant	Tremont	3
+12	Bedford-Stuyvesant	Upper East Side	81
+12	Bensonhurst	Borough Park	10
+12	Bensonhurst	Cobble Hill	1
+12	Bensonhurst	Financial District	5
+12	Bensonhurst	Gramercy	3
+12	Boerum Hill	Clearview	1
+12	Boerum Hill	Laurelton	1
+12	Boerum Hill	Midtown	604
+12	Boerum Hill	Murray Hill	182
+12	Boerum Hill	West Village	191
+12	Boerum Hill	Yorkville	33
+12	Borough Park	Park Slope	136
+12	Brownsville	Brownsville	57
+12	Brownsville	Gravesend-Sheepshead Bay	5
+12	Brownsville	North Sutton Area	1
+12	Bushwick	Chelsea	42
+12	Canarsie	Brownsville	6
+12	Canarsie	Gramercy	1
+12	Canarsie	The Rockaways	1
+12	Canarsie	Upper East Side	3
+12	Carnegie Hill	Bay Ridge	11
+12	Carnegie Hill	Central Park	5996
+12	Carnegie Hill	Hunts Point	3
+12	Carnegie Hill	Morris Heights	32
+12	Carnegie Hill	Riverdale	47
+12	Carnegie Hill	Throggs Neck	3
+12	Carnegie Hill	Tremont	16
+12	Carroll Gardens	Auburndale	2
+12	Carroll Gardens	Bensonhurst	21
+12	Carroll Gardens	Carroll Gardens	1827
+12	Carroll Gardens	East Harlem	13
+12	Carroll Gardens	Forest Hills	21
+12	Carroll Gardens	Maspeth	10
+12	Carroll Gardens	Upper West Side	262
+12	Carroll Gardens	Williamsburg	1018
+12	Central Park	Chelsea	4144
+12	Central Park	Fort Green	190
+12	Central Park	Greenwich Village	2101
+12	Central Park	Nkew Gardens	24
+12	Central Park	University Heights	13
+12	Chelsea	Flushing	169
+12	Chelsea	Garment District	64593
+12	Chelsea	Little Italy	7590
+12	Chelsea	Morris Park	112
+12	Chelsea	Park Slope	3379
+12	Chelsea	Williams Bridge	59
+12	Chinatown	Bensonhurst	39
+12	Chinatown	Chelsea	2722
+12	Chinatown	Clearview	3
+12	Chinatown	Flushing	22
+12	Chinatown	Hamilton Heights	81
+12	Chinatown	Murray Hill	1523
+12	Chinatown	Utopia	17
+12	Clearview	Upper West Side	1
+12	Clinton	Bedford-Stuyvesant	1001
+12	Clinton	Chelsea	49236
+12	Clinton	Gravesend-Sheepshead Bay	236
+12	Clinton	Nkew Gardens	182
+12	Clinton	North Sutton Area	1639
+12	Cobble Hill	Bensonhurst	10
+12	Cobble Hill	Garment District	233
+12	Cobble Hill	Mapleton-Flatlands	28
+12	Cobble Hill	Murray Hill	226
+12	Cobble Hill	Nkew Gardens	4
+12	Cobble Hill	Sunny Side	26
+12	Cobble Hill	Yorkville	26
+12	Corona	Battery Park	3
+12	Corona	Bedford-Stuyvesant	5
+12	Corona	Canarsie	1
+12	Corona	Chinatown	1
+12	Corona	East Village	6
+12	Corona	Midtown	107
+12	Corona	Sunset Park	2
+12	Corona	Williamsburg	3
+12	Country Club	Bedford Park	3
+12	Country Club	Hunts Point	1
+12	Country Club	Upper East Side	4
+12	Douglastown-Little Neck	Bay Ridge	1
+12	Douglastown-Little Neck	Queens Village	5
+12	Douglastown-Little Neck	Queensboro Hill	2
+12	Downtown	Fort Green	3653
+12	Downtown	Jackson Heights	72
+12	Downtown	Nkew Gardens	41
+12	Downtown	Tremont	9
+12	Dyker Heights	Boerum Hill	6
+12	Dyker Heights	Williamsburg	4
+12	East Brooklyn	High Bridge	1
+12	East Brooklyn	Morris Heights	1
+12	East Brooklyn	Woodhaven-Richmond Hill	9
+12	East Harlem	Bensonhurst	5
+12	East Harlem	East Harlem	4251
+12	East Harlem	East Village	423
+12	East Harlem	Flushing	18
+12	East Harlem	Hamilton Heights	663
+12	East Harlem	Queens Village	2
+12	East Village	Morris Park	95
+12	East Village	Parkchester	78
+12	East Village	The Rockaways	24
+12	Financial District	Dyker Heights	133
+12	Financial District	Harlem	860
+12	Financial District	Inwood	108
+12	Financial District	Queens Village	15
+12	Flatbush	Bedford-Stuyvesant	3
+12	Flatbush	Central Park	1
+12	Flushing	Flushing	1606
+12	Flushing	Utopia	14
+12	Fordham	Country Club	3
+12	Fordham	Fordham	49
+12	Fordham	Williams Bridge	6
+12	Forest Hills	Auburndale	17
+12	Forest Hills	Carroll Gardens	2
+12	Forest Hills	Central Park	7
+12	Fort Green	Morris Park	4
+12	Fort Green	Mott Haven	24
+12	Fort Green	Parkchester	5
+12	Fort Green	The Rockaways	7
+12	Fort Green	Upper East Side	691
+12	Fort Green	Washington Heights	72
+12	Garment District	Boerum Hill	627
+12	Garment District	Carroll Gardens	797
+12	Garment District	Downtown	1211
+12	Garment District	Kings Bridge	128
+12	Garment District	Saintalbans	37
+12	Garment District	Tremont	209
+12	Garment District	Upper West Side	35920
+12	Garment District	West Village	13015
+12	Garment District	Woodside	829
+12	Gramercy	Bay Ridge	811
+12	Gramercy	Baychester	23
+12	Gramercy	Bedford-Stuyvesant	2578
+12	Gramercy	Gravesend-Sheepshead Bay	486
+12	Gramercy	Hunts Point	46
+12	Gramercy	Morris Heights	80
+12	Gravesend-Sheepshead Bay	East Village	4
+12	Gravesend-Sheepshead Bay	Fort Green	5
+12	Greenwich Village	Canarsie	107
+12	Greenwich Village	East Brooklyn	115
+12	Greenwich Village	Flushing	107
+12	Greenwich Village	Kings Bridge	94
+12	Greenwich Village	Queensboro Hill	38
+12	Greenwich Village	Sunset Park	460
+12	Greenwich Village	Union Port	43
+12	Greenwich Village	West Village	31144
+12	Greenwood	Borough Park	48
+12	Greenwood	Mott Haven	1
+12	Greenwood	Nkew Gardens	1
+12	Greenwood	Park Slope	211
+12	Hamilton Heights	Battery Park	48
+12	Hamilton Heights	Brownsville	2
+12	Hamilton Heights	East Village	164
+12	Hamilton Heights	Middle Village	3
+12	Hamilton Heights	Queensboro Hill	2
+12	Hamilton Heights	Riverdale	24
+12	Hamilton Heights	Wakefield-Williamsbridge	17
+12	Hamilton Heights	Williamsburg	39
+12	Harlem	Flushing	18
+12	Harlem	Greenwood	11
+12	Harlem	North Sutton Area	191
+12	Harlem	Wakefield-Williamsbridge	33
+12	High Bridge	Downtown	13
+12	High Bridge	Greenwich Village	3
+12	High Bridge	High Bridge	187
+12	High Bridge	Soho	9
+12	High Bridge	Woodside	2
+12	Hunts Point	High Bridge	3
+12	Hunts Point	Tremont	1
+12	Inwood	Hamilton Heights	37
+12	Inwood	South Bronx	8
+12	Inwood	Union Port	1
+12	Inwood	Washington Heights	279
+12	Jackson Heights	Carnegie Hill	25
+12	Jackson Heights	Mott Haven	45
+12	Jackson Heights	Riverdale	5
+12	Jackson Heights	Soho	31
+12	Jamaica	Garment District	120
+12	Jamaica	Little Italy	17
+12	Jamaica	Queensboro Hill	3
+12	Jamaica	Utopia	33
+12	Jamaica	Washington Heights	20
+12	Little Italy	Chinatown	793
+12	Little Italy	Douglastown-Little Neck	6
+12	Little Italy	Fordham	10
+12	Little Italy	Kings Bridge	8
+12	Little Italy	Queens Village	4
+12	Little Italy	South Bronx	24
+12	Little Italy	West Village	6925
+12	Lower East Side	Astoria-Long Island City	2482
+12	Lower East Side	Bedford-Stuyvesant	4239
+12	Lower East Side	Carroll Gardens	1441
+12	Lower East Side	Upper West Side	7601
+12	Mapleton-Flatlands	Bushwick	5
+12	Mapleton-Flatlands	Canarsie	21
+12	Mapleton-Flatlands	Chinatown	4
+12	Mapleton-Flatlands	Garment District	10
+12	Mapleton-Flatlands	Mapleton-Flatlands	647
+12	Maspeth	Bushwick	13
+12	Maspeth	Park Slope	2
+12	Midtown	Borough Park	732
+12	Midtown	Chinatown	4746
+12	Midtown	Flushing	673
+12	Midtown	Gravesend-Sheepshead Bay	881
+12	Midtown	Williams Bridge	146
+12	Morningside Heights	Forest Hills	28
+12	Morningside Heights	Hamilton Heights	2788
+12	Morningside Heights	Washington Heights	2273
+12	Morningside Heights	Williamsburg	73
+12	Morningside Heights	Woodhaven-Richmond Hill	4
+12	Morris Heights	Morris Park	3
+12	Morris Heights	Parkchester	3
+12	Morris Heights	The Rockaways	1
+12	Morris Park	Union Port	2
+12	Mott Haven	Clinton	21
+12	Mott Haven	Downtown	2
+12	Mott Haven	Greenwich Village	18
+12	Mott Haven	Mapleton-Flatlands	1
+12	Mott Haven	Sunny Side	16
+12	Mott Haven	Tribeca	7
+12	Mott Haven	Woodside	10
+12	Murray Hill	Canarsie	57
+12	Murray Hill	Greenwood	139
+12	Nkew Gardens	Battery Park	4
+12	Nkew Gardens	Downtown	3
+12	Nkew Gardens	East Village	14
+12	Nkew Gardens	Forest Hills	180
+12	Nkew Gardens	Jamaica	64
+12	Nkew Gardens	Park Slope	3
+12	Nkew Gardens	Williamsburg	6
+12	North Sutton Area	Bushwick	87
+12	North Sutton Area	Canarsie	15
+12	North Sutton Area	Corona	1
+12	North Sutton Area	Gravesend-Sheepshead Bay	69
+12	North Sutton Area	Kings Bridge	31
+12	North Sutton Area	Morris Park	22
+12	Park Slope	Downtown	487
+12	Park Slope	Little Italy	79
+12	Park Slope	University Heights	2
+12	Park Slope	West Village	160
+12	Park Slope	Woodside	28
+12	Parkchester	Baychester	4
+12	Parkchester	Chelsea	3
+12	Parkchester	Country Club	5
+12	Parkchester	High Bridge	3
+12	Queens Village	Douglastown-Little Neck	5
+12	Queens Village	Laurelton	3
+12	Queens Village	Lower East Side	5
+12	Queens Village	Murray Hill	2
+12	Ridgewood	Cobble Hill	1
+12	Ridgewood	Downtown	1
+12	Ridgewood	Little Italy	2
+12	Ridgewood	Tremont	1
+12	Ridgewood	Utopia	2
+12	Ridgewood	Woodside	2
+12	Riverdale	East Harlem	1
+12	Saintalbans	Springfield Gardens	1
+12	Soho	Astoria-Long Island City	1043
+12	Soho	Bay Ridge	298
+12	Soho	Clinton	6715
+12	Soho	Harlem	1051
+12	Soho	Inwood	135
+12	Soho	Tribeca	13599
+12	Soundview	Astoria-Long Island City	1
+12	Soundview	Country Club	3
+12	Soundview	Financial District	1
+12	Soundview	Nkew Gardens	1
+12	Soundview	Williams Bridge	2
+12	South Bronx	Hunts Point	16
+12	South Bronx	Morris Heights	22
+12	Springfield Gardens	Boerum Hill	1
+12	Springfield Gardens	Saintalbans	4
+12	Sunny Side	Boerum Hill	56
+12	Sunny Side	Glendale	43
+12	Sunny Side	Saintalbans	9
+12	Sunny Side	The Rockaways	5
+12	Sunset Park	Chinatown	1
+12	Sunset Park	Cobble Hill	1
+12	Throggs Neck	Morris Heights	2
+12	Tribeca	Greenwich Village	16887
+12	Tribeca	Jamaica	41
+12	Union Port	Country Club	2
+12	Union Port	Midtown	6
+12	University Heights	Morningside Heights	1
+12	Upper East Side	Douglastown-Little Neck	88
+12	Upper East Side	Downtown	1434
+12	Upper East Side	Morris Park	354
+12	Upper East Side	Parkchester	422
+12	Upper East Side	Woodside	1886
+12	Upper West Side	East Harlem	9989
+12	Upper West Side	Gravesend-Sheepshead Bay	132
+12	Upper West Side	North Sutton Area	6654
+12	Upper West Side	Queensboro Hill	38
+12	Upper West Side	Utopia	119
+12	Utopia	Clinton	19
+12	Utopia	Jackson Heights	9
+12	Utopia	Lower East Side	9
+12	Utopia	Tribeca	8
+12	Wakefield-Williamsbridge	South Bronx	3
+12	Washington Heights	Kings Bridge	80
+12	Washington Heights	Little Italy	25
+12	Washington Heights	Morningside Heights	727
+12	Washington Heights	Morris Heights	94
+12	Washington Heights	Sunset Park	2
+12	Washington Heights	West Village	130
+12	Washington Heights	Woodhaven-Richmond Hill	3
+12	Washington Heights	Woodlawn-Nordwood	7
+12	West Village	Bedford-Stuyvesant	1204
+12	West Village	East Brooklyn	30
+12	West Village	Harlem	1610
+12	West Village	Inwood	178
+12	West Village	Morris Park	22
+12	West Village	Mott Haven	86
+12	Williams Bridge	Tremont	2
+12	Williams Bridge	University Heights	1
+12	Williams Bridge	Wakefield-Williamsbridge	5
+12	Williamsburg	Astoria-Long Island City	834
+12	Williamsburg	Financial District	1172
+12	Williamsburg	Morris Park	4
+12	Woodhaven-Richmond Hill	Bedford-Stuyvesant	4
+12	Woodhaven-Richmond Hill	Riverdale	1
+12	Woodhaven-Richmond Hill	Washington Heights	1
+12	Woodlawn-Nordwood	Union Port	1
+12	Woodside	Chinatown	7
+12	Yorkville	Glendale	6
+12	Yorkville	Sunny Side	259

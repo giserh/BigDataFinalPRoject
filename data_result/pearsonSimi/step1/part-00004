@@ -1,0 +1,963 @@
+Friday_00|Auburndale	7
+Friday_00|Bushwick	1075
+Friday_00|Chinatown	5922
+Friday_00|The Rockaways	10
+Friday_01|Clearview	2
+Friday_01|Gravesend-Sheepshead Bay	51
+Friday_01|Laurelton	3
+Friday_01|Morris Park	10
+Friday_02|Boerum Hill	1399
+Friday_02|Ridgewood	69
+Friday_02|Saintalbans	1
+Friday_02|Spuyten Duyvil	1
+Friday_03|Bay Ridge	49
+Friday_03|Hunts Point	5
+Friday_03|Jamaica	21
+Friday_03|Park Slope	623
+Friday_04|Brownsville	17
+Friday_04|Downtown	674
+Friday_05|Borough Park	151
+Friday_05|Douglastown-Little Neck	28
+Friday_05|Fordham	12
+Friday_05|Greenwood	71
+Friday_05|South Bronx	46
+Friday_05|Spuyten Duyvil	5
+Friday_06|Bedford Park	30
+Friday_06|Corona	17
+Friday_06|High Bridge	92
+Friday_07|Carnegie Hill	20093
+Friday_07|Central Park	18862
+Friday_07|Corona	45
+Friday_07|East Brooklyn	34
+Friday_07|Gramercy	88349
+Friday_07|Harlem	8884
+Friday_07|Inwood	84
+Friday_07|Springfield Gardens	50
+Friday_07|Sunset Park	68
+Friday_07|Throggs Neck	1
+Friday_07|Upper East Side	201282
+Friday_07|Washington Heights	1616
+Friday_07|Woodhaven-Richmond Hill	48
+Friday_08|Bushwick	46
+Friday_08|Chelsea	78158
+Friday_08|Harlem	8310
+Friday_08|Inwood	95
+Friday_08|Kings Bridge	20
+Friday_08|Mapleton-Flatlands	107
+Friday_08|Riverdale	21
+Friday_08|Spuyten Duyvil	1
+Friday_08|Steinway	5
+Friday_08|Union Port	24
+Friday_08|University Heights	19
+Friday_08|West Village	28151
+Friday_09|Baychester	1
+Friday_09|Clinton	46719
+Friday_09|Country Club	3
+Friday_09|Tribeca	23335
+Friday_09|Upper East Side	211754
+Friday_10|Bedford Park	10
+Friday_10|Brownsville	13
+Friday_10|Carroll Gardens	1887
+Friday_10|Gramercy	93211
+Friday_10|Morningside Heights	7671
+Friday_10|North Sutton Area	14357
+Friday_10|Upper West Side	104158
+Friday_10|Wakefield-Williamsbridge	5
+Friday_10|Woodhaven-Richmond Hill	43
+Friday_11|Astoria-Long Island City	4301
+Friday_11|Canarsie	19
+Friday_11|Central Park	18260
+Friday_11|Greenwood	48
+Friday_11|Queens Village	2
+Friday_11|The Rockaways	2
+Friday_11|Throggs Neck	5
+Friday_12|Astoria-Long Island City	3843
+Friday_12|Carroll Gardens	1048
+Friday_12|Chelsea	81788
+Friday_12|City Island	1
+Friday_12|High Bridge	42
+Friday_12|Kings Bridge	10
+Friday_12|Middle Village	5
+Friday_12|Soundview	11
+Friday_12|Sunny Side	2888
+Friday_12|Upper West Side	104359
+Friday_12|West Village	21751
+Friday_13|Clinton	32985
+Friday_13|Financial District	28668
+Friday_13|Garment District	65407
+Friday_13|Sunset Park	18
+Friday_13|Tribeca	19044
+Friday_13|Union Port	5
+Friday_14|Bay Ridge	27
+Friday_14|Baychester	1
+Friday_14|Carroll Gardens	944
+Friday_14|East Village	25677
+Friday_14|Gravesend-Sheepshead Bay	50
+Friday_14|Maspeth	114
+Friday_14|Riverdale	8
+Friday_14|Upper West Side	110479
+Friday_15|Carnegie Hill	21979
+Friday_15|Glendale	12
+Friday_15|Greenwich Village	41133
+Friday_15|Tribeca	15569
+Friday_15|Utopia	108
+Friday_16|Bensonhurst	21
+Friday_16|Hamilton Heights	1457
+Friday_16|Maspeth	107
+Friday_16|Murray Hill	29678
+Friday_16|Woodside	439
+Friday_17|Bedford Park	13
+Friday_17|Garment District	48758
+Friday_17|North Sutton Area	14308
+Friday_18|East Brooklyn	22
+Friday_18|Fort Green	2622
+Friday_18|Morris Park	2
+Friday_18|Williams Bridge	3
+Friday_18|Woodlawn-Nordwood	2
+Friday_18|Yorkville	13560
+Friday_19|Bedford-Stuyvesant	372
+Friday_19|Boerum Hill	2463
+Friday_19|Canarsie	33
+Friday_19|Kings Bridge	11
+Friday_19|Morris Heights	36
+Friday_19|Saintalbans	7
+Friday_19|Tremont	13
+Friday_19|Washington Heights	1714
+Friday_19|West Village	42196
+Friday_20|Bay Ridge	66
+Friday_20|Bedford-Stuyvesant	497
+Friday_20|Maspeth	94
+Friday_21|Bedford Park	9
+Friday_21|Mapleton-Flatlands	86
+Friday_22|Flushing	191
+Friday_22|Greenwood	285
+Friday_22|Murray Hill	48029
+Friday_22|Spuyten Duyvil	9
+Friday_22|The Rockaways	2
+Friday_23|Bushwick	834
+Friday_23|Fort Green	10971
+Friday_23|Kings Bridge	42
+Friday_23|Steinway	2
+Friday_23|Tremont	26
+Friday_23|West Village	58221
+Monday_00|Carnegie Hill	1169
+Monday_00|Lower East Side	21674
+Monday_00|Nkew Gardens	83
+Monday_00|University Heights	12
+Monday_00|Utopia	69
+Monday_01|Battery Park	846
+Monday_01|Bay Ridge	37
+Monday_01|Bensonhurst	16
+Monday_01|Forest Hills	394
+Monday_01|Jamaica	78
+Monday_01|Murray Hill	6082
+Monday_01|Sunny Side	2286
+Monday_01|Williams Bridge	7
+Monday_01|Williamsburg	7155
+Monday_02|Flushing	55
+Monday_02|Lower East Side	11700
+Monday_02|Union Port	5
+Monday_03|Douglastown-Little Neck	9
+Monday_03|East Brooklyn	4
+Monday_03|Fordham	7
+Monday_03|Jamaica	29
+Monday_03|Morris Park	3
+Monday_03|Williams Bridge	2
+Monday_04|Boerum Hill	458
+Monday_04|Jackson Heights	1022
+Monday_04|Lower East Side	6150
+Monday_04|Saintalbans	6
+Monday_05|Hunts Point	3
+Monday_05|Williams Bridge	7
+Monday_06|Brownsville	11
+Monday_06|Chelsea	31680
+Monday_06|Jackson Heights	1208
+Monday_06|Little Italy	3168
+Monday_06|Lower East Side	8389
+Monday_07|Borough Park	234
+Monday_07|Downtown	3047
+Monday_07|Dyker Heights	6
+Monday_07|Fort Green	1223
+Monday_07|Nkew Gardens	192
+Monday_07|Queens Village	9
+Monday_07|Soho	11773
+Monday_07|South Bronx	131
+Monday_07|Woodside	2390
+Monday_08|Chelsea	72755
+Monday_08|High Bridge	120
+Monday_08|Jackson Heights	785
+Monday_08|Middle Village	15
+Monday_09|Chinatown	2181
+Monday_09|Clinton	44597
+Monday_09|Sunset Park	43
+Monday_09|Tribeca	20422
+Monday_10|Chelsea	68301
+Monday_10|Cobble Hill	850
+Monday_10|Flatbush	3
+Monday_10|Glendale	12
+Monday_10|Little Italy	4819
+Monday_10|Sunny Side	3178
+Monday_11|Borough Park	115
+Monday_11|Carnegie Hill	16814
+Monday_11|Clinton	33637
+Monday_11|Hunts Point	4
+Monday_11|Nkew Gardens	88
+Monday_11|Union Port	5
+Monday_11|Upper East Side	166970
+Monday_11|Washington Heights	1178
+Monday_12|Brownsville	15
+Monday_12|Chelsea	70035
+Monday_12|Corona	58
+Monday_12|Forest Hills	178
+Monday_12|Gravesend-Sheepshead Bay	40
+Monday_12|Riverdale	5
+Monday_12|Springfield Gardens	35
+Monday_12|University Heights	7
+Monday_13|Clinton	33011
+Monday_13|Corona	64
+Monday_13|Gramercy	81411
+Monday_13|Tribeca	17006
+Monday_13|Upper East Side	167905
+Monday_14|Bushwick	41
+Monday_14|Canarsie	14
+Monday_14|Hamilton Heights	1425
+Monday_14|Harlem	3129
+Monday_14|High Bridge	49
+Monday_14|Inwood	49
+Monday_14|Maspeth	134
+Monday_14|Steinway	1
+Monday_15|Dyker Heights	10
+Monday_15|Garment District	62993
+Monday_15|Morningside Heights	9384
+Monday_15|Mott Haven	190
+Monday_15|Sunset Park	35
+Monday_15|Upper East Side	186754
+Monday_16|Auburndale	4
+Monday_16|Clearview	2
+Monday_16|Greenwich Village	36603
+Monday_16|Yorkville	9676
+Monday_17|Ridgewood	13
+Monday_17|Upper East Side	188251
+Monday_18|Bensonhurst	12
+Monday_18|Borough Park	115
+Monday_18|Flatbush	4
+Monday_18|Glendale	8
+Monday_18|Hamilton Heights	1793
+Monday_18|Murray Hill	55537
+Monday_18|North Sutton Area	15546
+Monday_18|Woodhaven-Richmond Hill	26
+Monday_19|Bedford Park	15
+Monday_19|Garment District	82709
+Monday_19|Park Slope	1240
+Monday_19|Springfield Gardens	37
+Monday_19|Tremont	9
+Monday_20|High Bridge	49
+Monday_21|Fort Green	3706
+Monday_21|Parkchester	41
+Monday_21|Soho	34306
+Monday_21|Sunset Park	25
+Monday_21|Tremont	21
+Monday_21|Utopia	75
+Monday_21|Woodhaven-Richmond Hill	26
+Monday_22|Borough Park	89
+Monday_22|Downtown	2795
+Monday_22|East Brooklyn	28
+Monday_22|Wakefield-Williamsbridge	4
+Monday_22|Woodside	364
+Monday_22|Yorkville	5361
+Monday_23|Astoria-Long Island City	4984
+Monday_23|Bedford Park	6
+Monday_23|Bedford-Stuyvesant	766
+Monday_23|Tremont	23
+Monday_23|Washington Heights	1214
+Saturday_00|Borough Park	206
+Saturday_00|Carnegie Hill	3583
+Saturday_00|Clinton	56070
+Saturday_00|Downtown	5138
+Saturday_00|Morris Park	28
+Saturday_00|Parkchester	38
+Saturday_00|Riverdale	13
+Saturday_00|Tribeca	30148
+Saturday_00|Upper East Side	98335
+Saturday_00|Woodside	890
+Saturday_01|Bedford Park	17
+Saturday_01|Boerum Hill	5480
+Saturday_01|Maspeth	177
+Saturday_01|Queens Village	8
+Saturday_01|Saintalbans	11
+Saturday_02|Bedford-Stuyvesant	2513
+Saturday_02|Central Park	2642
+Saturday_02|Middle Village	61
+Saturday_02|Sunny Side	4251
+Saturday_02|Throggs Neck	10
+Saturday_02|Washington Heights	1469
+Saturday_03|East Brooklyn	38
+Saturday_03|Flushing	149
+Saturday_03|Kings Bridge	51
+Saturday_03|Mapleton-Flatlands	164
+Saturday_03|Union Port	13
+Saturday_03|West Village	55424
+Saturday_04|Baychester	3
+Saturday_04|Clearview	3
+Saturday_04|Country Club	12
+Saturday_04|Hamilton Heights	1777
+Saturday_04|South Bronx	143
+Saturday_04|Yorkville	2266
+Saturday_05|City Island	1
+Saturday_05|Douglastown-Little Neck	27
+Saturday_05|East Village	17846
+Saturday_05|Garment District	15147
+Saturday_05|Ridgewood	89
+Saturday_06|Cobble Hill	372
+Saturday_06|Soho	3610
+Saturday_06|Tremont	24
+Saturday_07|Corona	11
+Saturday_07|Financial District	8194
+Saturday_07|Midtown	45711
+Saturday_07|Wakefield-Williamsbridge	1
+Saturday_07|Woodhaven-Richmond Hill	77
+Saturday_08|Astoria-Long Island City	7682
+Saturday_08|Bedford Park	13
+Saturday_08|Brownsville	8
+Saturday_08|Chinatown	1399
+Saturday_08|Downtown	1978
+Saturday_08|Harlem	5392
+Saturday_08|Inwood	81
+Saturday_08|Woodside	1419
+Saturday_09|East Harlem	4788
+Saturday_09|Laurelton	3
+Saturday_09|Morris Heights	46
+Saturday_09|Soundview	13
+Saturday_10|Jackson Heights	939
+Saturday_10|Lower East Side	16005
+Saturday_10|South Bronx	57
+Saturday_10|Tremont	20
+Saturday_10|Woodhaven-Richmond Hill	45
+Saturday_10|Yorkville	11149
+Saturday_11|Carnegie Hill	14330
+Saturday_11|City Island	1
+Saturday_11|East Brooklyn	21
+Saturday_11|Flatbush	2
+Saturday_11|Glendale	21
+Saturday_11|High Bridge	94
+Saturday_11|Midtown	175952
+Saturday_11|Williams Bridge	3
+Saturday_12|Bedford Park	4
+Saturday_12|Cobble Hill	971
+Saturday_12|Jackson Heights	605
+Saturday_12|Lower East Side	20629
+Saturday_12|Spuyten Duyvil	2
+Saturday_13|Central Park	22459
+Saturday_13|Fort Green	2631
+Saturday_13|Springfield Gardens	34
+Saturday_13|Throggs Neck	9
+Saturday_13|Williams Bridge	4
+Saturday_14|Bedford-Stuyvesant	246
+Saturday_14|Chinatown	5116
+Saturday_14|Gramercy	96166
+Saturday_14|Greenwich Village	58611
+Saturday_14|Jackson Heights	433
+Saturday_14|Kings Bridge	17
+Saturday_14|Lower East Side	22607
+Saturday_14|West Village	28693
+Saturday_15|Bensonhurst	11
+Saturday_15|Bushwick	66
+Saturday_15|Canarsie	26
+Saturday_15|Clearview	2
+Saturday_15|Country Club	1
+Saturday_15|Dyker Heights	4
+Saturday_15|East Harlem	4124
+Saturday_15|Laurelton	4
+Saturday_15|Mapleton-Flatlands	118
+Saturday_15|Soundview	18
+Saturday_15|Spuyten Duyvil	8
+Saturday_15|Steinway	9
+Saturday_15|Utopia	122
+Saturday_16|Battery Park	9310
+Saturday_16|East Village	31913
+Saturday_16|Jackson Heights	582
+Saturday_16|Morningside Heights	6996
+Saturday_16|Mott Haven	222
+Saturday_16|North Sutton Area	9962
+Saturday_16|Williamsburg	3601
+Saturday_17|Auburndale	2
+Saturday_17|Bay Ridge	40
+Saturday_17|Morris Park	27
+Saturday_17|Parkchester	28
+Saturday_18|Boerum Hill	2681
+Saturday_18|Queensboro Hill	17
+Saturday_18|Saintalbans	9
+Saturday_18|Spuyten Duyvil	9
+Saturday_19|Financial District	32078
+Saturday_19|Flatbush	6
+Saturday_19|Glendale	19
+Saturday_19|Greenwood	206
+Saturday_20|Battery Park	10877
+Saturday_20|Chinatown	7056
+Saturday_20|East Village	66699
+Saturday_20|Financial District	30297
+Saturday_20|Garment District	70232
+Saturday_20|Soho	39479
+Saturday_20|Williamsburg	10393
+Saturday_21|Bensonhurst	16
+Saturday_21|Clearview	2
+Saturday_21|East Harlem	3884
+Saturday_21|Gravesend-Sheepshead Bay	40
+Saturday_21|Laurelton	3
+Saturday_21|Mott Haven	213
+Saturday_21|Murray Hill	43175
+Saturday_21|Upper East Side	156193
+Saturday_22|Auburndale	2
+Saturday_22|East Brooklyn	23
+Saturday_22|Ridgewood	85
+Saturday_23|Downtown	5317
+Saturday_23|Hamilton Heights	3078
+Saturday_23|Morris Park	20
+Saturday_23|Upper East Side	142811
+Saturday_23|Woodside	812
+Sunday_00|Greenwood	760
+Sunday_00|Hunts Point	22
+Sunday_00|Mapleton-Flatlands	150
+Sunday_01|Borough Park	249
+Sunday_01|Brownsville	43
+Sunday_01|Park Slope	7673
+Sunday_01|Spuyten Duyvil	12
+Sunday_02|Bedford Park	21
+Sunday_02|Flatbush	2
+Sunday_02|Glendale	41
+Sunday_02|The Rockaways	7
+Sunday_03|Central Park	2012
+Sunday_03|City Island	2
+Sunday_03|High Bridge	86
+Sunday_03|Riverdale	32
+Sunday_03|Throggs Neck	19
+Sunday_03|Woodside	1198
+Sunday_04|Financial District	5860
+Sunday_04|Kings Bridge	56
+Sunday_04|Sunset Park	181
+Sunday_04|West Village	29969
+Sunday_05|Country Club	6
+Sunday_05|Gramercy	19588
+Sunday_05|Jamaica	128
+Sunday_05|Sunny Side	2628
+Sunday_05|Upper East Side	16546
+Sunday_06|Battery Park	1455
+Sunday_06|Canarsie	20
+Sunday_06|Carnegie Hill	1541
+Sunday_06|East Village	11630
+Sunday_06|Soho	3208
+Sunday_06|Union Port	8
+Sunday_07|Baychester	1
+Sunday_07|Bensonhurst	14
+Sunday_07|East Harlem	2988
+Sunday_07|Fordham	12
+Sunday_07|Jamaica	163
+Sunday_07|Murray Hill	9166
+Sunday_07|Upper East Side	41997
+Sunday_07|Yorkville	5754
+Sunday_08|Hamilton Heights	1837
+Sunday_08|Ridgewood	7
+Sunday_09|Bedford Park	11
+Sunday_09|Corona	39
+Sunday_09|East Brooklyn	26
+Sunday_09|Garment District	31415
+Sunday_09|Morris Park	7
+Sunday_09|Upper East Side	101244
+Sunday_10|Carroll Gardens	2352
+Sunday_10|East Village	28638
+Sunday_10|Hamilton Heights	2531
+Sunday_10|Harlem	8073
+Sunday_10|Inwood	53
+Sunday_10|North Sutton Area	11438
+Sunday_10|Parkchester	37
+Sunday_10|Steinway	2
+Sunday_10|Sunny Side	4338
+Sunday_10|Sunset Park	71
+Sunday_10|Upper West Side	102886
+Sunday_11|Bedford-Stuyvesant	298
+Sunday_11|Fordham	15
+Sunday_11|Garment District	55885
+Sunday_11|Gravesend-Sheepshead Bay	59
+Sunday_11|Jamaica	173
+Sunday_11|Union Port	20
+Sunday_12|Carroll Gardens	2196
+Sunday_12|Mapleton-Flatlands	69
+Sunday_12|Morningside Heights	8558
+Sunday_12|Morris Heights	12
+Sunday_12|Upper West Side	120287
+Sunday_13|Bedford Park	10
+Sunday_13|Bensonhurst	17
+Sunday_13|Murray Hill	37576
+Sunday_13|Woodhaven-Richmond Hill	34
+Sunday_13|Yorkville	9705
+Sunday_14|Chelsea	81215
+Sunday_14|Downtown	3110
+Sunday_15|Clinton	38283
+Sunday_15|Greenwich Village	49459
+Sunday_15|Kings Bridge	17
+Sunday_15|Little Italy	9512
+Sunday_15|Morris Heights	24
+Sunday_15|Morris Park	15
+Sunday_15|West Village	25084
+Sunday_16|Boerum Hill	1479
+Sunday_16|Chelsea	67840
+Sunday_16|Country Club	2
+Sunday_16|Financial District	23863
+Sunday_16|Fort Green	2412
+Sunday_16|Nkew Gardens	155
+Sunday_16|Saintalbans	6
+Sunday_17|Battery Park	8990
+Sunday_17|Carnegie Hill	11766
+Sunday_17|Chinatown	4450
+Sunday_17|Clinton	37969
+Sunday_17|Flushing	299
+Sunday_17|Forest Hills	321
+Sunday_17|Hunts Point	11
+Sunday_17|North Sutton Area	11258
+Sunday_17|Tribeca	16217
+Sunday_17|Utopia	97
+Sunday_17|Williamsburg	4659
+Sunday_18|Brownsville	6
+Sunday_18|Bushwick	163
+Sunday_18|Clearview	3
+Sunday_18|Douglastown-Little Neck	21
+Sunday_18|Laurelton	8
+Sunday_18|Maspeth	153
+Sunday_18|Soundview	27
+Sunday_18|Steinway	5
+Sunday_18|Utopia	76
+Sunday_18|Williams Bridge	9
+Sunday_19|Lower East Side	23779
+Sunday_19|Morningside Heights	6907
+Sunday_19|Mott Haven	192
+Sunday_19|Soho	29615
+Sunday_19|South Bronx	32
+Sunday_20|Chelsea	74837
+Sunday_20|Country Club	3
+Sunday_20|Gramercy	82181
+Sunday_20|Nkew Gardens	128
+Sunday_20|Wakefield-Williamsbridge	1
+Sunday_20|Washington Heights	1267
+Sunday_21|Astoria-Long Island City	5017
+Sunday_21|Battery Park	5225
+Sunday_21|Canarsie	15
+Sunday_21|Clinton	34254
+Sunday_21|Douglastown-Little Neck	15
+Sunday_21|East Village	44775
+Sunday_21|Forest Hills	323
+Sunday_21|Fort Green	4253
+Sunday_21|The Rockaways	3
+Sunday_21|Tribeca	15939
+Sunday_21|University Heights	6
+Sunday_21|Williamsburg	7782
+Sunday_22|Maspeth	124
+Sunday_23|Chinatown	3884
+Sunday_23|Hunts Point	7
+Thursday_00|Carnegie Hill	1578
+Thursday_00|East Village	50272
+Thursday_00|Hamilton Heights	1492
+Thursday_00|Morris Park	12
+Thursday_01|Boerum Hill	1957
+Thursday_01|Chinatown	3425
+Thursday_01|Flatbush	2
+Thursday_01|Garment District	22364
+Thursday_01|Glendale	15
+Thursday_01|Saintalbans	5
+Thursday_02|Hunts Point	4
+Thursday_02|Jamaica	48
+Thursday_02|Laurelton	3
+Thursday_02|Queens Village	1
+Thursday_02|Soundview	14
+Thursday_02|Williams Bridge	3
+Thursday_02|Woodlawn-Nordwood	5
+Thursday_03|Bedford Park	8
+Thursday_03|Fort Green	845
+Thursday_03|Middle Village	14
+Thursday_03|Soho	4279
+Thursday_04|Bay Ridge	26
+Thursday_04|Dyker Heights	11
+Thursday_04|Fordham	13
+Thursday_04|Gramercy	10794
+Thursday_04|Jamaica	39
+Thursday_04|South Bronx	35
+Thursday_04|Williams Bridge	2
+Thursday_05|Canarsie	13
+Thursday_05|High Bridge	38
+Thursday_05|Little Italy	1349
+Thursday_05|Lower East Side	5262
+Thursday_05|Queens Village	19
+Thursday_05|West Village	4952
+Thursday_06|Cobble Hill	1017
+Thursday_06|Fordham	4
+Thursday_06|Greenwood	142
+Thursday_06|Middle Village	54
+Thursday_06|Nkew Gardens	169
+Thursday_06|Park Slope	260
+Thursday_06|Williams Bridge	4
+Thursday_07|Battery Park	17323
+Thursday_07|Chelsea	60993
+Thursday_07|Forest Hills	855
+Thursday_07|Jackson Heights	1123
+Thursday_07|Lower East Side	13289
+Thursday_07|Washington Heights	1490
+Thursday_07|Williamsburg	1968
+Thursday_08|Queens Village	7
+Thursday_08|University Heights	15
+Thursday_09|Bensonhurst	10
+Thursday_09|Chelsea	94200
+Thursday_09|East Harlem	3232
+Thursday_09|Glendale	15
+Thursday_09|Jackson Heights	641
+Thursday_09|Lower East Side	16869
+Thursday_09|Middle Village	14
+Thursday_09|Riverdale	16
+Thursday_09|The Rockaways	7
+Thursday_10|Bay Ridge	26
+Thursday_10|Corona	67
+Thursday_10|Country Club	4
+Thursday_10|Fordham	5
+Thursday_10|Nkew Gardens	98
+Thursday_11|Battery Park	11937
+Thursday_11|Chelsea	75774
+Thursday_11|East Brooklyn	17
+Thursday_11|Forest Hills	228
+Thursday_11|Harlem	2831
+Thursday_11|High Bridge	52
+Thursday_11|Inwood	29
+Thursday_11|Mott Haven	147
+Thursday_11|Williamsburg	1231
+Thursday_12|Auburndale	11
+Thursday_12|Gravesend-Sheepshead Bay	43
+Thursday_12|Greenwood	56
+Thursday_12|Sunset Park	39
+Thursday_13|Chelsea	79376
+Thursday_13|Downtown	2035
+Thursday_13|Springfield Gardens	37
+Thursday_13|Woodside	527
+Thursday_14|Clinton	32133
+Thursday_14|Greenwich Village	43735
+Thursday_14|Tribeca	19798
+Thursday_14|Upper East Side	195284
+Thursday_15|Bensonhurst	12
+Thursday_15|Dyker Heights	23
+Thursday_15|East Harlem	2702
+Thursday_15|Maspeth	124
+Thursday_15|Riverdale	6
+Thursday_15|Sunny Side	2955
+Thursday_16|Flushing	203
+Thursday_16|Little Italy	5979
+Thursday_16|Morningside Heights	9723
+Thursday_16|Union Port	7
+Thursday_16|Upper East Side	148532
+Thursday_17|Borough Park	168
+Thursday_17|Bushwick	35
+Thursday_17|Hamilton Heights	1951
+Thursday_17|Morris Park	14
+Thursday_17|Nkew Gardens	98
+Thursday_17|Parkchester	53
+Thursday_17|Steinway	1
+Thursday_18|Boerum Hill	1416
+Thursday_18|Forest Hills	196
+Thursday_18|Garment District	60044
+Thursday_18|Saintalbans	6
+Thursday_18|Upper East Side	235711
+Thursday_18|Utopia	97
+Thursday_19|Spuyten Duyvil	5
+Thursday_19|Utopia	86
+Thursday_19|Washington Heights	1279
+Thursday_19|Woodhaven-Richmond Hill	38
+Thursday_19|Yorkville	12585
+Thursday_20|Bushwick	151
+Thursday_20|Canarsie	22
+Thursday_20|Douglastown-Little Neck	16
+Thursday_20|Little Italy	18414
+Thursday_20|Middle Village	21
+Thursday_20|Park Slope	2159
+Thursday_20|Washington Heights	1456
+Thursday_21|Bay Ridge	46
+Thursday_21|Bensonhurst	15
+Thursday_21|Carroll Gardens	2727
+Thursday_21|Mapleton-Flatlands	78
+Thursday_21|Murray Hill	55476
+Thursday_21|Nkew Gardens	99
+Thursday_21|Riverdale	17
+Thursday_21|University Heights	20
+Thursday_21|Upper West Side	120226
+Thursday_21|Wakefield-Williamsbridge	6
+Thursday_22|Astoria-Long Island City	5173
+Thursday_22|East Brooklyn	23
+Thursday_22|Forest Hills	375
+Thursday_22|Queens Village	2
+Thursday_22|Williamsburg	12501
+Thursday_22|Woodhaven-Richmond Hill	33
+Thursday_23|Dyker Heights	23
+Thursday_23|Middle Village	42
+Thursday_23|Morris Park	14
+Thursday_23|North Sutton Area	12822
+Tuesday_00|Country Club	3
+Tuesday_00|Fordham	6
+Tuesday_00|Hamilton Heights	1378
+Tuesday_00|Mapleton-Flatlands	79
+Tuesday_00|Mott Haven	182
+Tuesday_00|Nkew Gardens	97
+Tuesday_01|Auburndale	5
+Tuesday_01|Battery Park	1288
+Tuesday_01|Bay Ridge	50
+Tuesday_01|Boerum Hill	1534
+Tuesday_01|Carnegie Hill	758
+Tuesday_01|Forest Hills	519
+Tuesday_01|Garment District	18618
+Tuesday_01|Saintalbans	8
+Tuesday_01|Utopia	66
+Tuesday_01|Williamsburg	6546
+Tuesday_02|Gramercy	16013
+Tuesday_02|Hunts Point	4
+Tuesday_03|Brownsville	20
+Tuesday_03|Bushwick	271
+Tuesday_03|Canarsie	12
+Tuesday_03|Chelsea	13747
+Tuesday_03|Greenwood	77
+Tuesday_03|North Sutton Area	1162
+Tuesday_03|Soho	3179
+Tuesday_03|Spuyten Duyvil	3
+Tuesday_04|Clinton	6362
+Tuesday_04|East Brooklyn	10
+Tuesday_04|Financial District	2434
+Tuesday_04|Park Slope	278
+Tuesday_04|Tribeca	2207
+Tuesday_04|Woodlawn-Nordwood	8
+Tuesday_05|Dyker Heights	3
+Tuesday_05|High Bridge	62
+Tuesday_05|Maspeth	64
+Tuesday_06|Clinton	26776
+Tuesday_06|Little Italy	3254
+Tuesday_06|Riverdale	2
+Tuesday_06|Spuyten Duyvil	1
+Tuesday_06|Sunset Park	35
+Tuesday_06|Tribeca	11337
+Tuesday_07|Borough Park	288
+Tuesday_07|Flatbush	3
+Tuesday_07|Glendale	30
+Tuesday_07|Maspeth	105
+Tuesday_07|Nkew Gardens	229
+Tuesday_07|Springfield Gardens	67
+Tuesday_07|Washington Heights	1339
+Tuesday_08|Forest Hills	874
+Tuesday_08|Sunny Side	5885
+Tuesday_08|University Heights	13
+Tuesday_08|Upper East Side	239861
+Tuesday_09|Bensonhurst	11
+Tuesday_09|East Harlem	2943
+Tuesday_09|Murray Hill	57277
+Tuesday_09|Spuyten Duyvil	6
+Tuesday_09|Union Port	13
+Tuesday_10|Auburndale	2
+Tuesday_10|Gravesend-Sheepshead Bay	25
+Tuesday_10|Little Italy	5402
+Tuesday_10|Middle Village	6
+Tuesday_10|Morningside Heights	6529
+Tuesday_10|Soundview	15
+Tuesday_10|Tribeca	19506
+Tuesday_11|Carroll Gardens	1023
+Tuesday_11|Downtown	1981
+Tuesday_11|High Bridge	40
+Tuesday_11|Maspeth	107
+Tuesday_11|Nkew Gardens	90
+Tuesday_11|Upper West Side	100333
+Tuesday_11|Woodside	706
+Tuesday_12|East Brooklyn	16
+Tuesday_12|Forest Hills	195
+Tuesday_12|Parkchester	38
+Tuesday_12|Queens Village	3
+Tuesday_12|Riverdale	6
+Tuesday_12|Sunset Park	22
+Tuesday_12|Williamsburg	1323
+Tuesday_13|Carroll Gardens	720
+Tuesday_13|Corona	55
+Tuesday_13|Middle Village	9
+Tuesday_13|Sunny Side	2921
+Tuesday_13|Upper West Side	97934
+Tuesday_14|Corona	63
+Tuesday_14|Flushing	153
+Tuesday_14|Tremont	13
+Tuesday_14|Union Port	16
+Tuesday_15|Baychester	1
+Tuesday_15|Bensonhurst	17
+Tuesday_15|Carroll Gardens	792
+Tuesday_15|Harlem	2868
+Tuesday_15|Inwood	44
+Tuesday_15|Midtown	217890
+Tuesday_15|Murray Hill	44316
+Tuesday_15|Upper West Side	109428
+Tuesday_16|Dyker Heights	11
+Tuesday_16|Tremont	9
+Tuesday_16|Yorkville	9566
+Tuesday_17|Hamilton Heights	1858
+Tuesday_17|Midtown	215413
+Tuesday_17|Morris Park	6
+Tuesday_18|Boerum Hill	1365
+Tuesday_18|Borough Park	99
+Tuesday_18|Garment District	69815
+Tuesday_18|Saintalbans	6
+Tuesday_18|Woodhaven-Richmond Hill	30
+Tuesday_19|Downtown	4113
+Tuesday_19|Fort Green	2519
+Tuesday_19|Hunts Point	12
+Tuesday_19|Washington Heights	1324
+Tuesday_19|Williams Bridge	5
+Tuesday_19|Woodside	370
+Tuesday_20|Carnegie Hill	12375
+Tuesday_20|Spuyten Duyvil	12
+Tuesday_20|Wakefield-Williamsbridge	5
+Tuesday_20|Washington Heights	1427
+Tuesday_21|Astoria-Long Island City	3871
+Tuesday_21|Midtown	320277
+Tuesday_21|Murray Hill	52164
+Tuesday_21|University Heights	20
+Tuesday_21|Woodhaven-Richmond Hill	33
+Tuesday_22|Borough Park	135
+Tuesday_22|Flatbush	2
+Tuesday_22|Glendale	17
+Tuesday_22|Utopia	81
+Tuesday_23|East Brooklyn	19
+Tuesday_23|Greenwich Village	69279
+Tuesday_23|Spuyten Duyvil	12
+Wednesday_00|Carroll Gardens	2095
+Wednesday_00|Chinatown	3477
+Wednesday_00|Flatbush	1
+Wednesday_00|Garment District	33651
+Wednesday_00|Glendale	11
+Wednesday_00|Kings Bridge	19
+Wednesday_00|West Village	32098
+Wednesday_01|Cobble Hill	161
+Wednesday_01|Country Club	6
+Wednesday_01|Laurelton	3
+Wednesday_01|Morris Heights	17
+Wednesday_01|Mott Haven	151
+Wednesday_01|Soundview	12
+Wednesday_02|Auburndale	3
+Wednesday_02|Battery Park	539
+Wednesday_02|Dyker Heights	2
+Wednesday_02|East Village	20536
+Wednesday_02|Hunts Point	6
+Wednesday_03|Bay Ridge	32
+Wednesday_03|Brownsville	14
+Wednesday_03|Gramercy	9420
+Wednesday_03|Utopia	24
+Wednesday_03|Washington Heights	259
+Wednesday_04|Canarsie	13
+Wednesday_04|Greenwich Village	9453
+Wednesday_04|University Heights	10
+Wednesday_04|Utopia	31
+Wednesday_04|Williams Bridge	2
+Wednesday_05|Greenwood	53
+Wednesday_05|High Bridge	60
+Wednesday_05|Lower East Side	4740
+Wednesday_05|Park Slope	187
+Wednesday_05|Sunny Side	2136
+Wednesday_06|North Sutton Area	8112
+Wednesday_06|Parkchester	31
+Wednesday_06|Sunset Park	33
+Wednesday_06|Union Port	26
+Wednesday_06|Wakefield-Williamsbridge	2
+Wednesday_06|Williams Bridge	4
+Wednesday_07|Astoria-Long Island City	8003
+Wednesday_07|Jackson Heights	1169
+Wednesday_07|Little Italy	4857
+Wednesday_07|Lower East Side	13116
+Wednesday_07|Woodlawn-Nordwood	2
+Wednesday_08|Flatbush	3
+Wednesday_08|Fordham	9
+Wednesday_08|Glendale	23
+Wednesday_08|Jamaica	265
+Wednesday_08|Nkew Gardens	210
+Wednesday_08|Riverdale	16
+Wednesday_08|Williams Bridge	7
+Wednesday_09|Battery Park	19568
+Wednesday_09|Bensonhurst	8
+Wednesday_09|Forest Hills	523
+Wednesday_09|Jackson Heights	565
+Wednesday_09|Lower East Side	16979
+Wednesday_09|Murray Hill	58891
+Wednesday_09|Williamsburg	1669
+Wednesday_09|Woodside	1266
+Wednesday_10|East Harlem	2425
+Wednesday_10|Morningside Heights	6930
+Wednesday_10|Park Slope	202
+Wednesday_11|Greenwood	47
+Wednesday_11|Little Italy	5415
+Wednesday_11|West Village	20391
+Wednesday_12|Country Club	3
+Wednesday_12|Downtown	2063
+Wednesday_12|Fordham	12
+Wednesday_12|Jamaica	223
+Wednesday_12|Nkew Gardens	104
+Wednesday_12|Parkchester	36
+Wednesday_12|Sunset Park	27
+Wednesday_12|Woodhaven-Richmond Hill	20
+Wednesday_12|Woodside	637
+Wednesday_13|Battery Park	10448
+Wednesday_13|Dyker Heights	7
+Wednesday_13|Forest Hills	288
+Wednesday_13|Williamsburg	1322
+Wednesday_14|Fordham	5
+Wednesday_14|Riverdale	8
+Wednesday_14|Springfield Gardens	53
+Wednesday_14|Sunny Side	3082
+Wednesday_14|Upper East Side	196082
+Wednesday_15|Bedford-Stuyvesant	113
+Wednesday_15|Flushing	175
+Wednesday_15|Murray Hill	42283
+Wednesday_15|Union Port	6
+Wednesday_15|Washington Heights	1220
+Wednesday_16|Baychester	1
+Wednesday_16|Bushwick	15
+Wednesday_16|Corona	61
+Wednesday_16|Hamilton Heights	1167
+Wednesday_16|Mapleton-Flatlands	106
+Wednesday_16|Steinway	3
+Wednesday_16|University Heights	9
+Wednesday_16|Upper East Side	153968
+Wednesday_17|Chelsea	79180
+Wednesday_17|Douglastown-Little Neck	20
+Wednesday_17|Garment District	49453
+Wednesday_17|Harlem	5405
+Wednesday_17|Inwood	26
+Wednesday_17|Middle Village	11
+Wednesday_17|Morningside Heights	12748
+Wednesday_18|Clinton	39517
+Wednesday_18|Cobble Hill	772
+Wednesday_18|Little Italy	12266
+Wednesday_18|The Rockaways	3
+Wednesday_18|Tribeca	25274
+Wednesday_18|Upper East Side	235467
+Wednesday_18|Yorkville	13334
+Wednesday_19|Borough Park	125
+Wednesday_19|Hunts Point	12
+Wednesday_19|Maspeth	105
+Wednesday_19|Nkew Gardens	114
+Wednesday_19|Queens Village	6
+Wednesday_19|Ridgewood	13
+Wednesday_19|Woodhaven-Richmond Hill	36
+Wednesday_20|Bay Ridge	35
+Wednesday_20|Douglastown-Little Neck	20
+Wednesday_20|Gravesend-Sheepshead Bay	45
+Wednesday_20|Riverdale	20
+Wednesday_20|Union Port	7
+Wednesday_21|Baychester	1
+Wednesday_21|Carroll Gardens	2315
+Wednesday_21|Chelsea	107128
+Wednesday_21|Dyker Heights	10
+Wednesday_21|Financial District	34766
+Wednesday_21|North Sutton Area	15820
+Wednesday_21|Upper West Side	111599
+Wednesday_22|Clinton	49815
+Wednesday_22|Little Italy	20079
+Wednesday_22|South Bronx	46
+Wednesday_22|Tribeca	35172
+Wednesday_23|Borough Park	150
+Wednesday_23|Carroll Gardens	3051
+Wednesday_23|Flatbush	4
+Wednesday_23|Glendale	15
+Wednesday_23|Maspeth	113
+Wednesday_23|Nkew Gardens	144
